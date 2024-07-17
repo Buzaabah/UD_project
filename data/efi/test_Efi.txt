@@ -1,7 +1,6 @@
 nnọ VERB
 ufan NOUN
 esie PRON
-
 kiet NUM
 eke PRON
 enye PRON
@@ -42,7 +41,6 @@ enye PRON
 asuan VERB
 enyịn NOUN
 oyom VERB
-
 owo NOUN
 emi PRON
 enye PRON
@@ -61,7 +59,6 @@ esie PRON
 
 Edi VERB
 ata ADV
-
 akpanikọ NOUN
 ete VERB
 , PUNCT
@@ -82,7 +79,6 @@ itie NOUN
 nte ADV
 Esukwa NOUN
 , PUNCT
-
 enye PRON
 isikemeke VERB
 aba NUM
@@ -102,7 +98,6 @@ ini NOUN
 emi PRON
 ọfiọñ PROPN
 eketide VERB
-
 mbet NOUN
 emi PRON
 , PUNCT
@@ -122,7 +117,6 @@ akpanikọ NOUN
 . PUNCT
 
 Ke ADP
-
 emi PRON
 , PUNCT
 ntinya NOUN
@@ -141,7 +135,6 @@ Ndien CCONJ
 ñkpọ NOUN
 efen PRON
 ikoduhe VERB
-
 ibọhọke VERB
 mkpa ADV
 mkpa ADV
@@ -161,7 +154,6 @@ Kpa ADV
 ke ADP
 ndo ADV
 ndo ADV
-
 oro PRON
 , PUNCT
 kpukpru ADV
@@ -180,7 +172,6 @@ esie PRON
 ye CCONJ
 Ekeñwe PROPN
 ye CCONJ
-
 Ita PROPN
 Abasi PROPN
 ye CCONJ
@@ -201,7 +192,6 @@ esit NOUN
 Ndien CCONJ
 ata ADJ
 ọkpọsọñ ADJ
-
 ndot ADV
 ndot ADV
 usua NOUN
@@ -223,7 +213,6 @@ ke ADP
 ini NOUN
 emi PRON
 enye PRON
-
 akabarede VERB
 edi VERB
 asua NOUN
@@ -243,7 +232,6 @@ nte ADV
 utọ NOUN
 asua NOUN
 oro PRON
-
 iduhe VERB
 . PUNCT
 
@@ -263,7 +251,6 @@ ama VERB
 ekebiere VERB
 ndisua VERB
 Ita PROPN
-
 Abasi PROPN
 ye CCONJ
 ofuri ADV
@@ -283,7 +270,6 @@ ndikabarede VERB
 obio NOUN
 oro PRON
 iso NOUN
-
 ñkibi VERB
 ke ADP
 isọñ NOUN
@@ -353,7 +339,6 @@ odotde ADJ
 . PUNCT
 
 ọfiọñ PROPN
-
 Ambo PROPN
 Eta PROPN
 ama VERB
@@ -372,7 +357,6 @@ ke ADP
 ndañ NOUN
 nsiere ADV
 usen NOUN
-
 emi PRON
 esop NOUN
 Nditọ NOUN
@@ -390,7 +374,6 @@ ebine VERB
 Ete NOUN
 esie PRON
 Ambo PROPN
-
 Eta PROPN
 , PUNCT
 akabiaña VERB
@@ -410,7 +393,6 @@ ikọtọñọ VERB
 nditim VERB
 idem NOUN
 ke ADP
-
 abaña ADJ
 emi PRON
 ini NOUN
@@ -429,7 +411,6 @@ idaresit NOUN
 , PUNCT
 ọkọm VERB
 enye PRON
-
 onyuñ CCONJ
 ebeñe VERB
 enye PRON
@@ -448,7 +429,6 @@ esinede VERB
 enye PRON
 ke ADP
 ubọk NOUN
-
 ndinam VERB
 nte ADV
 obufa ADJ
@@ -474,7 +454,6 @@ esie PRON
 enye PRON
 obiom VERB
 kpukpru ADV
-
 okuk NOUN
 ye CCONJ
 inyene NOUN
@@ -497,7 +476,6 @@ mfak VERB
 
 Ewe PRON
 obio NOUN
-
 ọkọsuhọ VERB
 emi PRON
 enye PRON
@@ -518,7 +496,6 @@ Ibibio NOUN
 , PUNCT
 ọfiọñ PROPN
 Ambo PROPN
-
 Eta PROPN
 ama VERB
 asaña VERB
@@ -537,7 +514,6 @@ ini NOUN
 emi PRON
 enye PRON
 ama VERB
-
 ekenyene PRON
 ibọk NOUN
 nte ADV
@@ -558,7 +534,6 @@ esie PRON
 
 Do ADV
 ke ADP
-
 enye PRON
 eketie VERB
 ọtọñọ VERB
@@ -578,7 +553,6 @@ Abana PROPN
 . PUNCT
 
 Edi VERB
-
 nte ADV
 mme PRON
 ubom NOUN
@@ -599,7 +573,6 @@ usen NOUN
 ekesuk VERB
 ebuk VERB
 mbuk NOUN
-
 nsọñ ADJ
 idem NOUN
 Ambo PROPN
@@ -631,7 +604,6 @@ emi PRON
 . PUNCT
 
 Ke ADP
-
 okoneyo NOUN
 usen NOUN
 kiet NUM
@@ -652,7 +624,6 @@ wap ADJ
 ọtọñọ VERB
 nditiñ VERB
 ikọ NOUN
-
 nnyuñ CCONJ
 nnam VERB
 ñkpọ NOUN
@@ -673,7 +644,6 @@ ntem PRON
 nte ADV
 ndige VERB
 eyen NOUN
-
 eden NOUN
 owo NOUN
 ! PUNCT
@@ -721,7 +691,6 @@ uka NOUN
 Nso PRON
 ikaman VERB
 mkpọñ NOUN
-
 mkpọñ NOUN
 amande VERB
 mbọ VERB
@@ -743,7 +712,6 @@ ye CCONJ
 ufene NOUN
 ye CCONJ
 ubom NOUN
-
 emi PRON
 nnọde VERB
 enye PRON
@@ -762,7 +730,6 @@ Anie PRON
 ekeme VERB
 ndibat VERB
 ekpuk NOUN
-
 ‘ PUNCT
 Mma PRON
 mbiatke VERB
@@ -794,7 +761,6 @@ Ambo PROPN
 Eta PROPN
 anam VERB
 nso PRON
-
 ọnọ CCONJ
 mi PRON
 ? PUNCT
@@ -842,7 +808,6 @@ ami PRON
 ndi VERB
 akamba ADJ
 owo NOUN
-
 nnọ VERB
 Ete NOUN
 esie PRON
@@ -895,10 +860,10 @@ ukpọk ADV
 mbọñ NOUN
 emi PRON
 edude VERB
-
 ke ADP
 esit NOUN
-1 NUM
+
+
 Mikpedige VERB
 ami PRON
 , PUNCT
@@ -915,7 +880,6 @@ nte PRON
 owo NOUN
 ofut VERB
 mbri NOUN
-
 ada VERB
 adaha VERB
 . PUNCT
@@ -1012,7 +976,6 @@ ke ADP
 obot NOUN
 , PUNCT
 ami PRON
-
 ke PRON
 mmọñ PRON
 , PUNCT
@@ -1039,7 +1002,6 @@ obuma NOUN
 . PUNCT
 
 Mma PRON
-
 mbiatke VERB
 , PUNCT
 ọsọñọ ADJ
@@ -1063,7 +1025,6 @@ ama VERB
 atañ VERB
 nsio ADJ
 nsio ADJ
-
 ñkpọsọñ ADJ
 ibọk NOUN
 esie PRON
@@ -1082,7 +1043,6 @@ ofuri ADV
 idem NOUN
 ọbiọñọ NOUN
 ñkpọ NOUN
-
 ndik NOUN
 ekededi ADV
 ndisaña NOUN
@@ -1100,14 +1060,11 @@ itọñ NOUN
 ọkọdọñọ VERB
 nduọhọ NOUN
 ke ADP
-
 esit NOUN
 . PUNCT
 
 Asua NOUN
-ike VERB
-- PUNCT
-meke VERB
+ikemeke VERB
 ndisọp ADV
 ndaha VERB
 ke ADP
@@ -1122,7 +1079,6 @@ enañ NOUN
 esie PRON
 ekesine VERB
 ibọk NOUN
-
 idap NOUN
 . PUNCT
 
@@ -1141,7 +1097,6 @@ ukpeme NOUN
 kpukpru ADV
 mmọ PRON
 enyene VERB
-
 ndiduọñọ VERB
 ke ADP
 isọñ NOUN
@@ -1160,7 +1115,6 @@ ke ADP
 ebiet NOUN
 oro PRON
 , PUNCT
-
 ndien CCONJ
 mmọ PRON
 ekeme VERB
@@ -1179,7 +1133,6 @@ Ekpedi SCONJ
 dọkin NOUN
 duop NUM
 ke ADP
-
 eda VERB
 ekọbi VERB
 usuñ NOUN
@@ -1199,7 +1152,6 @@ ekpọhọde VERB
 idem NOUN
 mmọ PRON
 kiet ADV
-
 kiet ADV
 , PUNCT
 usuñ NOUN
@@ -1220,11 +1172,8 @@ Se PRON
 enye PRON
 otutuk VERB
 ubọk NOUN
-
 ekenyene PRON
-ndi VERB
-- PUNCT
-daha VERB
+ndidaha VERB
 ntiene VERB
 enye PRON
 eneni NOUN
@@ -1240,7 +1189,6 @@ Ntañ NOUN
 inim NOUN
 emi PRON
 enye PRON
-
 akafakde VERB
 ke ADP
 inua NOUN
@@ -1259,7 +1207,6 @@ adada VERB
 ubọk NOUN
 esie PRON
 otuk VERB
-
 ikọfiọkke VERB
 ndifiori VERB
 ñkpo NOUN
@@ -1276,7 +1223,6 @@ itiaba NUM
 , PUNCT
 misimke VERB
 usen NOUN
-
 itiaba NUM
 owo NOUN
 oro PRON
@@ -1297,7 +1243,6 @@ ibọk NOUN
 esie PRON
 itiaba NUM
 ekedi VERB
-
 ñkpekpem NOUN
 , PUNCT
 ibọk NOUN
@@ -1318,7 +1263,6 @@ okpokoñ VERB
 nte ADV
 ibibene NOUN
 , PUNCT
-
 ekpedi SCONJ
 ekpri ADJ
 eto NOUN
@@ -1339,7 +1283,6 @@ mbe VERB
 iduọhọ VERB
 , PUNCT
 ikpat NOUN
-
 esie PRON
 inyuñ ADV
 ifiọñọkede VERB
@@ -1363,7 +1306,6 @@ enye PRON
 adaha VERB
 aka VERB
 akwa ADJ
-
 ekọñ VERB
 usiene NOUN
 esie PRON
@@ -1373,7 +1315,7 @@ Abana PROPN
 
 Kpa PRON
 ke ADP
-bkoneyo NOUN
+okoneyo NOUN
 usen NOUN
 oro PRON
 , PUNCT
@@ -1384,7 +1326,6 @@ ama VERB
 owo NOUN
 esie PRON
 ita NUM
-
 uyo NOUN
 , PUNCT
 ete VERB
@@ -1405,7 +1346,6 @@ emi ADV
 kpukpru ADV
 ekedi VERB
 imum NOUN
-
 imum NOUN
 , PUNCT
 mmọ PRON
@@ -1425,7 +1365,6 @@ Mmọdo VERB
 , PUNCT
 sia ADV
 mmọ PRON
-
 midinyeneke VERB
 ifet NOUN
 ndiyarade VERB
@@ -1443,14 +1382,11 @@ ada VERB
 kpa ADV
 imum NOUN
 ita NUM
-
 emi PRON
 . PUNCT
 
 Kpa ADV
 ke ADP
-96 NUM
-
 okoneyo NOUN
 oro PRON
 , PUNCT
@@ -1472,7 +1408,6 @@ etie VERB
 do PRON
 ke ADP
 ubom NOUN
-
 ebet VERB
 imọ PRON
 , PUNCT
@@ -1515,7 +1450,6 @@ ke VERB
 ada VERB
 mme PRON
 idem NOUN
-
 ọnyọñ ADV
 ekuk VERB
 . PUNCT
@@ -1555,7 +1489,6 @@ ibọk NOUN
 esie PRON
 , PUNCT
 tutu ADV
-
 esim VERB
 ke ADP
 okoneyo NOUN
@@ -1573,7 +1506,6 @@ ofuri ADV
 ofuri ADV
 uduak NOUN
 esie PRON
-
 ekedi VERB
 ndiwot VERB
 Ete NOUN
@@ -1592,7 +1524,6 @@ Ekikere NOUN
 edinam VERB
 Ekeñwe PROPN
 idiọk ADJ
-
 ñkpọ NOUN
 baba ADV
 kiet NUM
@@ -1613,7 +1544,6 @@ enye PRON
 ekekemede VERB
 nditi VERB
 , PUNCT
-
 akananam ADV
 eyen NOUN
 añwan NOUN
@@ -1633,7 +1563,6 @@ esie PRON
 , PUNCT
 Ambo PROPN
 Eta PROPN
-
 ama VERB
 ekeme VERB
 ndibọhọ VERB
@@ -1670,7 +1599,6 @@ enye PRON
 ke ADP
 iso NOUN
 , PUNCT
-
 ntọñọ VERB
 ntak ADV
 ñkeme VERB
@@ -1690,7 +1618,6 @@ esie PRON
 tutu ADV
 enye PRON
 okpon VERB
-
 akabade VERB
 akamba ADJ
 owo NOUN
@@ -1709,7 +1636,6 @@ esie PRON
 Mmọdo VERB
 , PUNCT
 ikedige VERB
-
 mmemmem ADJ
 ñkpọ NOUN
 inọ ADJ
@@ -1742,15 +1668,12 @@ akwa ADJ
 owo NOUN
 . PUNCT
 
-Okpo SCONJ
-- PUNCT
-suk SCONJ
+Okposuk SCONJ
 edi VERB
 nte ADV
 enye PRON
 ekedide VERB
 eyenọwọñ NOUN
-
 ke ADP
 isua ADV
 emana NOUN
@@ -1773,7 +1696,6 @@ kiet NUM
 , PUNCT
 ke ADP
 ndiọk ADJ
-
 iso NOUN
 esie PRON
 , PUNCT
@@ -1793,7 +1715,6 @@ Ita PROPN
 Abasi PROPN
 koro ADV
 mbia NOUN
-
 ema VERB
 etetiñ VERB
 enọ VERB
@@ -1816,7 +1737,6 @@ ndiwot VERB
 ‘ PUNCT
 
 Aka- VERB
-
 ekọñ VERB
 ye CCONJ
 ibuot NOUN
@@ -1842,7 +1762,6 @@ eti ADV
 ekenyuñ SCONJ
 enamde VERB
 enye PRON
-
 ọtọñọ VERB
 ndiyik VERB
 usuñ NOUN
@@ -1859,7 +1778,6 @@ kpukpru ADV
 ekpetim ADJ
 asaña VERB
 ọfọn ADJ
-
 ye CCONJ
 enye PRON
 . PUNCT
@@ -1879,7 +1797,6 @@ nnyak VERB
 ñkabade VERB
 nda VERB
 nduduọhọ ADJ
-
 oro PRON
 ñkọduọhọ VERB
 Ekeñwe PROPN
@@ -1898,7 +1815,6 @@ Ufen NOUN
 emi PRON
 ndimiade VERB
 Ekeñwe PROPN
-
 eyebiak VERB
 Ete NOUN
 ye CCONJ
@@ -1918,7 +1834,6 @@ Abana NOUN
 Ndiwotkewot VERB
 enye PRON
 , PUNCT
-
 edi VERB
 nyedip VERB
 enye PRON
@@ -1937,7 +1852,6 @@ idikwe VERB
 enye PRON
 aba ADV
 ke ADP
-
 nsi ADV
 nsi ADV
 . PUNCT
@@ -1960,7 +1874,6 @@ mkpa NOUN
 asua NOUN
 mi PRON
 , PUNCT
-
 akpan ADV
 akpan ADV
 enye PRON
@@ -1980,7 +1893,6 @@ idut NOUN
 nnọ VERB
 mmọ PRON
 emi PRON
-
 midiyakke VERB
 ete NOUN
 esie PRON
@@ -2002,7 +1914,6 @@ iduọ VERB
 esit NOUN
 ufen NOUN
 Ekeñwe PROPN
-
 eyedi VERB
 ntak ADV
 mkpa NOUN
@@ -2025,7 +1936,6 @@ nyom VERB
 
 Ye CCONJ
 utọ NOUN
-
 uduak NOUN
 emi PRON
 , PUNCT
@@ -2045,7 +1955,6 @@ esim VERB
 ubet NOUN
 emi PRON
 Ekeñwe PROPN
-
 akanade VERB
 ede VERB
 idap NOUN
@@ -2064,7 +1973,6 @@ nte ADV
 ñkpọ NOUN
 eke PRON
 mmọ PRON
-
 ekekpañade VERB
 kpaña VERB
 . PUNCT
@@ -2084,7 +1992,6 @@ enye PRON
 atuak VERB
 Ekeñwe PROPN
 ke ADP
-
 idap NOUN
 . PUNCT
 
@@ -2099,13 +2006,12 @@ ke ADP
 enyọñ NOUN
 ini NOUN
 kiet ADV
-I NUM
+
 Ekeñwe PROPN
 Afo PRON
 anie PRON
 edi VERB
 emi PRON
-1 NUM
 
 ọfiọñ PROPN
 Hau INTJ
@@ -2124,11 +2030,6 @@ nnyịn PRON
 . PUNCT
 
 Ekeñwe PROPN
-0 INTJ
-- PUNCT
-0 INTJ
-! PUNCT
-
 Akpan PROPN
 nnyịn PRON
 ! PUNCT
@@ -2149,7 +2050,6 @@ wọrọ VERB
 di VERB
 mmọñ NOUN
 ntiñ VERB
-
 nnọ VERB
 fi PRON
 . PUNCT
@@ -2202,7 +2102,6 @@ afo PRON
 ekpekeme VERB
 ndidu VERB
 ñkpere ADJ
-
 enye PRON
 koro ADV
 nnyịn PRON
@@ -2233,7 +2132,7 @@ Se VERB
 mmọ PRON
 ko PRON
 o INTJ
-I NUM
+
 Omokut VERB
 uyama NOUN
 ikañ NOUN
@@ -2276,7 +2175,6 @@ ko PRON
 ye CCONJ
 eka NOUN
 fo PRON
-
 ediwak ADV
 . PUNCT
 
@@ -2333,7 +2231,6 @@ ko ADV
 ye CCONJ
 Ete NOUN
 nnyịn PRON
-
 idaha NOUN
 emi PRON
 . PUNCT
@@ -2353,11 +2250,9 @@ edem ADP
 Ita PROPN
 Udọ PROPN
 . PUNCT
-
 ñkpema VERB
 nte ADV
 enye PRON
-
 etienede VERB
 asaña VERB
 ye CCONJ
@@ -2384,7 +2279,6 @@ emi PRON
 inyeneke VERB
 kaña CCONJ
 unen NOUN
-
 ndomo ADV
 kiet NUM
 ndifiọk VERB
@@ -2432,7 +2326,6 @@ eyet NOUN
 atua VERB
 ke ADP
 ata VERB
-
 suñ ADV
 suñ ADV
 uyo NOUN
@@ -2599,7 +2492,6 @@ ke ADP
 enyọñ NOUN
 , PUNCT
 enye PRON
-
 omum VERB
 enye PRON
 mkpọk NOUN
@@ -2619,7 +2511,6 @@ inua NOUN
 tutu ADV
 mmọ PRON
 esaña VERB
-
 ekeduk VERB
 ubom NOUN
 . PUNCT
@@ -2640,7 +2531,6 @@ Edet NOUN
 emi PRON
 ufan NOUN
 ọfiọñ PROPN
-
 Ambo PROPN
 Eta PROPN
 okodude ADV
@@ -2661,7 +2551,6 @@ akatuade VERB
 ke ADP
 usuñ NOUN
 ke ADP
-
 ini NOUN
 ke ADP
 ini NOUN
@@ -2691,7 +2580,6 @@ Abasi PROPN
 oduk VERB
 ubet NOUN
 nna ADJ
-
 esie PRON
 okoyom VERB
 enye PRON
@@ -2724,7 +2612,6 @@ emi PRON
 , PUNCT
 ñkwe VERB
 kaña CCONJ
-
 adiaha NOUN
 fo PRON
 o INTJ
@@ -2768,7 +2655,6 @@ esie PRON
 ke ADP
 esa NOUN
 esie PRON
-
 o INTJ
 ! PUNCT
 
@@ -2815,7 +2701,6 @@ oduk VERB
 ke ADP
 esa NOUN
 Akwa ADJ
-
 Añwanima NOUN
 esie PRON
 . PUNCT
@@ -2838,7 +2723,6 @@ fo PRON
 nte ADV
 edise VERB
 mme PRON
-
 adiaha NOUN
 odu VERB
 do PRON
@@ -2869,7 +2753,6 @@ Nte ADJ
 eyo NOUN
 ekesesire VERB
 , PUNCT
-
 ñkwe VERB
 adiaha NOUN
 mi PRON
@@ -2887,7 +2770,6 @@ o INTJ
 Ekanem PROPN
 Ete NOUN
 nnyịn PRON
-1 NUM
 Eka NOUN
 nnyịn PRON
 ! PUNCT
@@ -2903,7 +2785,6 @@ ebiet NOUN
 ye CCONJ
 ke ADP
 kpukpru ADV
-
 esa NOUN
 iban NOUN
 ntop NOUN
@@ -2924,7 +2805,6 @@ etiñde VERB
 mi PRON
 ete VERB
 imọ PRON
-
 imokut VERB
 enye PRON
 iduhe VERB
@@ -2946,7 +2826,6 @@ ke PRON
 nte PRON
 enye PRON
 okososio VERB
-
 ọkọñ PROPN
 ke ADP
 ntok NOUN
@@ -2988,7 +2867,6 @@ Oro PRON
 enyene VERB
 nte PRON
 Ekeñwe PROPN
-
 ekemede VERB
 nditibi VERB
 isọñ NOUN
@@ -3007,7 +2885,6 @@ obio NOUN
 emi PRON
 itre VERB
 ndisop ADJ
-
 ntiene VERB
 enye PRON
 ? PUNCT
@@ -3029,7 +2906,6 @@ Mmọñọ VERB
 ufiọkke VERB
 ete PRON
 ofim NOUN
-
 ofim NOUN
 onuk VERB
 etiñe ADJ
@@ -3057,7 +2933,6 @@ Mmọñ PRON
 ke ADP
 enye PRON
 ekeme VERB
-
 ndiwọrọ VERB
 ñka VERB
 ñkpọñ ADV
@@ -3074,7 +2949,7 @@ ntre ADV
 
 Ambo PROPN
 Eta PROPN
-lyi NOUN
+iyi NOUN
 i INTJ
 ! PUNCT
 
@@ -3109,7 +2984,6 @@ o INTJ
 
 Enọ NOUN
 mi PRON
-
 eyen NOUN
 o INTJ
 ! PUNCT
@@ -3163,7 +3037,6 @@ mi INTJ
 , PUNCT
 Ekanem PROPN
 ibuot NOUN
-
 abiara VERB
 fi PRON
 ? PUNCT
@@ -3191,7 +3064,6 @@ usan NOUN
 , PUNCT
 ndik NOUN
 odoro VERB
-
 akwa ADJ
 . PUNCT
 
@@ -3213,7 +3085,6 @@ Enọ NOUN
 mi PRON
 eyen NOUN
 mi PRON
-
 o INTJ
 ! PUNCT
 
@@ -3253,7 +3124,6 @@ inim NOUN
 ye CCONJ
 isim NOUN
 enañ NOUN
-
 emi PRON
 , PUNCT
 etañ VERB
@@ -3287,7 +3157,6 @@ efehe VERB
 
 Oro PRON
 mme PRON
-
 anie PRON
 ọkpọsọñ ADJ
 esit NOUN
@@ -3325,7 +3194,6 @@ ntre ADV
 . PUNCT
 
 Ntekim NOUN
-
 ọkpọñ VERB
 mmọ PRON
 do PRON
@@ -3346,7 +3214,6 @@ mkpo NOUN
 ‘ PUNCT
 Abana NOUN
 o INTJ
-1 NUM
 
 Abana NOUN
 o INTJ
@@ -3354,7 +3221,7 @@ o INTJ
 
 Abana NOUN
 o INTJ
-1 NUM
+
 Ebine VERB
 nnyịn PRON
 o INTJ
@@ -3363,7 +3230,7 @@ o INTJ
 Ekọñ NOUN
 emen VERB
 obio NOUN
-umbfo PRON
+mbufo PRON
 o INTJ
 ! PUNCT
 
@@ -3390,7 +3257,6 @@ ye CCONJ
 ñkpri ADJ
 , PUNCT
 ekebiet VERB
-
 ntan NOUN
 , PUNCT
 ke ADP
@@ -3413,15 +3279,12 @@ iba NUM
 . PUNCT
 
 Ndusuk PRON
-
 mkparawa NOUN
 emi PRON
 mikọfiọkke VERB
 kaña CCONJ
 se PRON
-iti VERB
-- PUNCT
-bede VERB
+itibede VERB
 ke ADP
 etọñọ VERB
 ndida VERB
@@ -3431,7 +3294,6 @@ nsin VERB
 ke ADP
 ete VERB
 ewut VERB
-
 mmimọ PRON
 ekọñ VERB
 naña NOUN
@@ -3450,7 +3312,6 @@ Ntekim NOUN
 eyemende VERB
 mbuk NOUN
 edisop ADJ
-
 Ekeñwe PROPN
 ọkpọhọrede VERB
 , PUNCT
@@ -3467,7 +3328,6 @@ ita NUM
 emi PRON
 , PUNCT
 kpukpru ADV
-
 ñkpọ NOUN
 ema VERB
 ebiara VERB
@@ -3490,7 +3350,6 @@ ada VERB
 ubọk NOUN
 iba NUM
 omum VERB
-
 ibuot NOUN
 ewere VERB
 , PUNCT
@@ -3508,7 +3367,6 @@ Baba ADJ
 owo NOUN
 kiet NUM
 eke PRON
-
 ekekemede VERB
 ndikpan VERB
 enye PRON
@@ -3518,11 +3376,9 @@ ete VERB
 ‘ PUNCT
 Da INTJ
 ! PUNCT
-
 kutua VERB
 aba ADV
 ! PUNCT
-
 ikeduhe VERB
 . PUNCT
 
@@ -3546,7 +3402,6 @@ Tutu CCONJ
 esim VERB
 ufọt ADJ
 uwemeyo NOUN
-
 usen NOUN
 oro PRON
 , PUNCT
@@ -3568,7 +3423,6 @@ ye CCONJ
 iban NOUN
 esie PRON
 iba NUM
-
 ekpetie VERB
 ke ADP
 itie NOUN
@@ -3591,7 +3445,6 @@ okot VERB
 mbọñ NOUN
 ifañ ADV
 emi PRON
-
 ekedude VERB
 ekpere ADJ
 enye PRON
@@ -3610,7 +3463,6 @@ ye CCONJ
 iban NOUN
 esie PRON
 tutu CCONJ
-
 mmọ PRON
 efiak ADV
 eset PRON
@@ -3629,7 +3481,6 @@ mmem ADJ
 idem NOUN
 ikayakke VERB
 Ambo PROPN
-
 Eta PROPN
 etetie VERB
 ebigi NOUN
@@ -3670,7 +3521,6 @@ nditeñ NOUN
 , PUNCT
 enye PRON
 emi PRON
-
 ama VERB
 emen VERB
 eso NOUN
@@ -3691,7 +3541,6 @@ afiak ADP
 ọwọrọ VERB
 edi VERB
 ye CCONJ
-
 abañ NOUN
 mmọñ NOUN
 ke ADP
@@ -3711,7 +3560,6 @@ akpanikọ NOUN
 , PUNCT
 kpa VERB
 nte PRON
-
 Ekanem PROPN
 Abasi PROPN
 eketiñde VERB
@@ -3733,7 +3581,6 @@ utọñ NOUN
 ñkpọ NOUN
 idet NOUN
 ukut ADJ
-
 Ekanem PROPN
 ama VERB
 ọsuhọde VERB
@@ -3767,7 +3614,6 @@ Eta PROPN
 eduk VERB
 ke ADP
 esit NOUN
-
 ebiet NOUN
 esie PRON
 , PUNCT
@@ -3786,7 +3632,6 @@ nte PRON
 ebonode VERB
 ke ADP
 isọñ NOUN
-
 etehe NOUN
 mbinañ NUM
 ke ADP
@@ -3809,7 +3654,6 @@ etua VERB
 . PUNCT
 
 Do ADV
-
 ndien CCONJ
 ke ADP
 ọbọñ NOUN
@@ -3827,7 +3671,6 @@ kpukpru ADV
 owo NOUN
 nte PRON
 ñkpọ NOUN
-
 eke PRON
 enye PRON
 ikpọñ NOUN
@@ -3878,7 +3721,6 @@ emi PRON
 . PUNCT
 
 Se VERB
-
 inade VERB
 kpukpru ADV
 nnyịn PRON
@@ -3897,7 +3739,6 @@ mkpa NOUN
 
 Adiaha NOUN
 ọbọñ NOUN
-
 osop VERB
 ọbọñ NOUN
 obio NOUN
@@ -3919,7 +3760,6 @@ Añwanima NOUN
 esie PRON
 osop VERB
 , PUNCT
-
 Ekanem PROPN
 Ete NOUN
 ñko ADV
@@ -3940,7 +3780,6 @@ iban NOUN
 ekese ADJ
 mmọ PRON
 idaha NOUN
-
 emi PRON
 . PUNCT
 
@@ -3962,7 +3801,6 @@ emi PRON
 mmọ PRON
 edikopde VERB
 utibe ADJ
-
 mbuk NOUN
 emi PRON
 ke ADP
@@ -3983,7 +3821,6 @@ Mmọdo VERB
 ana VERB
 ami PRON
 ye CCONJ
-
 kpukpru ADV
 mbufo PRON
 emi ADV
@@ -4019,7 +3856,6 @@ ete VERB
 , PUNCT
 ediañ NOUN
 ọtọ ADJ
-
 anie PRON
 ? PUNCT
 
@@ -4047,7 +3883,6 @@ ebiọñ NOUN
 Ikọt NOUN
 nnyịn PRON
 , PUNCT
-
 eyak VERB
 ediañ NOUN
 emi PRON
@@ -4071,7 +3906,6 @@ inade VERB
 nnyịn PRON
 ke ADP
 iso ADP
-
 ndinam VERB
 ke ADP
 emi ADV
@@ -4088,7 +3922,6 @@ idi VERB
 ibọhọke VERB
 nnyịn PRON
 isaña VERB
-
 ye CCONJ
 enye PRON
 . PUNCT
@@ -4106,12 +3939,9 @@ ke ADP
 añwa NOUN
 urua NOUN
 ke ADP
-ibom NOUN
-- PUNCT
-bom NOUN
+ibombom NOUN
 ye CCONJ
 ke ADP
-
 itihede NOUN
 ke ADP
 obot NOUN
@@ -4133,7 +3963,6 @@ ibọk NOUN
 ke ADP
 ekpo NOUN
 ye CCONJ
-
 ke ADP
 ndem NOUN
 ke ADP
@@ -4154,7 +3983,6 @@ obio NOUN
 kiet NUM
 ọsuhọ VERB
 emi PRON
-
 nnyịn PRON
 midisimke VERB
 . PUNCT
@@ -4175,7 +4003,6 @@ Owo NOUN
 okukere VERB
 biọñ NOUN
 ye CCONJ
-
 nsat ADJ
 itọñ NOUN
 ye CCONJ
@@ -4194,7 +4021,6 @@ mbufo PRON
 iso ADP
 , PUNCT
 ekpere ADJ
-
 mbufo PRON
 edem ADP
 , PUNCT
@@ -4221,7 +4047,6 @@ mfọniso NOUN
 Edieke VERB
 enye PRON
 ekedide VERB
-
 ofin ADV
 , PUNCT
 eyenam VERB
@@ -4241,7 +4066,6 @@ eyenọ VERB
 enye PRON
 kpukpru ADV
 unen NOUN
-
 ukem ADJ
 ukem ADJ
 kpa ADV
@@ -4261,7 +4085,6 @@ edi VERB
 , PUNCT
 eyenọ VERB
 enye PRON
-
 kpukpru ADV
 odudu NOUN
 ke ADP
@@ -4284,7 +4107,6 @@ inañ ADV
 inañ ADV
 koro SCONJ
 isañ VERB
-
 ọfọn ADJ
 ke ADP
 mburutu NOUN
@@ -4309,7 +4131,6 @@ esit NOUN
 ebiet NOUN
 ọbọñ NOUN
 obio NOUN
-
 enyọñọ VERB
 ufọk NOUN
 mmọ PRON
@@ -4342,7 +4163,6 @@ ndusuk ADJ
 ikọ NOUN
 emi PRON
 mmọ PRON
-
 eketuade VERB
 ke ADP
 eyet NOUN
@@ -4363,13 +4183,13 @@ mmọñ ADJ
 eyen NOUN
 Ete NOUN
 nnyịn PRON
-1 NUM
+
 Adiaha NOUN
 Akwa ADJ
 Edidem PROPN
 ke ADP
 Abana NOUN
-I NUM
+
 Ata ADJ
 ediye ADJ
 añwan NOUN
@@ -4377,7 +4197,6 @@ Ita PROPN
 
 Abasi PROPN
 ! PUNCT
-
 Ekeñwe PROPN
 di VERB
 o INTJ
@@ -4404,7 +4223,6 @@ mmọñ NOUN
 ebebet VERB
 utom NOUN
 , PUNCT
-
 Kpa ADV
 ye CCONJ
 ikpat NOUN
@@ -4425,7 +4243,6 @@ Edidem PROPN
 ekama VERB
 ke ADP
 idem NOUN
-
 ñkpọ NOUN
 iseri VERB
 obio NOUN
@@ -4479,7 +4296,6 @@ iñwañ NOUN
 Usak NOUN
 - PUNCT
 Edet NOUN
-
 emi PRON
 mmọ PRON
 ekedude VERB
@@ -4498,7 +4314,6 @@ enye PRON
 ke ADP
 ubọk NOUN
 , PUNCT
-
 nda VERB
 enye PRON
 ñkowut VERB
@@ -4515,7 +4330,6 @@ esie PRON
 
 Ndien CCONJ
 mbọm NOUN
-
 Ekeñwe PROPN
 ! PUNCT
 
@@ -4533,7 +4347,6 @@ anamde VERB
 ifu NOUN
 , PUNCT
 ọfiọñ PROPN
-
 isifeñke VERB
 enye PRON
 baba ADV
@@ -4566,7 +4379,6 @@ nte PRON
 adan NOUN
 ke ADP
 usen NOUN
-
 oro PRON
 ọnọ SCONJ
 nte PRON
@@ -4587,9 +4399,9 @@ idem NOUN
 ke ADP
 ikọ NOUN
 eke PRON
-
 akade VERB
 ntem PRON
+
 ‘ PUNCT
 O INTJ
 - PUNCT
@@ -4609,7 +4421,6 @@ ntem PRON
 Mmọñọ NOUN
 edieke SCONJ
 ebupde VERB
-
 eden NOUN
 Mmanyañ NOUN
 emi PRON
@@ -4620,7 +4431,6 @@ edue VERB
 fi PRON
 nso PRON
 ? PUNCT
-
 mme PRON
 enye PRON
 edibọrọ VERB
@@ -4629,7 +4439,6 @@ didie ADJ
 
 Nte ADJ
 eka NOUN
-
 akamaman VERB
 mi PRON
 , PUNCT
@@ -4670,7 +4479,6 @@ Ndien CCONJ
 mme PRON
 nso PRON
 inam VERB
-
 enye PRON
 ọnọde VERB
 mi PRON
@@ -4716,7 +4524,6 @@ ke ADP
 ido NOUN
 utọk VERB
 mme PRON
-
 ke ADP
 mbre NOUN
 . PUNCT
@@ -4739,7 +4546,6 @@ ke ADP
 ubọk NOUN
 ndida VERB
 nnam VERB
-
 utom NOUN
 . PUNCT
 
@@ -4795,8 +4601,7 @@ nte PRON
 owo NOUN
 adade VERB
 ke ADP
-
-ihben ADP
+mben ADP
 ikọt NOUN
 okot VERB
 enye PRON
@@ -4817,7 +4622,6 @@ eyo NOUN
 nte PRON
 usọ NOUN
 inyeneke VERB
-
 udim ADJ
 ifin NOUN
 ? PUNCT
@@ -4835,7 +4639,6 @@ emi PRON
 ọkpọdiọñọde VERB
 enye PRON
 ke ADP
-
 ebiet NOUN
 oro PRON
 . PUNCT
@@ -4859,7 +4662,6 @@ Eta PROPN
 ko ADV
 ke ADP
 asaña VERB
-
 edi VERB
 ye CCONJ
 anyan ADJ
@@ -4878,7 +4680,6 @@ akanamde VERB
 tọñọ ADV
 nte PRON
 eyo NOUN
-
 ekesesiere VERB
 . PUNCT
 
@@ -4900,7 +4701,6 @@ ke ADP
 suñ ADV
 suñ ADV
 uyo NOUN
-
 ete VERB
 , PUNCT
 ‘ PUNCT
@@ -4939,14 +4739,11 @@ ifu NOUN
 Sese VERB
 nte PRON
 enye PRON
-
 ọkpọñde VERB
 utom NOUN
 emi PRON
 enye PRON
-enye VERB
-- PUNCT
-nede VERB
+enyenede VERB
 ndinam VERB
 ada VERB
 asuan VERB
@@ -4959,7 +4756,6 @@ urua NOUN
 . PUNCT
 
 Mmọñọ NOUN
-
 ñkọm PRON
 ñkukure ADV
 mbiet NOUN
@@ -4978,7 +4774,6 @@ emi PRON
 
 Etie PRON
 mi PRON
-
 ke ADP
 ebiet NOUN
 emi PRON
@@ -5022,7 +4817,6 @@ enye PRON
 ediwak ADV
 nde NOUN
 ke ADP
-
 idem NOUN
 . PUNCT
 
@@ -5062,7 +4856,7 @@ ete NOUN
 mi PRON
 edi VERB
 o INTJ
-1 NUM
+
 Ete NOUN
 , PUNCT
 mfin ADV
@@ -5133,13 +4927,11 @@ enye PRON
 afiak ADP
 ebine VERB
 enye PRON
-
 ete VERB
 , PUNCT
 ‘ PUNCT
 Keti VERB
 ! PUNCT
-
 ọdọñ VERB
 mbukpo NOUN
 okokot VERB
@@ -5159,7 +4951,6 @@ naña NOUN
 mfin ADV
 usen NOUN
 esie PRON
-
 ke ADP
 akpanikọ NOUN
 . PUNCT
@@ -5207,7 +4998,6 @@ owowot VERB
 Ifin NOUN
 esesio VERB
 , PUNCT
-
 ebebehe VERB
 , PUNCT
 nduọk VERB
@@ -5226,7 +5016,6 @@ oro PRON
 kpa VERB
 nte PRON
 eka NOUN
-
 akamande VERB
 enye PRON
 . PUNCT
@@ -5270,7 +5059,6 @@ mmọ PRON
 enyọñ NOUN
 ke ADP
 ufọk NOUN
-
 ndika VERB
 ñkosobo VERB
 ye CCONJ
@@ -5308,7 +5096,6 @@ ndi VERB
 , PUNCT
 ñkpebiet VERB
 ñkpa VERB
-
 uto ADV
 . PUNCT
 
@@ -5324,8 +5111,7 @@ itiehe VERB
 ọtọ ADJ
 kiet NUM
 ke ADP
-nsi ADV
-nsi ADV
+nsnsi ADV
 . PUNCT
 
 Ekem ADV
@@ -5333,7 +5119,6 @@ ekem ADV
 utin NOUN
 asiaha VERB
 , PUNCT
-
 ayama VERB
 ọnọ VERB
 owo NOUN
@@ -5378,7 +5163,6 @@ inyañ NOUN
 , PUNCT
 ukwọ NOUN
 ofuk VERB
-
 ndusuk ADJ
 itie NOUN
 ke ADP
@@ -5398,7 +5182,6 @@ esie PRON
 onyuñ SCONJ
 oñwum VERB
 ediwak ADV
-
 mfri NOUN
 . PUNCT
 
@@ -5424,7 +5207,6 @@ aba ADV
 
 Ekem ADV
 ekem ADV
-
 ‘ PUNCT
 Idiọk ADJ
 aman ADV
@@ -5444,7 +5226,6 @@ eyen NOUN
 ubuene ADJ
 adaha VERB
 ke ADP
-
 enyọñ NOUN
 , PUNCT
 ọdọk VERB
@@ -5464,7 +5245,6 @@ ke ADP
 ebekpo NOUN
 esie PRON
 ọduọ VERB
-
 ana VERB
 ke ADP
 mbat NOUN
@@ -5485,7 +5265,6 @@ ke PRON
 ini NOUN
 emi PRON
 enye PRON
-
 adahade VERB
 isañ VERB
 , PUNCT
@@ -5505,7 +5284,6 @@ se PRON
 ikodude VERB
 ke ADP
 idak ADP
-
 akabade VERB
 odoro VERB
 ke ADP
@@ -5528,7 +5306,6 @@ usiọñ NOUN
 Mfit ADJ
 akakan VERB
 , PUNCT
-
 akpan ADV
 akpan ADV
 mfit ADJ
@@ -5546,7 +5323,6 @@ ubọñ NOUN
 Abasi PROPN
 ekeme VERB
 ndiyarade VERB
-
 ke ADP
 uwem NOUN
 owo NOUN
@@ -5584,7 +5360,6 @@ efut VERB
 mme PRON
 efutekiet NUM
 , PUNCT
-
 enye PRON
 okodoro VERB
 ke PRON
@@ -5601,7 +5376,6 @@ ndinem ADJ
 udia NOUN
 ndida VERB
 mbọk ADV
-
 uwem NOUN
 esie PRON
 ekesine VERB
@@ -5620,12 +5394,9 @@ esie PRON
 Kpasuk SCONJ
 nte PRON
 iban NOUN
-
 obio NOUN
 Abana NOUN
-eke PRON
-- PUNCT
-tuade VERB
+eketuade VERB
 enye PRON
 ke ADP
 eyet NOUN
@@ -5640,7 +5411,6 @@ akananam ADV
 ubọk NOUN
 esie PRON
 inamke VERB
-
 utom NOUN
 ikpat NOUN
 esie PRON
@@ -5660,7 +5430,6 @@ ye CCONJ
 ukpono NOUN
 ye CCONJ
 inemesit NOUN
-
 ye CCONJ
 ima NOUN
 ọbọp VERB
@@ -5682,7 +5451,6 @@ ama VERB
 akakan VERB
 ebe VERB
 , PUNCT
-
 Ekeñwe PROPN
 ama VERB
 adaha VERB
@@ -5700,7 +5468,6 @@ ikedige VERB
 aba ADV
 nte PRON
 eyen NOUN
-
 Edidem PROPN
 , PUNCT
 edi CCONJ
@@ -5734,7 +5501,6 @@ uwemeyo NOUN
 usen NOUN
 oro PRON
 ọfiọñ PROPN
-
 akamiade VERB
 enye PRON
 akamba ADJ
@@ -5750,7 +5516,6 @@ ikenyimeke VERB
 ndikop VERB
 idọñesit NOUN
 , PUNCT
-
 ikenyimeke VERB
 ndibọ VERB
 udia NOUN
@@ -5770,7 +5535,6 @@ ke ADP
 usenubọk NOUN
 , PUNCT
 ọfiọñ PROPN
-
 okot VERB
 enye PRON
 ọdọhọ VERB
@@ -5792,7 +5556,6 @@ edi VERB
 oro PRON
 ukam PRON
 utuahatua VERB
-
 eyet NOUN
 kaña CCONJ
 , PUNCT
@@ -5815,7 +5578,6 @@ kiet NUM
 mbọm NOUN
 iyakke VERB
 mi PRON
-
 nnọ VERB
 fi PRON
 ndutuhọ NOUN
@@ -5839,7 +5601,6 @@ ke ADP
 mbeñe VERB
 idem NOUN
 ndiyọ VERB
-
 ukut ADJ
 eke PRON
 edikande VERB
@@ -5886,7 +5647,6 @@ idaha ADV
 emi ADV
 , PUNCT
 koro SCONJ
-
 afo PRON
 eyedi VERB
 owo NOUN
@@ -5910,7 +5670,6 @@ fo PRON
 nyuñ CCONJ
 suk SCONJ
 ibuot NOUN
-
 nam VERB
 se VERB
 enye PRON
@@ -5932,7 +5691,6 @@ eti ADJ
 ini NOUN
 emi PRON
 ama VERB
-
 ekebe NOUN
 . PUNCT
 
@@ -5954,7 +5712,6 @@ eyet NOUN
 , PUNCT
 ọkwọhọde VERB
 enyịn NOUN
-
 esie PRON
 , PUNCT
 ọtọñọ VERB
@@ -5997,7 +5754,6 @@ eka NOUN
 mi PRON
 , PUNCT
 ada VERB
-
 edinyam VERB
 ke ADP
 utọ NOUN
@@ -6019,7 +5775,6 @@ fi PRON
 Omokut VERB
 mi PRON
 edem ADP
-
 sese VERB
 mi PRON
 eka NOUN
@@ -6045,7 +5800,6 @@ ise ADJ
 , PUNCT
 wut VERB
 mi PRON
-
 nde NOUN
 ikpa NOUN
 kiet NUM
@@ -6069,7 +5823,6 @@ nnyịn PRON
 Akananam ADV
 Ete NOUN
 mi PRON
-
 imiaña VERB
 fi PRON
 . PUNCT
@@ -6090,7 +5843,6 @@ afak VERB
 fi PRON
 ke ADP
 ubọk NOUN
-
 mme PRON
 mmọ PRON
 oro PRON
@@ -6110,7 +5862,6 @@ fi PRON
 ukem ADV
 ukem ADV
 kpa ADV
-
 nte ADV
 enye PRON
 obonde VERB
@@ -6132,7 +5883,6 @@ eti ADJ
 Idige VERB
 anam VERB
 ñkpọ NOUN
-
 emi PRON
 man CCONJ
 abiak VERB
@@ -6192,7 +5942,6 @@ ufin NOUN
 mi PRON
 ke ADP
 ata ADJ
-
 inemesit NOUN
 . PUNCT
 
@@ -6211,7 +5960,6 @@ esie PRON
 ebiet NOUN
 ekededi ADV
 emi PRON
-
 enye PRON
 edimade VERB
 ndida VERB
@@ -6231,7 +5979,6 @@ Abana NOUN
 Koro ADP
 sese VERB
 enyịn NOUN
-
 esie PRON
 do PRON
 , PUNCT
@@ -6252,7 +5999,6 @@ ke ADP
 obio NOUN
 emi ADV
 ntode VERB
-
 ye CCONJ
 ntak ADV
 eke PRON
@@ -6274,7 +6020,6 @@ otop VERB
 ọduọk VERB
 , PUNCT
 enye PRON
-
 amada VERB
 esit NOUN
 mbọm NOUN
@@ -6294,7 +6039,6 @@ afo PRON
 ekerede VERB
 , PUNCT
 man CCONJ
-
 enye PRON
 ada VERB
 mi PRON
@@ -6312,7 +6056,6 @@ ete NOUN
 mi PRON
 Ambo PROPN
 Eta PROPN
-
 akanamde VERB
 ye CCONJ
 afo PRON
@@ -6340,7 +6083,6 @@ nọ VERB
 mi PRON
 , PUNCT
 edi CCONJ
-
 ñkemeke VERB
 nditobo VERB
 fi PRON
@@ -6360,7 +6102,6 @@ Ke ADP
 edinyam VERB
 emi PRON
 afo PRON
-
 anyamde VERB
 mi PRON
 mfin ADV
@@ -6377,7 +6118,6 @@ Abana PROPN
 amanyam VERB
 idem NOUN
 fo PRON
-
 ñko ADV
 , PUNCT
 kpa ADV
@@ -6394,15 +6134,12 @@ Idem NOUN
 itie NOUN
 ubọñ NOUN
 oro PRON
-anya VERB
-- PUNCT
-nyaña VERB
+anyanyaña VERB
 ye CCONJ
 Ita PROPN
 Abasi PROPN
 do PRON
 , PUNCT
-
 emi PRON
 otode VERB
 ke ADP
@@ -6422,7 +6159,6 @@ amanyam VERB
 
 Ndien CCONJ
 mbọm NOUN
-
 akam NOUN
 edi VERB
 okuo VERB
@@ -6463,7 +6199,6 @@ mi PRON
 ntem ADV
 , PUNCT
 afo PRON
-
 kpukpru ADV
 ñkpọ NOUN
 uto ADV
@@ -6501,7 +6236,6 @@ emi PRON
 nnyịn PRON
 iditọñọde VERB
 ntak ADV
-
 isobo VERB
 , PUNCT
 koro SCONJ
@@ -6525,7 +6259,6 @@ ami PRON
 nnyuñ CCONJ
 ñkotde VERB
 fi PRON
-
 enyiñ NOUN
 Akpan PROPN
 nnyịn PRON
@@ -6545,7 +6278,6 @@ ami PRON
 ñko ADV
 nnyeneke VERB
 aba ADV
-
 ndomo ADV
 mbubehe NOUN
 kiet NUM
@@ -6569,7 +6301,6 @@ idaha VERB
 ikpọñ VERB
 oburobut ADJ
 owo NOUN
-
 emi PRON
 . PUNCT
 
@@ -6593,7 +6324,6 @@ eti ADV
 . PUNCT
 
 Nte ADJ
-
 enye PRON
 ọkọtọtọ ADV
 ọwuhọ VERB
@@ -6613,7 +6343,6 @@ ete NOUN
 ufin NOUN
 esie PRON
 nte ADV
-
 mmọ PRON
 esañade VERB
 eka NOUN
@@ -6632,7 +6361,6 @@ ekebiet VERB
 eke PRON
 enye PRON
 ekedide VERB
-
 imum NOUN
 . PUNCT
 
@@ -6653,7 +6381,6 @@ edi CCONJ
 kiet NUM
 emi PRON
 enye PRON
-
 akpadade VERB
 anam VERB
 eti ADJ
@@ -6661,9 +6388,7 @@ eti ADJ
 baba ADV
 kiet NUM
 enye PRON
-ikeke VERB
-- PUNCT
-meke VERB
+ikekmeke VERB
 ndifiọk VERB
 . PUNCT
 
@@ -6674,7 +6399,6 @@ enye PRON
 ama NOUN
 adaha VERB
 ke VERB
-
 ebiet NOUN
 oro PRON
 , PUNCT
@@ -6696,7 +6420,6 @@ esimde VERB
 do ADV
 , PUNCT
 ukpọk ADV
-
 ikọñ NOUN
 emi PRON
 amiade VERB
@@ -6716,7 +6439,6 @@ enye VERB
 okpodukde VERB
 ke ADP
 ekpri ADJ
-
 ubom NOUN
 kiet NUM
 awat VERB
@@ -6735,7 +6457,6 @@ ubom NOUN
 ekemede VERB
 ndiwat VERB
 ke ADP
-
 esit NOUN
 mbe VERB
 ñkọwọrọ VERB
@@ -6755,7 +6476,6 @@ esit NOUN
 ebe VERB
 , PUNCT
 enye PRON
-
 ikọdiọñọke VERB
 , PUNCT
 ikonyuñ VERB
@@ -6774,7 +6494,6 @@ akpa NOUN
 . PUNCT
 
 Idem NOUN
-
 owo NOUN
 emi PRON
 ekedepde VERB
@@ -6788,23 +6507,18 @@ okotode VERB
 ọfiọñ PROPN
 Ambo PROPN
 Eta PROPN
-ikọ NOUN
-- PUNCT
-diọñọke VERB
+ikodiọñọke VERB
 . PUNCT
 
 Akpa VERB
 edi VERB
-
 oro PRON
 enye PRON
 okokutde VERB
 owo NOUN
 oro PRON
 enye PRON
-aka VERB
-- PUNCT
-nyamde VERB
+akanyamde VERB
 Ekeñwe PROPN
 ọnọ VERB
 enye PRON
@@ -6815,7 +6529,6 @@ Mme PRON
 emi PRON
 ema VERB
 etimede VERB
-
 ọfiọñ PROPN
 esit NOUN
 tutu ADV
@@ -6838,7 +6551,6 @@ esuk NOUN
 urua NOUN
 esie PRON
 , PUNCT
-
 ebe VERB
 do PRON
 aka VERB
@@ -6863,7 +6575,6 @@ Ibinọ NOUN
 . PUNCT
 
 Ke ADP
-
 ata ADJ
 anyan ADJ
 ini NOUN
@@ -6882,7 +6593,6 @@ akpa ADJ
 usen NOUN
 emi PRON
 enye PRON
-
 edikutde VERB
 ata ADJ
 afia ADJ
@@ -6900,7 +6610,6 @@ edisọsọñ VERB
 urua NOUN
 itre VERB
 yak VERB
-
 enye PRON
 okutre VERB
 ndidep VERB
@@ -6921,7 +6630,6 @@ mbubehe NOUN
 Mmọdo VERB
 , PUNCT
 Ekpri ADJ
-
 Nse PROPN
 akabatde VERB
 idem NOUN
@@ -6939,7 +6647,6 @@ ndep VERB
 koro SCONJ
 enye PRON
 ama VERB
-
 ọfiọk VERB
 ete PRON
 ete VERB
@@ -6959,7 +6666,6 @@ kiet NUM
 
 Edi VERB
 nte ADV
-
 Ekpri ADJ
 Nse PROPN
 akañwanade VERB
@@ -6976,7 +6682,6 @@ akpatre ADJ
 ikọ NOUN
 esie PRON
 ọnọ VERB
-
 ọfiọñ PROPN
 Ambo PROPN
 Eta PROPN
@@ -7013,7 +6718,6 @@ esit NOUN
 esie PRON
 , PUNCT
 Ekpri ADJ
-
 Nse PROPN
 ama ADV
 ama ADV
@@ -7036,7 +6740,6 @@ Ekeñwe PROPN
 ke ADP
 iso NOUN
 , PUNCT
-
 uyai ADJ
 esie PRON
 odoro VERB
@@ -7055,7 +6758,6 @@ edi CCONJ
 ada VERB
 ata ADJ
 esit NOUN
-
 ima NOUN
 ye CCONJ
 mbọm NOUN
@@ -7073,7 +6775,6 @@ ewat VERB
 ekebehe VERB
 ke ADP
 Ibinọ NOUN
-
 ke ADP
 ufọt ADJ
 okoneyo NOUN
@@ -7091,7 +6792,6 @@ ndikanade VERB
 ñkpọñ ADV
 ndutuhọ NOUN
 ye CCONJ
-
 ukut ADJ
 mfiak VERB
 ñka VERB
@@ -7117,7 +6817,6 @@ Ibinọ NOUN
 , PUNCT
 edi CCONJ
 mmọ PRON
-
 ndomo ADV
 kiet NUM
 ikodukke VERB
@@ -7138,7 +6837,6 @@ isọñ NOUN
 , PUNCT
 enye PRON
 ọnọ VERB
-
 mkparawa NOUN
 esie PRON
 uyo NOUN
@@ -7156,7 +6854,6 @@ ada VERB
 Ekeñwe PROPN
 ebe VERB
 nnen ADV
-
 nnen ADV
 ọsọk VERB
 ete VERB
@@ -7176,7 +6873,6 @@ ikop VERB
 edikọñ NOUN
 emi PRON
 Ekpri ADJ
-
 Nse PROPN
 ọkọkọñde VERB
 usuñ NOUN
@@ -7196,7 +6892,6 @@ adaha VERB
 ke ADP
 enyọñ NOUN
 obup VERB
-
 enyiñ NOUN
 owo NOUN
 emi PRON
@@ -7219,7 +6914,6 @@ Ekpri ADJ
 Nse VERB
 , PUNCT
 enye PRON
-
 osio VERB
 usuñ NOUN
 , PUNCT
@@ -7239,7 +6933,6 @@ Ekeñwe PROPN
 , PUNCT
 enye PRON
 ekpe VERB
-
 enye PRON
 ubọk NOUN
 kaña ADV
@@ -7262,7 +6955,6 @@ ntre ADV
 
 Ete NOUN
 ufin NOUN
-
 mi PRON
 mbọk ADV
 , PUNCT
@@ -7284,7 +6976,6 @@ osop VERB
 enye PRON
 esin VERB
 nda VERB
-
 enye PRON
 mbe VERB
 ndi VERB
@@ -7309,7 +7000,6 @@ kaña CCONJ
 . PUNCT
 
 Mma PRON
-
 ñkut VERB
 utọ NOUN
 eyen NOUN
@@ -7345,8 +7035,8 @@ ese VERB
 enye PRON
 ọdọk VERB
 , PUNCT
-
-ese.enye VERB
+ese VERB
+enye PRON
 osuk VERB
 , PUNCT
 ọwọñọde VERB
@@ -7364,7 +7054,6 @@ ese VERB
 ayak VERB
 ikañ NOUN
 enim VERB
-
 ke ADP
 isọñ NOUN
 otop VERB
@@ -7383,7 +7072,6 @@ ikọfiọkke VERB
 aba ADV
 se PRON
 enye PRON
-
 akpanamde VERB
 . PUNCT
 
@@ -7402,7 +7090,6 @@ idem NOUN
 ke ADP
 ibuot NOUN
 tutu ADV
-
 esim VERB
 ikpat NOUN
 . PUNCT
@@ -7424,7 +7111,6 @@ ke ADP
 ibiọñ NOUN
 ukot NOUN
 kiet NUM
-
 ke ADP
 esa NOUN
 esie PRON
@@ -7451,7 +7137,6 @@ ete VERB
 imọ PRON
 ida VERB
 eyen NOUN
-
 añwan NOUN
 oro PRON
 ke ADP
@@ -7472,7 +7157,6 @@ etiñ VERB
 ọnọ VERB
 ete NOUN
 ufin NOUN
-
 esie PRON
 . PUNCT
 
@@ -7494,7 +7178,6 @@ onyuñ SCONJ
 enye PRON
 ete VERB
 enye PRON
-
 ọnyọñ ADV
 ufọk NOUN
 esie PRON
@@ -7527,7 +7210,6 @@ esie PRON
 etim ADV
 ese VERB
 Ekeñwe PROPN
-
 ese VERB
 enye PRON
 ama ADV
@@ -7551,7 +7233,6 @@ ntem PRON
 Ke ADP
 ini NOUN
 emi PRON
-
 Adie NOUN
 , PUNCT
 Akwa ADJ
@@ -7570,7 +7251,6 @@ enye PRON
 etiñde VERB
 , PUNCT
 enye VERB
-
 obumede VERB
 adaha VERB
 ke VERB
@@ -7591,7 +7271,6 @@ itibede VERB
 
 Enye PRON
 ama VERB
-
 edemede VERB
 ke ADP
 ini NOUN
@@ -7610,7 +7289,6 @@ Nse PROPN
 , PUNCT
 onyuñ SCONJ
 ana VERB
-
 do PRON
 ke ADP
 mkpana NOUN
@@ -7618,7 +7296,7 @@ añwana VERB
 ndikpañ VERB
 utọñ NOUN
 ke ADP
-rmeme NOUN
+nneme NOUN
 mmọ PRON
 , PUNCT
 edi CCONJ
@@ -7630,7 +7308,6 @@ kiet NUM
 . PUNCT
 
 Ntak PRON
-
 edi VERB
 oro PRON
 enye PRON
@@ -7651,7 +7328,6 @@ idige VERB
 edi VERB
 esit NOUN
 inemke VERB
-
 imọ PRON
 . PUNCT
 
@@ -7673,7 +7349,6 @@ eketiede VERB
 
 Enye PRON
 ñko ADV
-
 emen VERB
 ikañ NOUN
 asaña VERB
@@ -7693,7 +7368,6 @@ Eyen NOUN
 añwan NOUN
 enye PRON
 emi PRON
-
 oto NOUN
 mmọñ PRON
 ? PUNCT
@@ -7717,7 +7391,6 @@ emi ADV
 Do ADV
 ke ADP
 Adie NOUN
-
 ọtọñọ VERB
 ntak ADV
 obup VERB
@@ -7739,7 +7412,6 @@ Nse PROPN
 Ediañ PROPN
 ọbọrọ VERB
 enye PRON
-
 ete VERB
 imọ PRON
 iyetiñ VERB
@@ -7758,7 +7430,6 @@ Ekeñwe PROPN
 anana VERB
 tutu ADV
 eyo NOUN
-
 esiere VERB
 . PUNCT
 
@@ -7783,7 +7454,6 @@ Anie PRON
 ọdọhọ VERB
 fi PRON
 ete VERB
-
 mmekeme PRON
 ndiduk VERB
 ke ADP
@@ -7803,7 +7473,6 @@ oro PRON
 ide NOUN
 , PUNCT
 enye PRON
-
 ayak VERB
 etie VERB
 . PUNCT
@@ -7819,9 +7488,7 @@ efen PRON
 enye VERB
 . PUNCT
 
-Mma PRON
-- PUNCT
-daha VERB
+Mmadaha VERB
 okim PRON
 ñka VERB
 ndinana NOUN
@@ -7829,7 +7496,6 @@ ndinana NOUN
 
 Adie NOUN
 ekedi VERB
-
 ata ADV
 ediye ADJ
 añwan NOUN
@@ -7853,7 +7519,6 @@ ofuri ADV
 obio NOUN
 Ibinọ NOUN
 , PUNCT
-
 baba PRON
 ñwan NOUN
 kiet NUM
@@ -7872,7 +7537,6 @@ ekedi VERB
 ntak ADV
 emi PRON
 enye PRON
-
 ekenyenede VERB
 itie NOUN
 Akwa ADJ
@@ -7887,7 +7551,6 @@ Nse PROPN
 Ediañ PROPN
 akakpade VERB
 mkpa NOUN
-
 ndiye ADJ
 iban NOUN
 . PUNCT
@@ -7914,12 +7577,11 @@ owo NOUN
 ofu VERB
 ifu NOUN
 , PUNCT
-
 mbiet NOUN
 iduhe VERB
 . PUNCT
 
-Isimañama VERB
+Isimaña VERB
 ndikop VERB
 ete PRON
 ñwan NOUN
@@ -7935,7 +7597,6 @@ enye PRON
 Ntak PRON
 ekedi VERB
 oro PRON
-
 ke ADP
 ini NOUN
 emi PRON
@@ -7974,7 +7635,6 @@ enye PRON
 ete PRON
 , PUNCT
 nte PRON
-
 ọdisọsọñ VERB
 itre VERB
 , PUNCT
@@ -7992,7 +7652,6 @@ ndọ NOUN
 esie PRON
 , PUNCT
 ndien CCONJ
-
 mikpemeke VERB
 Ekeñwe PROPN
 eyebọ VERB
@@ -8010,7 +7669,6 @@ okoneyo NOUN
 oro PRON
 , PUNCT
 uyai ADJ
-
 Ekeñwe PROPN
 ama VERB
 akpañ VERB
@@ -8040,7 +7698,6 @@ ndika VERB
 ñkanam VERB
 ekpri ADJ
 utom NOUN
-
 oro PRON
 nnọ VERB
 ebe NOUN
@@ -8059,7 +7716,6 @@ esie PRON
 ke ADP
 okoneyo NOUN
 usen NOUN
-
 oro PRON
 nte PRON
 enye PRON
@@ -8081,7 +7737,6 @@ ete NOUN
 , PUNCT
 ‘ PUNCT
 Se VERB
-
 mi PRON
 Adie NOUN
 , PUNCT
@@ -8103,7 +7758,6 @@ ke ADP
 ufọk NOUN
 mi PRON
 , PUNCT
-
 nyọñ VERB
 esa NOUN
 fo PRON
@@ -8126,7 +7780,6 @@ Mmọdo VERB
 enye PRON
 adaha VERB
 , PUNCT
-
 atuak VERB
 idem NOUN
 , PUNCT
@@ -8149,7 +7802,6 @@ ama VERB
 ọwọwọrọ VERB
 ama ADV
 , PUNCT
-
 mme PRON
 iwọrọke VERB
 , PUNCT
@@ -8173,9 +7825,7 @@ ete VERB
 , PUNCT
 ‘ PUNCT
 Ka VERB
-
 a INTJ
-1 NUM
 ọtọñọde ADP
 ke PRON
 okoneyo NOUN
@@ -8212,7 +7862,6 @@ kiet ADV
 onyuñ SCONJ
 emen VERB
 ofuri ADV
-
 ofuri ADV
 se PRON
 iketibede VERB
@@ -8232,7 +7881,6 @@ Nse PROPN
 Ediañ PROPN
 etetibi ADV
 ndisua VERB
-
 Ekeñwe PROPN
 kpa ADV
 ke ADP
@@ -8271,7 +7919,6 @@ edeme NOUN
 mmọ PRON
 enim VERB
 ndida VERB
-
 ndọhọ VERB
 Ekeñwe PROPN
 ñkpọ NOUN
@@ -8332,7 +7979,6 @@ enye PRON
 okotode VERB
 enye PRON
 esin VERB
-
 ekemumde VERB
 enye PRON
 enyam VERB
@@ -8355,7 +8001,6 @@ Mbufo PRON
 ikwe VERB
 nte PRON
 enye PRON
-
 osuk VERB
 enimde VERB
 iso NOUN
@@ -8376,7 +8021,6 @@ idige VERB
 owo NOUN
 , PUNCT
 edi CCONJ
-
 Idem NOUN
 - PUNCT
 mmọñ NOUN
@@ -8395,10 +8039,7 @@ baba ADV
 utom NOUN
 kiet NUM
 efen PRON
-, PUNCT
-ibọhọke VERB
-
-Ndien CCONJ
+, Ndien CCONJ
 mmọ PRON
 ema VERB
 enyuñ CCONJ
@@ -8428,7 +8069,6 @@ ke ADP
 otu ADP
 mmọ PRON
 ete VERB
-
 Enyene ADV
 ata ADJ
 akamba ADJ
@@ -8444,7 +8084,6 @@ enye PRON
 okotode ADP
 enye PRON
 esin VERB
-
 ekemumde VERB
 enye PRON
 enyam VERB
@@ -8464,7 +8103,6 @@ Mbufo PRON
 ikwe VERB
 nte ADV
 enye PRON
-
 osuk VERB
 enimde VERB
 iso NOUN
@@ -8483,7 +8121,6 @@ iso NOUN
 enye PRON
 idige VERB
 owo NOUN
-
 Idem NOUN
 - PUNCT
 mmọñ NOUN
@@ -8502,7 +8139,6 @@ utom NOUN
 kiet NUM
 efen ADJ
 ibọhọke CCONJ
-
 ndisaña VERB
 nduk VERB
 nnyuñ CCONJ
@@ -8521,7 +8157,6 @@ ewọrọde VERB
 esaña VERB
 esim VERB
 esa NOUN
-
 iban NOUN
 mmọ PRON
 ekpọk VERB
@@ -8540,7 +8175,6 @@ do ADP
 Edi CCONJ
 mmọ PRON
 ekesak VERB
-
 imam NOUN
 oro ADP
 ikpikpu ADJ
@@ -8569,7 +8203,6 @@ ikonyuñ VERB
 inyimeke VERB
 ndidaha VERB
 ñkpọñ NOUN
-
 enye PRON
 ikpat NOUN
 kiet NUM
@@ -8590,7 +8223,6 @@ Ama ADP
 oto ADP
 ke ADP
 usen NOUN
-
 kiet NUM
 ebe VERB
 odoro VERB
@@ -8611,7 +8243,6 @@ kiet NUM
 ama VERB
 ọdọk VERB
 esim VERB
-
 ọfiọñ NOUN
 kiet NUM
 Nse NOUN
@@ -8630,7 +8261,6 @@ aban NOUN
 . PUNCT
 
 iban NOUN
-
 eken ADJ
 etiñde VERB
 ikọ NOUN
@@ -8638,9 +8268,7 @@ ye CCONJ
 enye PRON
 Nse NOUN
 Ediañ NOUN
-imene VERB
-- PUNCT
-kede VERB
+imenekede VERB
 enyịn NOUN
 ise VERB
 mme ADJ
@@ -8669,7 +8297,6 @@ ini NOUN
 mmọ PRON
 esitetem VERB
 udia NOUN
-
 emen VERB
 ekediọk VERB
 ke ADP
@@ -8686,7 +8313,6 @@ ebit ADJ
 mmọ PRON
 etọñọ ADJ
 ntak ADV
-
 emen VERB
 ekeyọk VERB
 efiak ADV
@@ -8700,11 +8326,9 @@ ntak ADV
 ebit ADJ
 ọyọhọ ADP
 ikaba ADJ
-
 Ndusuk ADJ
 ini NOUN
 udia NOUN
-
 oro ADP
 esinana ADV
 do ADP
@@ -8715,14 +8339,11 @@ emen VERB
 ekeduọk VERB
 
 Ukpọk CCONJ
-ọñwa NOUN
+añwa NOUN
 Nse PROPN
 Ediañ PROPN
-ikenyi VERB
-- PUNCT
-meke VERB
+ikenyimeke VERB
 aba NUM
-
 ndiwọrọ VERB
 ke ADP
 ntak ADV
@@ -8740,7 +8361,6 @@ Ekeñwe PROPN
 ikenyimeke VERB
 nnyime VERB
 Nse PROPN
-
 Ediañ PROPN
 ima NOUN
 ikọnọñọnọ VERB
@@ -8758,7 +8378,6 @@ ye CCONJ
 enye PRON
 tọñọ ADV
 nte CCONJ
-
 enye PRON
 okododuk VERB
 ke ADP
@@ -8783,7 +8402,6 @@ Ke ADP
 akpatre ADJ
 mmọ PRON
 emen VERB
-
 ikọ NOUN
 emi CCONJ
 eketọt VERB
@@ -8803,7 +8421,6 @@ iso NOUN
 ikpe NOUN
 ke ADP
 ibuot NOUN
-
 iban NOUN
 eken ADJ
 . PUNCT
@@ -8828,7 +8445,6 @@ ibeñe VERB
 mbufo PRON
 ndidi VERB
 mi NOUN
-
 ndidi VERB
 ntiense NOUN
 nnọ VERB
@@ -8849,7 +8465,6 @@ Ebe NOUN
 nnyịn PRON
 idiọkke ADJ
 nnyịn PRON
-
 ndikama VERB
 edi VERB
 nnyịn PRON
@@ -8868,7 +8483,6 @@ nnyịn PRON
 inam VERB
 ntre ADV
 kpukpru PRON
-
 nnyịn PRON
 kiet NUM
 kiet NUM
@@ -8905,7 +8519,6 @@ Owo NOUN
 ikopke VERB
 kop VERB
 eñwan NOUN
-
 eyekop VERB
 edem ADP
 ke ADP
@@ -8971,7 +8584,6 @@ emi CCONJ
 ọbọñ NOUN
 Ete NOUN
 ọdọde VERB
-
 idaha ADP
 emi CCONJ
 . PUNCT
@@ -8992,7 +8604,6 @@ Ebe NOUN
 akam NOUN
 amama VERB
 obufa ADJ
-
 añwan NOUN
 esie PRON
 edi VERB
@@ -9013,7 +8624,6 @@ ama VERB
 enye PRON
 tutu ADP
 ọtọñọ ADV
-
 nditeñe ADJ
 . PUNCT
 
@@ -9032,11 +8642,8 @@ aba ADV
 iñwañ NOUN
 ukpọk ADP
 añwa NOUN
-
 enye PRON
-inye VERB
-- PUNCT
-neke VERB
+inyeneke VERB
 aba ADV
 ifet NOUN
 ndiwọrọ VERB
@@ -9070,7 +8677,6 @@ enye PRON
 ke ADP
 enyịn NOUN
 enye PRON
-
 ñko ADV
 ikereke VERB
 kere VERB
@@ -9089,7 +8695,6 @@ ndi VERB
 eti ADJ
 ima NOUN
 edi VERB
-
 oro ADP
 ? PUNCT
 
@@ -9130,7 +8735,6 @@ Edi CCONJ
 idige VERB
 enyene VERB
 ndita VERB
-
 mbiam NOUN
 oro PRON
 isañ NOUN
@@ -9154,7 +8758,6 @@ mbiam NOUN
 
 Koro CCONJ
 nte ADV
-
 eyen NOUN
 añwan NOUN
 oro ADP
@@ -9168,7 +8771,6 @@ edi VERB
 emi CCONJ
 enye PRON
 itiñke VERB
-
 ndomo ADV
 baba ADV
 ikọ NOUN
@@ -9257,7 +8859,6 @@ ikpọñ ADJ
 . PUNCT
 
 Se INTJ
-
 mbiam NOUN
 mi NOUN
 bọ VERB
@@ -9277,7 +8878,6 @@ osuk VERB
 enye PRON
 ibọk NOUN
 ima NOUN
-
 mibam NOUN
 ye CCONJ
 afo PRON
@@ -9401,7 +9001,6 @@ imọ PRON
 iyenyọñ VERB
 idi VERB
 mi NOUN
-
 ke ADP
 ọfiọñ NOUN
 efen ADJ
@@ -9432,7 +9031,6 @@ eketiede VERB
 ke ADP
 isọñ NOUN
 ọsuhọ VERB
-
 idem NOUN
 eyemede ADJ
 enye PRON
@@ -9491,7 +9089,6 @@ di VERB
 tiene VERB
 mi PRON
 mum VERB
-
 eyen NOUN
 emi PRON
 
@@ -9565,7 +9162,6 @@ ada ADJ
 ibọhọke CCONJ
 Efembe PROPN
 emi PRON
-
 akamande VERB
 mkpasip ADJ
 eyen NOUN
@@ -9583,7 +9179,6 @@ iban NOUN
 Nse PROPN
 Ediañ PROPN
 eken ADJ
-
 ekedude VERB
 ke ADP
 Ibinọ NOUN
@@ -9600,7 +9195,6 @@ ke ADP
 obio NOUN
 iñwañ NOUN
 anam VERB
-
 ñkpri ADJ
 mbubehe NOUN
 esie PRON
@@ -9620,7 +9214,6 @@ ama VERB
 esim VERB
 enye PRON
 do ADP
-
 ndien CCONJ
 esit NOUN
 ikenemke ADJ
@@ -9636,7 +9229,6 @@ enye PRON
 mikekwe VERB
 kaña CCONJ
 Ekeñwe PROPN
-
 ke ADP
 enyịn NOUN
 tọñọ ADV
@@ -9656,7 +9248,6 @@ Ediañ PROPN
 . PUNCT
 
 Mikpedige CCONJ
-
 ekesọpde ADV
 etiñ VERB
 enọ VERB
@@ -9670,7 +9261,6 @@ ke ADP
 Umani NOUN
 akaduakde VERB
 ndisọp ADV
-
 ndi VERB
 ke ADP
 Ibinọ NOUN
@@ -9686,7 +9276,6 @@ iban NOUN
 Nse PROPN
 Ediañ PROPN
 eken ADJ
-
 ntiene VERB
 mmọ PRON
 ntimede VERB
@@ -9702,7 +9291,6 @@ ye CCONJ
 Ekeñwe PROPN
 abiara ADJ
 ofuri ADV
-
 ofuri ADV
 . PUNCT
 
@@ -9722,7 +9310,6 @@ edọk VERB
 eka VERB
 ndisọbọ VERB
 idem NOUN
-
 ke ADP
 obio NOUN
 iñwañ NOUN
@@ -9740,7 +9327,6 @@ okut VERB
 Ekeñwe PROPN
 enye PRON
 ama VERB
-
 ọtọñọ ADV
 nditua VERB
 ọkpọsọñ ADJ
@@ -9750,30 +9336,13 @@ eyet NOUN
 . PUNCT
 
 Edieke CCONJ
-ekpe NOUN
-- PUNCT
-dide VERB
+ekpedide VERB
 akpan NOUN
 esie PRON
 Eburutu PROPN
 nte CCONJ
 oro ADP
-
-
-
-
-
-
-
 eti ADJ
-
-
-
-
-
-
-
-
 
 Nse PROPN
 Ediañ PROPN
@@ -9816,7 +9385,6 @@ ebe VERB
 oduk VERB
 ada VERB
 anam VERB
-
 ukem ADV
 ukem ADV
 nte CCONJ
@@ -9833,7 +9401,6 @@ esie PRON
 ke ADP
 ata ADJ
 esit NOUN
-
 ima NOUN
 ye CCONJ
 akpanikọ NOUN
@@ -9852,7 +9419,6 @@ eke ADP
 etiede VERB
 ntem ADJ
 enye PRON
-
 odomo VERB
 nsọñ ADJ
 idem NOUN
@@ -9867,7 +9433,6 @@ eka NOUN
 esie PRON
 emi CCONJ
 enye PRON
-
 ndimana VERB
 nnyọ VERB
 enye PRON
@@ -9887,7 +9452,6 @@ inyene VERB
 odudu NOUN
 ke ADP
 udọñọ NOUN
-
 nte ADV
 ata ADJ
 ima NOUN
@@ -9907,7 +9471,6 @@ ikebehe VERB
 oro ADP
 tutu ADP
 ke ADP
-
 ọyọhọ ADP
 usen NOUN
 edip NUM
@@ -9924,7 +9487,6 @@ Efembe PROPN
 idem NOUN
 Ekeñwe PROPN
 ama VERB
-
 ọtọñọ ADV
 nditiam VERB
 esisit ADJ
@@ -9940,7 +9502,6 @@ ndidaha VERB
 ke ADP
 enyọñ NOUN
 ikpọñ ADJ
-
 ntetie VERB
 nnyuñ CCONJ
 mbọ VERB
@@ -9965,7 +9526,6 @@ esie PRON
 eyenede VERB
 ọnọ VERB
 Ekeñwe PROPN
-
 ye CCONJ
 usuñ ADJ
 nte CCONJ
@@ -9984,7 +9544,6 @@ Ekeñwe PROPN
 ndikop VERB
 nsọñ ADJ
 idem NOUN
-
 enye PRON
 ama VERB
 ebiere VERB
@@ -10002,7 +9561,6 @@ man CCONJ
 enye PRON
 eketim VERB
 ufọk NOUN
-
 ebet VERB
 edibehe VERB
 Eburutu PROPN
@@ -10022,7 +9580,6 @@ nte ADV
 isua NOUN
 itiaba NUM
 enye PRON
-
 ikesimke VERB
 ufọk NOUN
 edi CCONJ
@@ -10040,7 +9597,6 @@ Mmọdo ADV
 ofuri ADJ
 obio NOUN
 Ibinọ NOUN
-
 ekedarade VERB
 enye PRON
 eti ADJ
@@ -10059,7 +9615,6 @@ ekese ADP
 owo NOUN
 ke ADP
 obio NOUN
-
 ikpetimke ADV
 idiọñọ VERB
 enye PRON
@@ -10075,7 +9630,6 @@ akabade VERB
 ata ADJ
 asian ADJ
 ediye ADJ
-
 akparawa NOUN
 ukem ADV
 ukem ADV
@@ -10093,7 +9647,6 @@ owo NOUN
 kiet NUM
 ikemeke VERB
 nditim VERB
-
 ntiñ VERB
 ọfọn ADJ
 nte CCONJ
@@ -10114,7 +9667,6 @@ esie PRON
 ye CCONJ
 Ekeñwe PROPN
 nte ADV
-
 ndibe ADJ
 añwan NOUN
 ima NOUN
@@ -10131,7 +9683,6 @@ akamade VERB
 onyuñ CCONJ
 esinde VERB
 esit NOUN
-
 akaha ADJ
 . PUNCT
 
@@ -10154,7 +9705,6 @@ oro ADP
 Se CCONJ
 ededi ADJ
 emi CCONJ
-
 Eburutu PROPN
 okoyomde VERB
 , PUNCT
@@ -10170,7 +9720,6 @@ ama VERB
 ọnọ VERB
 enye PRON
 ke ADP
-
 ntarubọk ADJ
 . PUNCT
 
@@ -10185,7 +9734,6 @@ utom NOUN
 enye PRON
 , PUNCT
 ayak VERB
-
 ibat NOUN
 . PUNCT
 
@@ -10206,7 +9754,6 @@ enye PRON
 ama VERB
 ọkpọñ VERB
 Ekeñwe PROPN
-
 ọnọ VERB
 nditọ NOUN
 iban NOUN
@@ -10219,12 +9766,10 @@ nditiene VERB
 ndara VERB
 akpan NOUN
 esie PRON
-
 Ke ADP
 ini NOUN
 emi CCONJ
 enye PRON
-
 ama VERB
 eketie VERB
 do ADP
@@ -10243,7 +9788,6 @@ owo NOUN
 udọñọ NOUN
 esie PRON
 ke ADP
-
 iñwañ NOUN
 . PUNCT
 
@@ -10251,9 +9795,7 @@ Mbemiso ADP
 enye PRON
 adaha VERB
 , PUNCT
-Ebu NOUN
-- PUNCT
-rutu NOUN
+Eburutu NOUN
 asian VERB
 enye PRON
 usen NOUN
@@ -10264,7 +9806,6 @@ iñwañ NOUN
 iketie VERB
 do ADP
 ye CCONJ
-
 enye PRON
 ñko ADV
 . PUNCT
@@ -10284,7 +9825,6 @@ ndep VERB
 udia NOUN
 ye CCONJ
 ñkpọ NOUN
-
 udia NOUN
 mbon VERB
 mbeñe VERB
@@ -10305,7 +9845,6 @@ ntre ADV
 ke ADP
 idem NOUN
 Ekeñwe PROPN
-
 akaka ADJ
 iso ADP
 ndisọñ ADJ
@@ -10323,7 +9862,6 @@ mbemiso ADP
 , PUNCT
 tutu ADP
 enye PRON
-
 ọtọñọ ADV
 ndifiak VERB
 ke ADP
@@ -10343,7 +9881,6 @@ ke ADP
 esa NOUN
 iban NOUN
 ete NOUN
-
 esie PRON
 Ambo PROPN
 Eta PROPN
@@ -10369,7 +9906,6 @@ ediye ADJ
 akparawa NOUN
 nte ADV
 Eburutu PROPN
-
 emenerede VERB
 enyịn NOUN
 esie PRON
@@ -10387,7 +9923,6 @@ mmọ PRON
 owo NOUN
 iba NUM
 oro ADP
-
 enyenede VERB
 ndidu VERB
 ke ADP
@@ -10408,7 +9943,6 @@ ima NOUN
 iyikke VERB
 Nse PROPN
 Ediañ PROPN
-
 ñko ADV
 ikeyikke VERB
 . PUNCT
@@ -10425,7 +9959,6 @@ usenubọk NOUN
 usen NOUN
 emi PRON
 Eburutu PROPN
-
 ọkọtọñọde VERB
 nditim VERB
 idem NOUN
@@ -10441,7 +9974,6 @@ Ekeñwe PROPN
 añwan NOUN
 ete NOUN
 esie PRON
-
 ekedude VERB
 . PUNCT
 
@@ -10459,16 +9991,13 @@ nditibe VERB
 , PUNCT
 Nse PROPN
 Ediañ PROPN
-
 esin VERB
 uyo NOUN
 okot VERB
 Atimba PROPN
 , PUNCT
 eyenọwọñ NOUN
-mbuọ ADJ
-- PUNCT
-tidem ADJ
+mbuọtidem ADJ
 esie PRON
 , PUNCT
 ọdọhọ VERB
@@ -10480,7 +10009,6 @@ idem NOUN
 ọsọp VERB
 edika VERB
 obio NOUN
-
 iñwañ NOUN
 ọnọ VERB
 imọ PRON
@@ -10513,7 +10041,6 @@ mi NOUN
 . PUNCT
 
 Dọhọ VERB
-
 Nsopikpo NOUN
 añwan NOUN
 mi NOUN
@@ -10523,7 +10050,7 @@ atat VERB
 enyịn NOUN
 esie PRON
 etim VERB
-ekpene VERB
+ekpeme VERB
 Ekeñwe PROPN
 ọnọ VERB
 mi NOUN
@@ -10531,7 +10058,6 @@ mi NOUN
 okuyak VERB
 akpan NOUN
 mi NOUN
-
 ada VERB
 mbubru NOUN
 ye CCONJ
@@ -10549,7 +10075,6 @@ emi PRON
 ke ADP
 edem ADP
 Efembe PROPN
-
 Ima NOUN
 eka NOUN
 ye CCONJ
@@ -10569,7 +10094,6 @@ do ADP
 adaha VERB
 aka VERB
 utom NOUN
-
 emi PRON
 ekedọñde VERB
 enye PRON
@@ -10611,7 +10135,6 @@ efen ADJ
 ? PUNCT
 
 ñkpamaña ADJ
-
 nte ADV
 afo PRON
 asañade VERB
@@ -10668,7 +10191,7 @@ ema VERB
 ebe VERB
 , PUNCT
 ke ADP
-rmyọñ NOUN
+nyọñ NOUN
 ndi VERB
 . PUNCT
 
@@ -10699,7 +10222,6 @@ Edi CCONJ
 kpa ADV
 nte ADV
 Nse PROPN
-
 Ediañ PROPN
 ekekerede VERB
 , PUNCT
@@ -10710,14 +10232,13 @@ mmọñ NOUN
 asañade VERB
 oduk VERB
 ọkpọ NOUN
-rmañi NOUN
+nmañi NOUN
 . PUNCT
 
 ima NOUN
 etie VERB
 ntre ADV
 ukem ADV
-
 ukem ADV
 . PUNCT
 
@@ -10741,7 +10262,6 @@ oko ADP
 Obot NOUN
 okoñ ADJ
 nte ADV
-
 edi CCONJ
 kokoñ ADJ
 , PUNCT
@@ -10760,7 +10280,6 @@ ituñọke ADJ
 ikan ADP
 nte ADV
 ima NOUN
-
 mikemeke ADV
 ndideñ VERB
 nsim VERB
@@ -10778,7 +10297,6 @@ ebọp VERB
 ima NOUN
 okuk NOUN
 , PUNCT
-
 eda VERB
 ñkpọsọñ ADJ
 ñkpọkọbi NOUN
@@ -10795,7 +10313,6 @@ idat ADJ
 ye CCONJ
 anawuriekpe NOUN
 ye CCONJ
-
 mbon NOUN
 ekọñ NOUN
 ebon VERB
@@ -10806,15 +10323,12 @@ oro ADP
 ima NOUN
 onyuñ CCONJ
 akan ADJ
-kpu ADJ
-- PUNCT
-kpru ADJ
+kpukpru ADJ
 mmọ PRON
 , PUNCT
 ebe VERB
 oduk VERB
 ufọk NOUN
-
 oro ADP
 ebine VERB
 se ADP
@@ -10837,7 +10351,6 @@ efefehe VERB
 enye PRON
 , PUNCT
 koro CCONJ
-
 ima NOUN
 ikemeke VERB
 ndikpa ADJ
@@ -10859,7 +10372,6 @@ Ekeñwe PROPN
 onyuñ CCONJ
 okopde VERB
 ke ADP
-
 inua NOUN
 eka NOUN
 esie PRON
@@ -10879,7 +10391,6 @@ nte ADV
 idim NOUN
 ke ADP
 esit NOUN
-
 esie PRON
 . PUNCT
 
@@ -10898,7 +10409,6 @@ eke PRON
 eyen NOUN
 esie PRON
 ama VERB
-
 esie PRON
 utim ADJ
 ikoduop ADJ
@@ -10915,7 +10425,6 @@ ndikpan VERB
 ima NOUN
 emi PRON
 ọkọwọrọ VERB
-
 ikpikpu ADJ
 ye CCONJ
 ukpọk ADP
@@ -10939,7 +10448,6 @@ edem ADP
 ke ADP
 otu ADP
 mmọ PRON
-
 owo NOUN
 iba NUM
 emi PRON
@@ -10959,7 +10467,6 @@ edi CCONJ
 edu NOUN
 mmọ PRON
 mbun VERB
-
 . PUNCT
 
 Usen NOUN
@@ -10998,7 +10505,6 @@ eyen NOUN
 añwan NOUN
 emi PRON
 , PUNCT
-
 ye CCONJ
 enye PRON
 amade VERB
@@ -11021,7 +10527,6 @@ Usen NOUN
 oro ADP
 enye PRON
 ọnọ VERB
-
 mkpa NOUN
 - PUNCT
 esie PRON
@@ -11039,7 +10544,6 @@ esie PRON
 kiet NUM
 , PUNCT
 ebeñe VERB
-
 idem NOUN
 ndida VERB
 enye PRON
@@ -11060,7 +10564,6 @@ idem NOUN
 ema VERB
 , PUNCT
 mbemiso ADP
-
 Eburutu PROPN
 oduk VERB
 ubom ADJ
@@ -11081,7 +10584,6 @@ enye PRON
 . PUNCT
 
 Ebiet NOUN
-
 eke ADP
 imọ PRON
 ifọfiọk ADV
@@ -11103,7 +10605,6 @@ Edi CCONJ
 imọ PRON
 isehe ADV
 ite ADV
-
 enye PRON
 eyetọñọ VERB
 ntak ADV
@@ -11141,8 +10642,7 @@ eti ADJ
 eti ADJ
 . PUNCT
 
-lyip NOUN
-
+Iyip NOUN
 inua NOUN
 , PUNCT
 ifọñke ADJ
@@ -11161,7 +10661,6 @@ ama VERB
 nditua VERB
 ñkpọfiọk NOUN
 ke ADP
-
 edinam NOUN
 esie PRON
 . PUNCT
@@ -11183,7 +10682,6 @@ ini NOUN
 kiet NUM
 ye CCONJ
 uyọhọ ADJ
-
 idorenyịn NOUN
 ndisuhọde VERB
 ñka VERB
@@ -11199,7 +10697,6 @@ ibuot NOUN
 Ekeñwe PROPN
 nnyuñ CCONJ
 nnam VERB
-
 emem NOUN
 ye CCONJ
 enye PRON
@@ -11218,7 +10715,6 @@ ima NOUN
 oro PRON
 , PUNCT
 enye PRON
-
 idem NOUN
 nditop VERB
 utọ ADV
@@ -11237,7 +10733,6 @@ Ntre CCONJ
 enye PRON
 ama VERB
 ọsọp VERB
-
 ọkọwọrọ VERB
 ke ADP
 Ibinọ NOUN
@@ -11254,7 +10749,6 @@ esie PRON
 . PUNCT
 
 Baba ADV
-
 owo NOUN
 kiet NUM
 ikonyuñ VERB
@@ -11287,7 +10781,6 @@ edinam NOUN
 eyen NOUN
 esie PRON
 , PUNCT
-
 isuñ NOUN
 oduk VERB
 etiene VERB
@@ -11305,7 +10798,6 @@ esie PRON
 ọdọñ VERB
 ete VERB
 editiñ VERB
-
 enọ VERB
 enye PRON
 ke ADP
@@ -11322,7 +10814,6 @@ ndien CCONJ
 ndomo ADV
 owo NOUN
 kiet NUM
-
 ifiọkke VERB
 ebiet NOUN
 eke ADP
@@ -11341,7 +10832,6 @@ ndibọhọ VERB
 Nse PROPN
 Ediañ PROPN
 ke ADP
-
 ini NOUN
 emi CCONJ
 enye PRON
@@ -11363,7 +10853,6 @@ iwọrọ VERB
 mi NOUN
 ntem ADJ
 mbọk ADV
-
 ? PUNCT
 
 Mbufo PRON
@@ -11385,7 +10874,6 @@ ke ADP
 adan NOUN
 , PUNCT
 ubọk NOUN
-
 emi CCONJ
 ke ADP
 adan NOUN
@@ -11414,7 +10902,6 @@ ete NOUN
 okot VERB
 kpukpru ADJ
 mkparawa NOUN
-
 imọ PRON
 , PUNCT
 mmọ PRON
@@ -11436,7 +10923,6 @@ esio VERB
 man CCONJ
 imọ PRON
 ikasaña ADV
-
 iyom VERB
 nditọ NOUN
 imọ PRON
@@ -11459,7 +10945,6 @@ Ama ADP
 edi VERB
 ami PRON
 , PUNCT
-
 ndiduọkke VERB
 odudu NOUN
 tutu ADP
@@ -11487,7 +10972,6 @@ edidide VERB
 , PUNCT
 Okut VERB
 usọ NOUN
-
 Okponyuñ CCONJ
 ososuk ADV
 edi VERB
@@ -11515,7 +10999,6 @@ esie PRON
 ? PUNCT
 
 Owo NOUN
-
 etiene VERB
 ukut NOUN
 , PUNCT
@@ -11534,7 +11017,6 @@ Ukut NOUN
 emi PRON
 Eburutu PROPN
 ekenyenede VERB
-
 ndiyọ ADJ
 mbemiso ADP
 enye PRON
@@ -11551,7 +11033,6 @@ se ADP
 baba ADV
 owo NOUN
 kiet NUM
-
 ekemede VERB
 ndibuk VERB
 ọfọn ADJ
@@ -11571,7 +11052,6 @@ ntre ADV
 iso NOUN
 ọfọn ADJ
 enye PRON
-
 akpamana VERB
 ekere VERB
 ikaba ADJ
@@ -11591,7 +11071,6 @@ inyañ NOUN
 ọnọ VERB
 nte ADV
 idiọk ADJ
-
 enyọñ NOUN
 ye CCONJ
 oyobio NOUN
@@ -11611,7 +11090,6 @@ kiet NUM
 ke ADP
 ubom NOUN
 esie PRON
-
 ikadiaha VERB
 se ADP
 ikañ NOUN
@@ -11630,7 +11108,6 @@ ye CCONJ
 mme PRON
 udia NOUN
 nde ADV
-
 eduọñọ VERB
 ke ADP
 mmọñ NOUN
@@ -11662,7 +11139,6 @@ aba ADV
 koro CCONJ
 mbufut ADJ
 akpa NOUN
-
 ama VERB
 osio VERB
 etie VERB
@@ -11683,7 +11159,6 @@ otu ADP
 mkparawa NOUN
 eken ADJ
 emi PRON
-
 ekesuhọde ADP
 ke ADP
 ubom NOUN
@@ -11699,7 +11174,6 @@ ndiwat VERB
 ñkọwọrọ VERB
 ke ADP
 Abana NOUN
-
 ikoduhe ADJ
 . PUNCT
 
@@ -11723,7 +11197,6 @@ mmọ PRON
 ke ADP
 usuñ NOUN
 nte ADV
-
 mmọ PRON
 ekpekemede VERB
 ndibup VERB
@@ -11739,7 +11212,6 @@ usuñ NOUN
 ndiwat VERB
 ñkọwọrọ VERB
 ke ADP
-
 ebiet NOUN
 emi PRON
 mmọ PRON
@@ -11759,7 +11231,6 @@ emi PRON
 ekeme VERB
 ndinam VERB
 baba ADV
-
 eti ADJ
 ñkpọ NOUN
 kiet NUM
@@ -11796,7 +11267,6 @@ mkparawa NOUN
 ubom NOUN
 esie PRON
 , PUNCT
-
 man CCONJ
 mmọ PRON
 esioño VERB
@@ -11815,7 +11285,6 @@ Baba ADV
 mmọ PRON
 owo NOUN
 kiet NUM
-
 ikesehese VERB
 enye PRON
 enyịn NOUN
@@ -11834,7 +11303,6 @@ ke ADP
 esit NOUN
 ufọk NOUN
 ubom NOUN
-
 nte ADV
 ñkpọ NOUN
 eke ADP
@@ -11853,7 +11321,6 @@ Akayak ADJ
 ata ADJ
 esisit ADJ
 , PUNCT
-
 Eburutu PROPN
 ikpetreke VERB
 ndiwọrọ VERB
@@ -11871,7 +11338,6 @@ ke ADP
 mfuhọ NOUN
 ye CCONJ
 iyaresit NOUN
-
 ke ADP
 esit NOUN
 esie PRON
@@ -11893,7 +11359,6 @@ akwa ADJ
 mfọn ADJ
 emi PRON
 enye PRON
-
 enimde VERB
 ọnọ VERB
 enye PRON
@@ -11916,7 +11381,6 @@ oduk VERB
 , PUNCT
 esin VERB
 ubọk NOUN
-
 ọnọ VERB
 Eburutu PROPN
 edinyaña NOUN
@@ -11934,7 +11398,6 @@ idap NOUN
 enye PRON
 obumede VERB
 ini NOUN
-
 kiet NUM
 adaha VERB
 ke ADP
@@ -11955,7 +11418,6 @@ ubom NOUN
 kiet NUM
 ko ADP
 ke ADP
-
 awat VERB
 edi CCONJ
 . PUNCT
@@ -11978,7 +11440,6 @@ imọ PRON
 ekpe VERB
 ye CCONJ
 mbon NOUN
-
 ubom NOUN
 oro ADP
 , PUNCT
@@ -11998,11 +11459,9 @@ edude VERB
 ye CCONJ
 usuñ NOUN
 ndiwat VERB
-
 ñkọwọrọ VERB
 ke ADP
 Abana NOUN
-
 Mkparawa NOUN
 emi PRON
 ema VERB
@@ -12017,7 +11476,6 @@ mmọ PRON
 , PUNCT
 mbon NOUN
 ubom NOUN
-
 oro ADP
 ema VERB
 etua VERB
@@ -12039,7 +11497,6 @@ inua NOUN
 Edi CCONJ
 se ADP
 iketimde ADV
-
 inem ADJ
 Eburutu PROPN
 esit NOUN
@@ -12059,7 +11516,6 @@ edu VERB
 ke ADP
 Abana NOUN
 ke ADP
-
 emi CCONJ
 . PUNCT
 
@@ -12083,7 +11539,6 @@ Ke ADP
 ini NOUN
 emi PRON
 mkparawa NOUN
-
 ubom NOUN
 Eburutu PROPN
 ekopde VERB
@@ -12104,7 +11559,6 @@ ke ADP
 idem NOUN
 , PUNCT
 iso NOUN
-
 mmọ PRON
 efiak ADV
 eñwaña VERB
@@ -12126,7 +11580,6 @@ esie PRON
 adia VERB
 , PUNCT
 ọtọñọ ADV
-
 ndineme VERB
 nneme NOUN
 nnyuñ CCONJ
@@ -12150,12 +11603,10 @@ ke ADP
 esuk NOUN
 Abana NOUN
 . PUNCT
-
 Edi CCONJ
 mbemiso ADP
 mmọ PRON
 esim VERB
-
 do ADP
 , PUNCT
 Eburutu PROPN
@@ -12174,7 +11625,6 @@ owo NOUN
 kiet NUM
 inyeneke VERB
 ndikpọñ VERB
-
 ubom ADJ
 oro ADP
 ñka VERB
@@ -12192,7 +11642,6 @@ ndisaña VERB
 ye CCONJ
 enye PRON
 ndọk ADJ
-
 obot NOUN
 . PUNCT
 
@@ -12212,7 +11661,6 @@ kiet NUM
 okut VERB
 enye PRON
 ke ADP
-
 enyịn NOUN
 tutu ADP
 enye PRON
@@ -12230,7 +11678,6 @@ ndisuhọde VERB
 ke ADP
 isọñ NOUN
 tutu ADP
-
 Eburutu PROPN
 afiak ADJ
 edi VERB
@@ -12249,7 +11696,6 @@ ata ADJ
 esit NOUN
 ime ADJ
 ndikpeme VERB
-
 mme ADJ
 ewuhọ NOUN
 emi PRON
@@ -12272,7 +11718,6 @@ Eburutu PROPN
 ekebede VERB
 ke ADP
 usuñ NOUN
-
 akasaña VERB
 oyom VERB
 kpa ADV
@@ -12292,7 +11737,6 @@ ekese ADP
 owo NOUN
 etoto ADJ
 ke ADP
-
 Ito NOUN
 ebe VERB
 esim VERB
@@ -12313,7 +11757,6 @@ Yak VERB
 kpukpru ADJ
 mme PRON
 okot VERB
-
 mbuk NOUN
 emi PRON
 eda VERB
@@ -12335,7 +11778,6 @@ oro ADP
 emi PRON
 edude VERB
 ekpere ADJ
-
 nnyịn PRON
 , PUNCT
 edi VERB
@@ -12348,7 +11790,6 @@ ke ADP
 uwem NOUN
 . PUNCT
 ‘ PUNCT
-
 Adan NOUN
 eke ADP
 ubọk NOUN
@@ -12359,7 +11800,6 @@ owo NOUN
 . PUNCT
 
 Ntem ADV
-
 ke ADP
 ubom NOUN
 oro ADP
@@ -12378,7 +11818,6 @@ iso ADP
 Ekeñwe PROPN
 emi PRON
 mmọ PRON
-
 ekeyomde VERB
 mi NOUN
 ke ADP
@@ -12411,7 +11850,6 @@ mkparawa NOUN
 iban NOUN
 ye CCONJ
 iden NOUN
-
 ekedu ADJ
 ke ADP
 efe NOUN
@@ -12427,12 +11865,10 @@ edinamde VERB
 ikpo NOUN
 esie PRON
 . PUNCT
-
 ọfiọñ PROPN
 Ambo PROPN
 Eta PROPN
 , PUNCT
-
 nte ADV
 Esukwa NOUN
 ọbọñ NOUN
@@ -12451,7 +11887,6 @@ uyom NOUN
 nnyuñ CCONJ
 mbeñe VERB
 obio NOUN
-
 ndinọ VERB
 enye PRON
 utọñ NOUN
@@ -12469,7 +11904,6 @@ ekikere NOUN
 esie PRON
 ke ADP
 ikọ NOUN
-
 edinam NOUN
 ikpo NOUN
 Ekeñwe PROPN
@@ -12487,7 +11921,6 @@ enye PRON
 okosobode VERB
 ke ADP
 usuñ NOUN
-
 ekpe VERB
 ete VERB
 ada VERB
@@ -12508,7 +11941,6 @@ nsọñidem NOUN
 Ambo PROPN
 Eta PROPN
 , PUNCT
-
 Ntekim NOUN
 ama VERB
 ada VERB
@@ -12529,7 +11961,6 @@ ini NOUN
 emi PRON
 mmọ PRON
 ema VERB
-
 ekesim VERB
 do ADP
 , PUNCT
@@ -12548,7 +11979,6 @@ ndinọ VERB
 idem NOUN
 esie PRON
 afanikọñ NOUN
-
 ndibup VERB
 ebiet NOUN
 emi PRON
@@ -12567,7 +11997,6 @@ owo NOUN
 kiet NUM
 kiet NUM
 okosuk ADV
-
 oyomde VERB
 ndikop VERB
 se ADP
@@ -12595,7 +12024,6 @@ ete VERB
 , PUNCT
 ‘ PUNCT
 Abana NOUN
-
 ! PUNCT
 
 Abana NOUN
@@ -12640,10 +12068,7 @@ iduọhọke VERB
 mi NOUN
 ñko ADV
 , PUNCT
-
-ndu NOUN
-- PUNCT
-duọhọ VERB
+nduduọhọ VERB
 ọduọhọ VERB
 Obot NOUN
 ye CCONJ
@@ -12659,7 +12084,6 @@ otu ADP
 nnyịn PRON
 mfep ADJ
 kpa ADV
-
 ke ADP
 idem NOUN
 ufọt ADJ
@@ -12680,15 +12104,12 @@ owo NOUN
 imoyom VERB
 enye PRON
 ke ADP
-
 kpukpru ADJ
 itie NOUN
 ye CCONJ
 ke ADP
 kpukpru ADJ
-ñkan NOUN
-- PUNCT
-ñkuk ADJ
+ñkanñkuk NOUN
 edi CCONJ
 nnyịn PRON
 ikwe VERB
@@ -12700,7 +12121,6 @@ imonyuñ ADV
 ikabade VERB
 inam VERB
 nte ADV
-
 iban NOUN
 , PUNCT
 ifuhọ VERB
@@ -12722,7 +12142,6 @@ nnyịn PRON
 Ke ADP
 emi PRON
 nnyịn PRON
-
 idikemeke ADV
 ndikut VERB
 enye PRON
@@ -12745,7 +12164,6 @@ ekpo NOUN
 , PUNCT
 idọk VERB
 udi NOUN
-
 ke ADP
 emi PRON
 ana VERB
@@ -12817,14 +12235,12 @@ eyen NOUN
 ọbọñ NOUN
 emi PRON
 ke ADP
-
 usuñ NOUN
 esuk NOUN
 , PUNCT
 ke ADP
 ọdọdọk ADV
 edi VERB
-
 ndien CCONJ
 enye PRON
 obup VERB
@@ -12842,10 +12258,9 @@ etiñ VERB
 ọnọ VERB
 mi NOUN
 ete VERB
-utorn NOUN
+utom NOUN
 imọ PRON
 edi VERB
-
 ndisaña VERB
 ntiñ VERB
 ikọ NOUN
@@ -12865,7 +12280,6 @@ sia CCONJ
 miduhe ADJ
 ke ADP
 nsọñ ADJ
-
 idem NOUN
 , PUNCT
 ami PRON
@@ -12929,7 +12343,6 @@ oro ADP
 Eyekut VERB
 se ADP
 afo PRON
-
 oyomde VERB
 . PUNCT
 
@@ -12986,7 +12399,6 @@ ndinọ VERB
 mi NOUN
 utọñ NOUN
 nte ADV
-
 mme PRON
 udiana ADJ
 esie PRON
@@ -13004,7 +12416,6 @@ ndinam VERB
 , PUNCT
 inyeneke VERB
 ọbọñ NOUN
-
 obio NOUN
 ikpọñ ADJ
 ikpọñ ADJ
@@ -13022,7 +12433,6 @@ enyene VERB
 udeme ADJ
 ke ADP
 esit NOUN
-
 ukem ADV
 ukem ADV
 . PUNCT
@@ -13116,7 +12526,6 @@ etop NOUN
 mkpa NOUN
 esie PRON
 ye CCONJ
-
 mfuhọ ADJ
 obio NOUN
 emi PRON
@@ -13138,7 +12547,6 @@ mi NOUN
 , PUNCT
 obio NOUN
 emi PRON
-
 etie VERB
 fi PRON
 didie ADV
@@ -13176,7 +12584,6 @@ mbufo PRON
 Ami PRON
 ke ADP
 idem NOUN
-
 mi NOUN
 , PUNCT
 ndi VERB
@@ -13198,7 +12605,6 @@ mi NOUN
 . PUNCT
 
 Nto ADP
-
 do ADP
 okut VERB
 emi PRON
@@ -13219,7 +12625,6 @@ obio NOUN
 ntiñ VERB
 ikọ NOUN
 ndọñesit ADJ
-
 nnọ VERB
 mbon NOUN
 ukut NOUN
@@ -13266,7 +12671,6 @@ emi PRON
 afo PRON
 ekpetiñde ADV
 , PUNCT
-
 nnyịn PRON
 ikpọbiọñ ADV
 utọñ NOUN
@@ -13334,7 +12738,6 @@ ikọ NOUN
 ndọñesit ADJ
 fo PRON
 ye CCONJ
-
 idem NOUN
 fo PRON
 sim VERB
@@ -13364,7 +12767,6 @@ nte ADV
 ye CCONJ
 Ekeñwe PROPN
 ndi VERB
-
 mi NOUN
 . PUNCT
 
@@ -13404,7 +12806,6 @@ enyuñ CCONJ
 enam VERB
 enye PRON
 oduk VERB
-
 ubom NOUN
 esie PRON
 osio VERB
@@ -13432,7 +12833,6 @@ enye PRON
 . PUNCT
 
 Mmada ADV
-
 Ekeñwe PROPN
 mbufo PRON
 nnyọñ VERB
@@ -13481,7 +12881,6 @@ ebe ADJ
 . PUNCT
 
 Ndien CCONJ
-
 ndomo ADV
 ñkpọ NOUN
 kiet NUM
@@ -13500,7 +12899,6 @@ iduhe ADJ
 Idige VERB
 eyen NOUN
 oro ADP
-
 ọdọhọ VERB
 ete VERB
 imọ PRON
@@ -13520,7 +12918,6 @@ Ekeñwe PROPN
 do ADP
 , PUNCT
 ida VERB
-
 enye PRON
 isọk VERB
 mbufo PRON
@@ -13548,7 +12945,6 @@ esie PRON
 ebe VERB
 aka VERB
 kaña ADJ
-
 isoiso ADJ
 . PUNCT
 
@@ -13608,7 +13004,6 @@ otu ADP
 mme PRON
 mmọ PRON
 emi PRON
-
 ekebinde ADV
 Eburutu PROPN
 eka VERB
@@ -13630,7 +13025,6 @@ Mbọñ PRON
 
 nnyịn PRON
 imokut VERB
-
 ata ADJ
 afia ADJ
 ediye ADJ
@@ -13651,7 +13045,6 @@ ubọk NOUN
 ọkọm VERB
 nnyịn PRON
 ndien CCONJ
-
 nte ADV
 nnyịn PRON
 itimde ADJ
@@ -13665,7 +13058,6 @@ adiaha NOUN
 ọbọñ NOUN
 utibe ADJ
 utibe ADJ
-
 Oku PROPN
 Etie ADP
 didie ADV
@@ -13726,7 +13118,6 @@ emi PRON
 ? PUNCT
 
 Se INTJ
-
 nte ADV
 unam NOUN
 odukde VERB
@@ -13750,7 +13141,6 @@ O INTJ
 mbọm INTJ
 mi NOUN
 , PUNCT
-
 mmatak VERB
 ke ADP
 Abana NOUN
@@ -13790,7 +13180,6 @@ mmọ PRON
 eyesimde VERB
 do ADP
 , PUNCT
-
 ukpọk ADP
 akpatre ADJ
 ikọñ NOUN
@@ -13809,7 +13198,6 @@ owo NOUN
 ema VERB
 esio VERB
 ke ADP
-
 ubom NOUN
 , PUNCT
 ewat VERB
@@ -13833,7 +13221,6 @@ mmọ PRON
 enyọñ NOUN
 edi VERB
 ubọk NOUN
-
 ubọk NOUN
 . PUNCT
 
@@ -13854,7 +13241,6 @@ ekewatde ADV
 . PUNCT
 
 Ofuri ADP
-
 obio NOUN
 eduọñọ VERB
 ke ADP
@@ -13872,7 +13258,6 @@ Ekeñwe PROPN
 ọkọtọñọde VERB
 ntak ADJ
 akpa ADJ
-
 obufa ADJ
 ke ADP
 usen NOUN
@@ -13897,7 +13282,6 @@ ke ADP
 okoneyo NOUN
 , PUNCT
 ke ADP
-
 ufọt ADJ
 ọkpọsọñ ADJ
 ntuaña NOUN
@@ -13918,7 +13302,6 @@ ete VERB
 ‘ PUNCT
 Abana NOUN
 , PUNCT
-
 mbufo PRON
 etua VERB
 nso PRON
@@ -13941,7 +13324,6 @@ mi NOUN
 , PUNCT
 mbufo PRON
 ebin VERB
-
 enye PRON
 ? PUNCT
 
@@ -13971,7 +13353,6 @@ isọñ NOUN
 , PUNCT
 ewaña VERB
 enye PRON
-
 ke ADP
 ukot NOUN
 , PUNCT
@@ -13992,7 +13373,7 @@ mbọk ADV
 . PUNCT
 
 Nọ VERB
-rmyịn PRON
+nnyịn PRON
 Ekeñwe PROPN
 nnyịn PRON
 . PUNCT
@@ -14018,12 +13399,9 @@ ikaba ADJ
 edi VERB
 oro ADP
 mbufo PRON
-
 enamde VERB
 utọ ADV
-obu ADJ
-- PUNCT
-robut ADJ
+oburobut ADJ
 ido NOUN
 oro ADP
 ye CCONJ
@@ -14041,7 +13419,6 @@ mi NOUN
 , PUNCT
 mbufo PRON
 emen VERB
-
 enye PRON
 ke ADP
 umen NOUN
@@ -14064,7 +13441,6 @@ mfiọhọ VERB
 ñwat VERB
 enye PRON
 nda VERB
-
 nsọk VERB
 mbufo PRON
 edi CCONJ
@@ -14077,7 +13453,6 @@ ebin VERB
 enye PRON
 ekeyak VERB
 ke ADP
-
 esuk NOUN
 emum VERB
 enye PRON
@@ -14122,7 +13497,6 @@ edi VERB
 afo PRON
 edi VERB
 obio NOUN
-
 afo PRON
 onyuñ CCONJ
 edi CCONJ
@@ -14167,7 +13541,6 @@ mi NOUN
 ke ADP
 esit NOUN
 akpanikọ ADJ
-
 mme PRON
 afo PRON
 ke ADP
@@ -14225,7 +13598,6 @@ Isañ ADP
 emi PRON
 nyom VERB
 utip NOUN
-
 ke ADP
 ibuot NOUN
 esie PRON
@@ -14245,7 +13617,6 @@ akpan ADJ
 atak ADJ
 enye PRON
 ke ADP
-
 esit NOUN
 . PUNCT
 
@@ -14265,7 +13636,6 @@ nnọ VERB
 mbufo PRON
 Ekeñwe PROPN
 ke ADP
-
 idem NOUN
 esie PRON
 idinyimeke ADV
@@ -14295,7 +13665,6 @@ ibebiere ADV
 oro ADP
 tọñọ ADV
 ke ADP
-
 akpa ADJ
 usen NOUN
 emi PRON
@@ -14314,7 +13683,6 @@ udiana ADJ
 itie NOUN
 ubọñ ADJ
 ke ADP
-
 Ndem PROPN
 ye CCONJ
 ke ADP
@@ -14336,7 +13704,6 @@ ufene NOUN
 enyene VERB
 fi PRON
 edieke CCONJ
-
 edikemede ADV
 ndida VERB
 Ekeñwe PROPN
@@ -14357,7 +13724,6 @@ fi PRON
 nte ADV
 akpa ADJ
 ñkpọ NOUN
-
 ubiọñ NOUN
 . PUNCT
 
@@ -14394,7 +13760,6 @@ edian VERB
 do ADP
 enọ VERB
 fi PRON
-
 Eburutu PROPN
 Nyom ADV
 fi PRON
@@ -14426,7 +13791,6 @@ emi PRON
 Ekeñwe PROPN
 ididuñke ADV
 ke ADP
-
 esit NOUN
 ke ADP
 ifure NOUN
@@ -14447,7 +13811,6 @@ emem NOUN
 Ekeñwe PROPN
 ndiduñ ADV
 ke ADP
-
 esit NOUN
 ? PUNCT
 
@@ -14473,7 +13836,6 @@ Ekwọñ NOUN
 , PUNCT
 mmokpon ADJ
 mbe ADJ
-
 edifup ADV
 . PUNCT
 
@@ -14501,7 +13863,6 @@ ndien CCONJ
 
 Se INTJ
 Abana NOUN
-
 ekewukde ADV
 , PUNCT
 mmọ PRON
@@ -14533,7 +13894,6 @@ mmọñ NOUN
 ye CCONJ
 ke ADP
 Anansa PROPN
-
 Ikañ NOUN
 ye CCONJ
 ke ADP
@@ -14556,7 +13916,6 @@ unyeneke ADV
 ndifaña VERB
 eyen NOUN
 emi PRON
-
 ke ADP
 baba ADV
 usuñ NOUN
@@ -14577,7 +13936,6 @@ nnọ VERB
 enye PRON
 , PUNCT
 man CCONJ
-
 Ekeñwe PROPN
 ọnyọñ VERB
 edi VERB
@@ -14610,7 +13968,6 @@ nnọ VERB
 fi PRON
 ndifañake VERB
 baba ADV
-
 ñkpọ NOUN
 kiet NUM
 aba ADV
@@ -14633,7 +13990,6 @@ Ekeñwe PROPN
 Enam VERB
 idem NOUN
 mbufo PRON
-
 ye CCONJ
 obio NOUN
 mbufo PRON
@@ -14655,7 +14011,6 @@ ini NOUN
 ntem ADJ
 , PUNCT
 ami PRON
-
 nyefiak ADV
 ndi VERB
 mi NOUN
@@ -14676,7 +14031,6 @@ adak VERB
 ekara NOUN
 ) PUNCT
 ekem VERB
-
 mben ADJ
 mi NOUN
 ke ADP
@@ -14696,7 +14050,6 @@ ye CCONJ
 mkpa NOUN
 esop NOUN
 usọrọ NOUN
-
 ye CCONJ
 mfuhọ NOUN
 esop NOUN
@@ -14716,7 +14069,6 @@ ke ADP
 edifiak VERB
 mi NOUN
 ndi VERB
-
 mi NOUN
 , PUNCT
 sese ADP
@@ -14738,7 +14090,6 @@ Ambo PROPN
 Eta PROPN
 ayak VERB
 ọnọ VERB
-
 Oku PROPN
 Ndem PROPN
 Inyañ NOUN
@@ -14756,7 +14107,6 @@ esie PRON
 , PUNCT
 emen VERB
 ọnọ VERB
-
 enye PRON
 . PUNCT
 ) PUNCT
@@ -14781,7 +14131,6 @@ afo PRON
 afiak ADJ
 ayak VERB
 mmọ PRON
-
 ọnọ VERB
 mi NOUN
 . PUNCT
@@ -14811,7 +14160,6 @@ do ADP
 . PUNCT
 
 Ke ADP
-
 esiode ADV
 Ekeñwe PROPN
 efep ADJ
@@ -14830,7 +14178,6 @@ esit NOUN
 itiehe VERB
 mi NOUN
 nte ADV
-
 mme PRON
 oro ADP
 . PUNCT
@@ -14853,7 +14200,6 @@ ete VERB
 ke ADP
 ndomo ADV
 ntak ADV
-
 kiet NUM
 ñkuyak ADV
 enye PRON
@@ -14875,10 +14221,10 @@ uwem NOUN
 mi NOUN
 ye CCONJ
 itọñ NOUN
-
 uwem NOUN
 owo NOUN
 mi NOUN
 ọfiọñ PROPN
 ke ADP
 nda VERB
+. PUNCT
