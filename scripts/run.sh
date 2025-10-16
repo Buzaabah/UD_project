@@ -1,0 +1,11 @@
+python prompt_engineering.py \
+    --input_dir ../data/annotated_data/wol \
+    --out_dir outputs/wolof \
+    --model gpt-4o-mini \
+    --few_shot_k 6 \
+    --lang_hint "Wolof" \
+    --keep_tokenization true \
+    --ignore_punct true \
+    --temperature 0.0 \
+    --sleep 0.2 \
+    --verbose

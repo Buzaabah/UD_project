@@ -1,0 +1,6 @@
+sent_id,uas,las,la,root_correct,complete_match,num_tokens,num_errors
+Masakhane-Wolof_test_2,0.3076923076923077,0.23076923076923078,0.38461538461538464,False,False,13,10
+Masakhane-Wolof_test_3,0.7727272727272727,0.45454545454545453,0.5909090909090909,True,False,22,12
+Masakhane-Wolof_test_6,0.45454545454545453,0.22727272727272727,0.5,False,False,22,17
+Masakhane-Wolof_test_7,0.0,0.0,0.5833333333333334,False,False,12,12
+Masakhane-Wolof_test_8,0.2916666666666667,0.25,0.7083333333333334,False,False,24,18

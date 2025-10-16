@@ -1,0 +1,153 @@
+# sent_id = Masakhane-Kinyarwanda_dev_1
+# text = Ni yo ihangayikishije kurusha izindi zose bitewe n' uko ikwirakwira bwangu ugereranyije na zo , kandi abarwayi bayo bakaremba mu buryo bwihuse .
+1	Ni	ni	VERB	_	_	2	udep	_	Gloss=It_is
+2	yo	yo	PRON	_	_	3	mod	_	Gloss=it
+3	ihangayikishije	guhangayikisha	VERB	_	_	0	root	_	Gloss=worrying
+4	kurusha	kurusha	VERB	_	_	3	comp:svc	_	Gloss=the_most
+5	izindi	izindi	PRON	_	_	4	comp:obj	_	Gloss=others
+6	zose	zose	PRON	_	_	5	mod	_	Gloss=all
+7	bitewe	gutera	VERB	_	_	4	comp:svc	_	Gloss=because
+8	n'	na	CCONJ	_	_	9	cc	_	Gloss=of
+9	uko	uko	PRON	_	_	10	mod	_	Gloss=how
+10	ikwirakwira	gukwirakwira	VERB	_	_	7	comp:svc	_	Gloss=it_spreads
+11	bwangu	bwangu	ADV	_	_	10	mod	_	Gloss=faster
+12	ugereranyije	kugereranya	VERB	_	_	10	comp:svc	_	Gloss=compared
+13	na	na	CCONJ	_	_	14	cc	_	Gloss=with
+14	zo	zo	PRON	_	_	12	comp:obj	_	Gloss=them|NoSpaceAfter=Yes
+15	,	_	PUNCT	_	_	16	punct	_	_
+16	kandi	kandi	CCONJ	_	_	14	conj	_	Gloss=and
+17	abarwayi	abarwayi	NOUN	_	_	18	mod	_	Gloss=patients
+18	bayo	bayo	PRON	_	_	16	conj	_	Gloss=its
+19	bakaremba	kuremba	VERB	_	_	18	udep	_	Gloss=deteriorate
+20	mu	mu	ADP	_	_	19	udep	_	Gloss=in
+21	buryo	uburyo	NOUN	_	_	20	udep	_	Gloss=manner
+22	bwihuse	kwihuta	VERB	_	_	19	mod	_	Gloss=quickly|NoSpaceAfter=Yes
+23	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Masakhane-Kinyarwanda_dev_2
+# text = Alpha yo imaze kugera mu bihugu bisaga 170 , Beta mu birenga 120 , naho Gamma yagaragaye mu birenga 70 .
+1	Alpha	Alpha	PROPN	_	_	4	subj	_	Gloss=Alpha
+2	yo	yo	PRON	_	_	1	mod	_	Gloss=it
+3	imaze	kumara	VERB	_	_	4	comp:svc	_	Gloss=has_already
+4	kugera	kugera	VERB	_	_	0	root	_	Gloss=reached
+5	mu	mu	ADP	_	_	4	udep	_	Gloss=in
+6	bihugu	ibihugu	NOUN	_	_	5	mod	_	Gloss=countries
+7	bisaga	gusa	VERB	_	_	6	comp:obj	_	Gloss=more
+8	170	170	NUM	_	_	7	comp:num	_	Gloss=170|NoSpaceAfter=Yes
+9	,	_	PUNCT	_	_	10	punct	_	_
+10	Beta	Beta	PROPN	_	_	11	udep	_	Gloss=Beta
+11	mu	mu	ADP	_	_	12	udep	_	Gloss=in
+12	birenga	kurenga	NOUN	_	_	7	comp:svc	_	Gloss=more_than
+13	120	120	NUM	_	_	12	comp:num	_	Gloss=120|NoSpaceAfter=Yes
+14	,	_	PUNCT	_	_	15	punct	_	_
+15	naho	naho	CCONJ	_	_	16	udep	_	Gloss=while
+16	Gamma	Gamma	PROPN	_	_	17	mod	_	Gloss=Gamma
+17	yagaragaye	kugaragara	VERB	_	_	12	comp:svc	_	Gloss=has_been_detected
+18	mu	mu	ADP	_	_	19	udep	_	Gloss=in
+19	birenga	kurenga	NOUN	_	_	17	comp:svc	_	Gloss=more_than
+20	70	70	NUM	_	_	19	comp:num	_	Gloss=70|NoSpaceAfter=Yes
+21	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Masakhane-Kinyarwanda_dev_3
+# text = Ubwoko bwagaragaye mu duce tumwe na tumwe bukatuzahaza ariko ntibwitwe ko buhangayikishije , burimo Lambda yaturutse muri Peru muri Kanama 2020 .
+1	Ubwoko	Ubwoko	NOUN	_	_	2	subj	_	Gloss=A_variant
+2	bwagaragaye	kugaragara	VERB	_	_	0	root	_	Gloss=that_appeared
+3	mu	mu	ADP	_	_	2	udep	_	Gloss=in
+4	duce	uduce	NOUN	_	_	3	mod	_	Gloss=areas
+5	tumwe	tumwe	PRON	_	_	4	mod	_	Gloss=some
+6	na	na	CCONJ	_	_	7	cc	_	Gloss=and
+7	tumwe	tumwe	PRON	_	_	5	mod	_	Gloss=some
+8	bukatuzahaza	kuzahaza	VERB	_	_	2	comp:svc	_	Gloss=caused_us_problems
+9	ariko	ariko	SCONJ	_	_	10	comp:conj	_	Gloss=but
+10	ntibwitwe	kwitwa	VERB	_	_	8	comp:svc	_	Gloss=was_not_considered
+11	ko	ko	SCONJ	_	_	12	comp:conj	_	Gloss=as
+12	buhangayikishije	guhangayikisha	VERB	_	_	10	comp:svc	_	Gloss=concerning|NoSpaceAfter=Yes
+13	,	_	PUNCT	_	_	14	punct	_	_
+14	burimo	kubamo	VERB	_	_	12	comp:svc	_	Gloss=includes
+15	Lambda	Lambda	PROPN	_	_	14	comp:obj	_	Gloss=Lambda
+16	yaturutse	guturuka	VERB	_	_	15	mod	_	Gloss=originated
+17	muri	muri	ADP	_	_	16	udep	_	Gloss=in
+18	Peru	Peru	PROPN	_	_	17	mod	_	Gloss=Peru
+19	muri	Muri	ADP	_	_	18	udep	_	Gloss=in
+20	Kanama	Kanama	PROPN	_	_	19	mod	_	Gloss=August
+21	2020	2000	NUM	_	_	20	comp:num	_	Gloss=2000|NoSpaceAfter=Yes
+22	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Masakhane-Kinyarwanda_dev_4
+# text = Habarurwa ko kuva muri Mutarama uyu mwaka 71% by' abandura Coronavirus muri icyo gihugu ari yo bafite .
+1	Habarurwa	Kubarura	VERB	_	_	0	root	_	Gloss=It is reported
+2	ko	ko	SCONJ	_	_	3	comp:conj	_	Gloss=that
+3	kuva	kuva	VERB	_	_	1	comp:svc	_	Gloss=since
+4	muri	muri	ADP	_	_	3	udep	_	Gloss=in
+5	Mutarama	Mutarama	PROPN	_	_	4	mod	_	Gloss=January
+6	uyu	uyu	PRON	_	_	4	mod	_	Gloss=this
+7	mwaka	umwaka	NOUN	_	_	6	mod	_	Gloss=year
+8	71%	71%	NUM	_	_	7	comp:num	_	Gloss=71%
+9	by'	bya	PRON	_	_	8	comp:poss	_	Gloss=of
+10	abandura	kwandura	NOUN	_	_	9	mod	_	Gloss=infected_with
+11	Coronavirus	Coronavirus	PROPN	_	_	10	comp:obj	_	Gloss=Coronavirus
+12	muri	muri	ADP	_	_	11	udep	_	Gloss=in
+13	icyo	icyo	PRON	_	_	12	comp:obj	_	Gloss=that
+14	gihugu	igihugu	NOUN	_	_	13	mod	_	Gloss=country
+15	ari	-ri	VERB	_	_	14	mod	_	Gloss=are
+16	yo	yo	PRON	_	_	15	comp:obj	_	Gloss=it
+17	bafite	kugira	VERB	_	_	15	comp:svc	_	Gloss=have|NoSpaceAfter=Yes
+18	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Masakhane-Kinyarwanda_dev_5
+# text = Nubwo imaze kugera mu bihugu 29 ndetse ikaba yibasiye Afurika y' Epfo cyane , Ishami ry' Umuryango w' Abibumbye ryita ku Buzima (OMS) riherutse kwemeza ko idahangayikishije .
+1	Nubwo	Nubwo	SCONJ	_	_	2	comp:conj	_	Gloss=Although
+2	imaze	kumara	VERB	_	_	3	comp:aux	_	Gloss=it_has_already
+3	kugera	kugera	VERB	_	_	0	root	_	Gloss=spread
+4	mu	mu	ADP	_	_	3	udep	_	Gloss=to
+5	bihugu	igihugu	NOUN	_	_	4	mod	_	Gloss=countries
+6	29	29	NUM	_	_	5	mod	_	Gloss=29
+7	ndetse	ndetse	CCONJ	_	_	6	udep	_	Gloss=and
+8	ikaba	kuba	VERB	_	_	3	comp:svc	_	Gloss=has
+9	yibasiye	kwibasira	VERB	_	_	8	comp:svc	_	Gloss=affected
+10	Afurika	Afurika	PROPN	_	_	9	comp:obj	_	Gloss=Africa
+11	y'	ya	PRON	_	_	10	mod	_	Gloss=of
+12	Epfo	epfo	ADV	_	_	11	mod	_	Gloss=south
+13	cyane	cyane	ADV	_	_	12	udep	_	Gloss=particularly|NoSpaceAfter=Yes
+14	,	_	PUNCT	_	_	15	punct	_	_
+15	Ishami	ishami	NOUN	_	_	13	comp:obj	_	Gloss=agency
+16	ry'	rya	PRON	_	_	15	mod	_	Gloss=of
+17	Umuryango	umuryango	NOUN	_	_	16	mod	_	Gloss=organization
+18	w'	wa	PRON	_	_	17	mod	_	Gloss=of
+19	Abibumbye	abibumbye	VERB	_	_	18	mod	_	Gloss=united
+20	ryita	kwita	VERB	_	_	19	mod	_	Gloss=cares
+21	ku	ku	ADP	_	_	20	udep	_	Gloss=on
+22	Buzima	ubuzima	NOUN	_	_	21	mod	_	Gloss=health
+23	(OMS)	(OMS)	PRON	_	_	22	compound	_	Gloss=OMS
+24	riherutse	guheruka	VERB	_	_	23	mod	_	Gloss=recently
+25	kwemeza	kwemeza	VERB	_	_	24	comp:svc	_	Gloss=confirmed
+26	ko	ko	SCONJ	_	_	25	comp:conj	_	Gloss=that
+27	idahangayikishije	guhangayika	VERB	_	_	25	comp:svc	_	Gloss=it_is_not_a_cause_of_concern|NoSpaceAfter=Yes
+28	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Masakhane-Kinyarwanda_dev_9
+# text = Ubundi bwoko bufatwa nk' ubudahangayikishije ni Epsilon bwagaragaye bwa mbere i California muri Leta zunze Ubumwe za Amerika mu mpera za 2020 .
+1	Ubundi	Ubundi	NOUN	_	_	2	mod	_	Gloss=Another
+2	bwoko	ubwoko	PRON	_	_	3	subj	_	Gloss=variant
+3	bufatwa	gufata	VERB	_	_	0	root	_	Gloss=considered
+4	nk'	nka	CCONJ	_	_	5	cc	_	Gloss=as
+5	ubudahangayikishije	guhangayitsa	VERB	_	_	3	comp:obj	_	Gloss=not_concerning
+6	ni	ni	VERB	_	_	5	comp:obj	_	Gloss=is
+7	Epsilon	Epsilon	PROPN	_	_	6	comp:obj	_	Gloss=Epsilon
+8	bwagaragaye	kugaragara	VERB	_	_	3	comp:svc	_	Gloss=detected
+9	bwa	bwa	PRON	_	_	8	comp:obj	_	Gloss=for
+10	mbere	mbere	PRON	_	_	9	udep	_	Gloss=the_first_time
+11	i	i	ADP	_	_	10	udep	_	Gloss=in
+12	California	California	PROPN	_	_	11	mod	_	Gloss=California
+13	muri	muri	ADP	_	_	12	udep	_	Gloss=in
+14	Leta	Leta	NOUN	_	_	13	mod	_	Gloss=States
+15	zunze	kunga	VERB	_	_	14	comp:appos	_	Gloss=United
+16	Ubumwe	Ubumwe	NOUN	_	_	15	comp:appos	_	Gloss=unity
+17	za	za	PRON	_	_	16	comp:appos	_	Gloss=of
+18	Amerika	Amerika	PROPN	_	_	12	compound	_	Gloss=America
+19	mu	mu	ADP	_	_	18	mod	_	Gloss=in
+20	mpera	impera	NOUN	_	_	19	mod	_	Gloss=late
+21	za	za	PRON	_	_	20	comp:poss	_	Gloss=of
+22	2020	2020	NUM	_	_	21	mod	_	Gloss=2020|NoSpaceAfter=Yes
+23	.	_	PUNCT	_	_	3	punct	_	_
+

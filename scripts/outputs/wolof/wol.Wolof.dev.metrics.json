@@ -1,0 +1,21 @@
+{
+  "tokens_considered": 0,
+  "upos_correct": 0,
+  "lemma_correct": 0,
+  "uas_correct": 0,
+  "las_correct": 0,
+  "feats_tp": 0,
+  "feats_fp": 0,
+  "feats_fn": 0,
+  "upos_accuracy": 0.0,
+  "lemma_accuracy": 0.0,
+  "uas": 0.0,
+  "las": 0.0,
+  "feats_precision": 0.0,
+  "feats_recall": 0.0,
+  "feats_f1": 0.0,
+  "sentences_total": 154,
+  "sentences_evaluated": 0,
+  "sentences_skipped": 154,
+  "ignore_punct": true
+}

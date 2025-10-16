@@ -1,0 +1,1047 @@
+{
+  "experiment_name": "gpt_4o_mini_basic_diversity_3shot",
+  "model_name": "gpt-4o-mini",
+  "prompt_template": "basic",
+  "selection_strategy": "diversity",
+  "num_examples": 3,
+  "overall_uas": 0.36532634032634037,
+  "overall_las": 0.2325174825174825,
+  "overall_la": 0.5534382284382284,
+  "root_accuracy": 0.2,
+  "complete_match_rate": 0.0,
+  "per_relation_scores": {
+    "subj": {
+      "precision": 0.3333333333333333,
+      "recall": 0.2857142857142857,
+      "f1": 0.30769230769230765,
+      "support": 7
+    },
+    "mod": {
+      "precision": 0.3333333333333333,
+      "recall": 0.08333333333333333,
+      "f1": 0.13333333333333333,
+      "support": 12
+    },
+    "flat": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1
+    },
+    "comp:aux": {
+      "precision": 0.2727272727272727,
+      "recall": 0.5,
+      "f1": 0.3529411764705882,
+      "support": 6
+    },
+    "root": {
+      "precision": 0.16666666666666666,
+      "recall": 0.2,
+      "f1": 0.1818181818181818,
+      "support": 5
+    },
+    "det": {
+      "precision": 0.8333333333333334,
+      "recall": 1.0,
+      "f1": 0.9090909090909091,
+      "support": 10
+    },
+    "comp:obj": {
+      "precision": 0.5,
+      "recall": 0.7222222222222222,
+      "f1": 0.5909090909090908,
+      "support": 18
+    },
+    "udep": {
+      "precision": 1.0,
+      "recall": 0.8888888888888888,
+      "f1": 0.9411764705882353,
+      "support": 9
+    },
+    "punct": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 15
+    },
+    "cc": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 3
+    },
+    "conj": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 4
+    },
+    "comp:pred": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1
+    },
+    "parataxis": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2
+    }
+  },
+  "per_sentence_results": [
+    {
+      "sent_id": "Masakhane-Wolof_test_2",
+      "uas": 0.3076923076923077,
+      "las": 0.23076923076923078,
+      "la": 0.38461538461538464,
+      "root_correct": false,
+      "complete_match": false,
+      "num_tokens": 13,
+      "errors": [
+        {
+          "token_id": 1,
+          "form": "Manchester",
+          "error_type": "incorrect_dependency",
+          "gold_head": 4,
+          "gold_relation": "subj",
+          "pred_head": 3,
+          "pred_relation": "mod"
+        },
+        {
+          "token_id": 2,
+          "form": "City",
+          "error_type": "incorrect_dependency",
+          "gold_head": 1,
+          "gold_relation": "flat",
+          "pred_head": 3,
+          "pred_relation": "mod"
+        },
+        {
+          "token_id": 3,
+          "form": "waroon",
+          "error_type": "incorrect_dependency",
+          "gold_head": 4,
+          "gold_relation": "comp:aux",
+          "pred_head": 0,
+          "pred_relation": "root"
+        },
+        {
+          "token_id": 4,
+          "form": "naa",
+          "error_type": "incorrect_dependency",
+          "gold_head": 0,
+          "gold_relation": "root",
+          "pred_head": 3,
+          "pred_relation": "comp:aux"
+        },
+        {
+          "token_id": 5,
+          "form": "denc",
+          "error_type": "incorrect_dependency",
+          "gold_head": 4,
+          "gold_relation": "comp:aux",
+          "pred_head": 3,
+          "pred_relation": "comp:aux"
+        },
+        {
+          "token_id": 8,
+          "form": "ngir",
+          "error_type": "incorrect_dependency",
+          "gold_head": 5,
+          "gold_relation": "udep",
+          "pred_head": 9,
+          "pred_relation": "comp:obl"
+        },
+        {
+          "token_id": 9,
+          "form": "bokk",
+          "error_type": "incorrect_dependency",
+          "gold_head": 8,
+          "gold_relation": "comp:obj",
+          "pred_head": 4,
+          "pred_relation": "comp:aux"
+        },
+        {
+          "token_id": 11,
+          "form": "ñi",
+          "error_type": "incorrect_dependency",
+          "gold_head": 10,
+          "gold_relation": "comp:obj",
+          "pred_head": 10,
+          "pred_relation": "det"
+        },
+        {
+          "token_id": 12,
+          "form": "raw",
+          "error_type": "incorrect_dependency",
+          "gold_head": 11,
+          "gold_relation": "mod",
+          "pred_head": 9,
+          "pred_relation": "comp:obj"
+        },
+        {
+          "token_id": 13,
+          "form": ".",
+          "error_type": "incorrect_dependency",
+          "gold_head": 4,
+          "gold_relation": "punct",
+          "pred_head": 3,
+          "pred_relation": "punct"
+        }
+      ]
+    },
+    {
+      "sent_id": "Masakhane-Wolof_test_3",
+      "uas": 0.7727272727272727,
+      "las": 0.45454545454545453,
+      "la": 0.5909090909090909,
+      "root_correct": true,
+      "complete_match": false,
+      "num_tokens": 22,
+      "errors": [
+        {
+          "token_id": 5,
+          "form": "yu",
+          "error_type": "incorrect_dependency",
+          "gold_head": 6,
+          "gold_relation": "subj",
+          "pred_head": 4,
+          "pred_relation": "comp:obj"
+        },
+        {
+          "token_id": 6,
+          "form": "bare",
+          "error_type": "incorrect_dependency",
+          "gold_head": 4,
+          "gold_relation": "mod",
+          "pred_head": 2,
+          "pred_relation": "mod"
+        },
+        {
+          "token_id": 7,
+          "form": "yu",
+          "error_type": "incorrect_dependency",
+          "gold_head": 8,
+          "gold_relation": "subj",
+          "pred_head": 8,
+          "pred_relation": "det"
+        },
+        {
+          "token_id": 8,
+          "form": "juge",
+          "error_type": "incorrect_dependency",
+          "gold_head": 4,
+          "gold_relation": "mod",
+          "pred_head": 6,
+          "pred_relation": "comp:aux"
+        },
+        {
+          "token_id": 9,
+          "form": "ci",
+          "error_type": "incorrect_dependency",
+          "gold_head": 8,
+          "gold_relation": "udep",
+          "pred_head": 10,
+          "pred_relation": "udep"
+        },
+        {
+          "token_id": 11,
+          "form": "dendandoo",
+          "error_type": "incorrect_dependency",
+          "gold_head": 10,
+          "gold_relation": "mod",
+          "pred_head": 10,
+          "pred_relation": "comp:obj"
+        },
+        {
+          "token_id": 13,
+          "form": "ak",
+          "error_type": "incorrect_dependency",
+          "gold_head": 14,
+          "gold_relation": "cc",
+          "pred_head": 14,
+          "pred_relation": "conj"
+        },
+        {
+          "token_id": 14,
+          "form": "réew",
+          "error_type": "incorrect_dependency",
+          "gold_head": 10,
+          "gold_relation": "conj",
+          "pred_head": 10,
+          "pred_relation": "comp:obj"
+        },
+        {
+          "token_id": 16,
+          "form": "ci",
+          "error_type": "incorrect_dependency",
+          "gold_head": 14,
+          "gold_relation": "udep",
+          "pred_head": 17,
+          "pred_relation": "udep"
+        },
+        {
+          "token_id": 18,
+          "form": "sowu",
+          "error_type": "incorrect_dependency",
+          "gold_head": 17,
+          "gold_relation": "mod",
+          "pred_head": 17,
+          "pred_relation": "comp:obj"
+        },
+        {
+          "token_id": 20,
+          "form": "jant",
+          "error_type": "incorrect_dependency",
+          "gold_head": 18,
+          "gold_relation": "mod",
+          "pred_head": 18,
+          "pred_relation": "comp:obj"
+        },
+        {
+          "token_id": 21,
+          "form": "sowu",
+          "error_type": "incorrect_dependency",
+          "gold_head": 20,
+          "gold_relation": "mod",
+          "pred_head": 20,
+          "pred_relation": "comp:obj"
+        }
+      ]
+    },
+    {
+      "sent_id": "Masakhane-Wolof_test_6",
+      "uas": 0.45454545454545453,
+      "las": 0.22727272727272727,
+      "la": 0.5,
+      "root_correct": false,
+      "complete_match": false,
+      "num_tokens": 22,
+      "errors": [
+        {
+          "token_id": 1,
+          "form": "Ci",
+          "error_type": "incorrect_dependency",
+          "gold_head": 6,
+          "gold_relation": "udep",
+          "pred_head": 12,
+          "pred_relation": "udep"
+        },
+        {
+          "token_id": 3,
+          "form": "wote",
+          "error_type": "incorrect_dependency",
+          "gold_head": 2,
+          "gold_relation": "mod",
+          "pred_head": 2,
+          "pred_relation": "comp:obj"
+        },
+        {
+          "token_id": 5,
+          "form": ",",
+          "error_type": "incorrect_dependency",
+          "gold_head": 6,
+          "gold_relation": "punct",
+          "pred_head": 12,
+          "pred_relation": "punct"
+        },
+        {
+          "token_id": 6,
+          "form": "damaa",
+          "error_type": "incorrect_dependency",
+          "gold_head": 0,
+          "gold_relation": "root",
+          "pred_head": 12,
+          "pred_relation": "comp:aux"
+        },
+        {
+          "token_id": 7,
+          "form": "jëloon",
+          "error_type": "incorrect_dependency",
+          "gold_head": 6,
+          "gold_relation": "comp:aux",
+          "pred_head": 6,
+          "pred_relation": "subj"
+        },
+        {
+          "token_id": 10,
+          "form": "noppaliku",
+          "error_type": "incorrect_dependency",
+          "gold_head": 9,
+          "gold_relation": "mod",
+          "pred_head": 9,
+          "pred_relation": "comp:obj"
+        },
+        {
+          "token_id": 11,
+          "form": "ngir",
+          "error_type": "incorrect_dependency",
+          "gold_head": 7,
+          "gold_relation": "udep",
+          "pred_head": 12,
+          "pred_relation": "udep"
+        },
+        {
+          "token_id": 12,
+          "form": "dem",
+          "error_type": "incorrect_dependency",
+          "gold_head": 11,
+          "gold_relation": "comp:obj",
+          "pred_head": 0,
+          "pred_relation": "root"
+        },
+        {
+          "token_id": 13,
+          "form": "seeti",
+          "error_type": "incorrect_dependency",
+          "gold_head": 12,
+          "gold_relation": "comp:obj",
+          "pred_head": 12,
+          "pred_relation": "comp:aux"
+        },
+        {
+          "token_id": 15,
+          "form": "Ndakaaru",
+          "error_type": "incorrect_dependency",
+          "gold_head": 14,
+          "gold_relation": "mod",
+          "pred_head": 14,
+          "pred_relation": "subj"
+        },
+        {
+          "token_id": 16,
+          "form": ",",
+          "error_type": "incorrect_dependency",
+          "gold_head": 17,
+          "gold_relation": "punct",
+          "pred_head": 12,
+          "pred_relation": "punct"
+        },
+        {
+          "token_id": 17,
+          "form": "Cees",
+          "error_type": "incorrect_dependency",
+          "gold_head": 15,
+          "gold_relation": "conj",
+          "pred_head": 12,
+          "pred_relation": "subj"
+        },
+        {
+          "token_id": 18,
+          "form": ",",
+          "error_type": "incorrect_dependency",
+          "gold_head": 19,
+          "gold_relation": "punct",
+          "pred_head": 12,
+          "pred_relation": "punct"
+        },
+        {
+          "token_id": 19,
+          "form": "Luga",
+          "error_type": "incorrect_dependency",
+          "gold_head": 15,
+          "gold_relation": "conj",
+          "pred_head": 12,
+          "pred_relation": "subj"
+        },
+        {
+          "token_id": 20,
+          "form": "ak",
+          "error_type": "incorrect_dependency",
+          "gold_head": 21,
+          "gold_relation": "cc",
+          "pred_head": 12,
+          "pred_relation": "conj"
+        },
+        {
+          "token_id": 21,
+          "form": "Kebemeer",
+          "error_type": "incorrect_dependency",
+          "gold_head": 15,
+          "gold_relation": "conj",
+          "pred_head": 20,
+          "pred_relation": "comp:obj"
+        },
+        {
+          "token_id": 22,
+          "form": ".",
+          "error_type": "incorrect_dependency",
+          "gold_head": 6,
+          "gold_relation": "punct",
+          "pred_head": 12,
+          "pred_relation": "punct"
+        }
+      ]
+    },
+    {
+      "sent_id": "Masakhane-Wolof_test_7",
+      "uas": 0.0,
+      "las": 0.0,
+      "la": 0.5833333333333334,
+      "root_correct": false,
+      "complete_match": false,
+      "num_tokens": 12,
+      "errors": [
+        {
+          "token_id": 1,
+          "form": "Sasu",
+          "error_type": "incorrect_dependency",
+          "gold_head": 7,
+          "gold_relation": "subj",
+          "pred_head": 2,
+          "pred_relation": "subj"
+        },
+        {
+          "token_id": 2,
+          "form": "naxsaay",
+          "error_type": "incorrect_dependency",
+          "gold_head": 1,
+          "gold_relation": "mod",
+          "pred_head": 0,
+          "pred_relation": "root"
+        },
+        {
+          "token_id": 3,
+          "form": ",",
+          "error_type": "incorrect_dependency",
+          "gold_head": 7,
+          "gold_relation": "punct",
+          "pred_head": 2,
+          "pred_relation": "punct"
+        },
+        {
+          "token_id": 4,
+          "form": "loolu",
+          "error_type": "incorrect_dependency",
+          "gold_head": 7,
+          "gold_relation": "subj",
+          "pred_head": 2,
+          "pred_relation": "comp:obj"
+        },
+        {
+          "token_id": 5,
+          "form": "beneen",
+          "error_type": "incorrect_dependency",
+          "gold_head": 6,
+          "gold_relation": "det",
+          "pred_head": 4,
+          "pred_relation": "det"
+        },
+        {
+          "token_id": 6,
+          "form": "naqar",
+          "error_type": "incorrect_dependency",
+          "gold_head": 7,
+          "gold_relation": "comp:pred",
+          "pred_head": 2,
+          "pred_relation": "comp:aux"
+        },
+        {
+          "token_id": 7,
+          "form": "la",
+          "error_type": "incorrect_dependency",
+          "gold_head": 0,
+          "gold_relation": "root",
+          "pred_head": 6,
+          "pred_relation": "aux"
+        },
+        {
+          "token_id": 8,
+          "form": ",",
+          "error_type": "incorrect_dependency",
+          "gold_head": 10,
+          "gold_relation": "punct",
+          "pred_head": 2,
+          "pred_relation": "punct"
+        },
+        {
+          "token_id": 9,
+          "form": "xam",
+          "error_type": "incorrect_dependency",
+          "gold_head": 10,
+          "gold_relation": "comp:aux",
+          "pred_head": 2,
+          "pred_relation": "comp:aux"
+        },
+        {
+          "token_id": 10,
+          "form": "naa",
+          "error_type": "incorrect_dependency",
+          "gold_head": 7,
+          "gold_relation": "parataxis",
+          "pred_head": 9,
+          "pred_relation": "aux"
+        },
+        {
+          "token_id": 11,
+          "form": "ko",
+          "error_type": "incorrect_dependency",
+          "gold_head": 10,
+          "gold_relation": "comp:obj",
+          "pred_head": 9,
+          "pred_relation": "comp:obj"
+        },
+        {
+          "token_id": 12,
+          "form": ".",
+          "error_type": "incorrect_dependency",
+          "gold_head": 10,
+          "gold_relation": "punct",
+          "pred_head": 2,
+          "pred_relation": "punct"
+        }
+      ]
+    },
+    {
+      "sent_id": "Masakhane-Wolof_test_8",
+      "uas": 0.2916666666666667,
+      "las": 0.25,
+      "la": 0.7083333333333334,
+      "root_correct": false,
+      "complete_match": false,
+      "num_tokens": 24,
+      "errors": [
+        {
+          "token_id": 1,
+          "form": "Te",
+          "error_type": "incorrect_dependency",
+          "gold_head": 3,
+          "gold_relation": "cc",
+          "pred_head": 4,
+          "pred_relation": "conj"
+        },
+        {
+          "token_id": 2,
+          "form": "loolu",
+          "error_type": "incorrect_dependency",
+          "gold_head": 3,
+          "gold_relation": "subj",
+          "pred_head": 4,
+          "pred_relation": "comp:obj"
+        },
+        {
+          "token_id": 3,
+          "form": "mooy",
+          "error_type": "incorrect_dependency",
+          "gold_head": 0,
+          "gold_relation": "root",
+          "pred_head": 4,
+          "pred_relation": "comp:aux"
+        },
+        {
+          "token_id": 4,
+          "form": "tekki",
+          "error_type": "incorrect_dependency",
+          "gold_head": 3,
+          "gold_relation": "comp:aux",
+          "pred_head": 0,
+          "pred_relation": "root"
+        },
+        {
+          "token_id": 5,
+          "form": ",",
+          "error_type": "incorrect_dependency",
+          "gold_head": 6,
+          "gold_relation": "punct",
+          "pred_head": 4,
+          "pred_relation": "punct"
+        },
+        {
+          "token_id": 6,
+          "form": "ci",
+          "error_type": "incorrect_dependency",
+          "gold_head": 4,
+          "gold_relation": "udep",
+          "pred_head": 7,
+          "pred_relation": "udep"
+        },
+        {
+          "token_id": 7,
+          "form": "tënk",
+          "error_type": "incorrect_dependency",
+          "gold_head": 6,
+          "gold_relation": "comp:obj",
+          "pred_head": 4,
+          "pred_relation": "comp:obj"
+        },
+        {
+          "token_id": 8,
+          "form": ",",
+          "error_type": "incorrect_dependency",
+          "gold_head": 9,
+          "gold_relation": "punct",
+          "pred_head": 4,
+          "pred_relation": "punct"
+        },
+        {
+          "token_id": 9,
+          "form": "wooteb",
+          "error_type": "incorrect_dependency",
+          "gold_head": 4,
+          "gold_relation": "comp:obj",
+          "pred_head": 4,
+          "pred_relation": "comp:aux"
+        },
+        {
+          "token_id": 11,
+          "form": "ci",
+          "error_type": "incorrect_dependency",
+          "gold_head": 10,
+          "gold_relation": "udep",
+          "pred_head": 12,
+          "pred_relation": "udep"
+        },
+        {
+          "token_id": 12,
+          "form": "réew",
+          "error_type": "incorrect_dependency",
+          "gold_head": 11,
+          "gold_relation": "comp:obj",
+          "pred_head": 10,
+          "pred_relation": "comp:obj"
+        },
+        {
+          "token_id": 14,
+          "form": ",",
+          "error_type": "incorrect_dependency",
+          "gold_head": 15,
+          "gold_relation": "punct",
+          "pred_head": 4,
+          "pred_relation": "punct"
+        },
+        {
+          "token_id": 15,
+          "form": "ca",
+          "error_type": "incorrect_dependency",
+          "gold_head": 20,
+          "gold_relation": "udep",
+          "pred_head": 16,
+          "pred_relation": "udep"
+        },
+        {
+          "token_id": 16,
+          "form": "ëllëgu",
+          "error_type": "incorrect_dependency",
+          "gold_head": 15,
+          "gold_relation": "comp:obj",
+          "pred_head": 4,
+          "pred_relation": "comp:obj"
+        },
+        {
+          "token_id": 18,
+          "form": ",",
+          "error_type": "incorrect_dependency",
+          "gold_head": 15,
+          "gold_relation": "punct",
+          "pred_head": 4,
+          "pred_relation": "punct"
+        },
+        {
+          "token_id": 20,
+          "form": "siiwalee",
+          "error_type": "incorrect_dependency",
+          "gold_head": 3,
+          "gold_relation": "parataxis",
+          "pred_head": 0,
+          "pred_relation": "root"
+        },
+        {
+          "token_id": 22,
+          "form": "wote",
+          "error_type": "incorrect_dependency",
+          "gold_head": 21,
+          "gold_relation": "mod",
+          "pred_head": 20,
+          "pred_relation": "comp:obj"
+        },
+        {
+          "token_id": 24,
+          "form": ".",
+          "error_type": "incorrect_dependency",
+          "gold_head": 3,
+          "gold_relation": "punct",
+          "pred_head": 20,
+          "pred_relation": "punct"
+        }
+      ]
+    }
+  ],
+  "confusion_matrix": {
+    "labels": [
+      "aux",
+      "cc",
+      "comp:aux",
+      "comp:obj",
+      "comp:obl",
+      "comp:pred",
+      "conj",
+      "det",
+      "flat",
+      "mod",
+      "parataxis",
+      "punct",
+      "root",
+      "subj",
+      "udep"
+    ],
+    "matrix": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        3,
+        13,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        10,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        15,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8
+      ]
+    ]
+  },
+  "total_processing_time": 0.0
+}

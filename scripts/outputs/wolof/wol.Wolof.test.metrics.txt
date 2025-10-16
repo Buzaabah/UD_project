@@ -1,0 +1,13 @@
+=== WOL.WOLOF.TEST METRICS ===
+Sentences evaluated: 0 / 273
+Tokens considered:   0
+
+UPOS accuracy:       0.0000
+Lemma accuracy:      0.0000
+UAS:                 0.0000
+LAS:                 0.0000
+FEATS precision:     0.0000
+FEATS recall:        0.0000
+FEATS F1:            0.0000
+
+Skipped sentences (invalid/mismatch): 273

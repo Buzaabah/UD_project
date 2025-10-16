@@ -1,0 +1,4621 @@
+# sent_id = Masakhane-Wolof_dev_1
+# text = Ki yore wàllu tàggatu gi ca Dakaar Sakere Këer, Olivier Brice Sylvain te ñu tuumaal ko mbiru càkkuy xale yu ndaw ba police teg ko loxo, dafa wéddi ba mu set wecc ne li ñu koy waxal naan dafa doon raayaate wala di def lu ni mel, dara du ci dëgg.
+# text_en = The man in charge of training at Dakar Sacré Coeur, Olivier Brice Sylvain, who has been accused of paedophilia and arrested by the police, has flatly denied that what has been said about him killing people or doing things that seem, that it's all completely false.
+1	Ki	ki	PRON	_	_	29	subj	_	Gloss=the one who
+2	yore	yor	VERB	_	_	1	mod	_	Gloss=be in charge
+3	wàllu	wàll	NOUN	_	_	2	comp:obj	_	Gloss=part of
+4	tàggatu	tàggatu	NOUN	_	_	3	mod	_	Gloss=sport
+5	gi	bi	DET	_	_	4	det	_	Gloss=the
+6	ca	ci	ADP	_	_	2	udep	_	Gloss=in
+7	Dakaar	Dakaar	PROPN	_	_	6	comp:obj	_	Gloss=Dakar
+8	Sakere	Sakere	PROPN	_	_	7	flat	_	Gloss=Sacré
+9	Këer	Këer	PROPN	_	_	8	flat	_	Gloss=Coeur|NoSpaceAfter=Yes
+10	,	,	PUNCT	_	_	11	punct	_	Gloss=,
+11	Olivier	Olivier	PROPN	_	_	1	conj:appos	_	Gloss=Olivier
+12	Brice	Brice	PROPN	_	_	11	flat	_	Gloss=Brice
+13	Sylvain	Sylvain	PROPN	_	_	12	flat	_	Gloss=Sylvain
+14	te	te	CCONJ	_	_	16	cc	_	Gloss=and
+15	ñu	mu	PRON	_	_	16	subj	_	Gloss=they
+16	tuumaal	tuumal	VERB	_	_	1	conj	_	Gloss=accuse
+17	ko	ko	PRON	_	_	16	comp:obl	_	Gloss=him
+18	mbiru	mbir	NOUN	_	_	16	comp:obj	_	Gloss=affair
+19	càkkuy	càkku	NOUN	_	_	18	mod	_	Gloss=rape
+20	xale	xale	NOUN	_	_	19	mod	_	Gloss=child
+21	yu	bu	PRON	_	_	20	comp:obj	_	Gloss=who
+22	ndaw	ndaw	VERB	_	_	21	mod	_	Gloss=be young
+23	ba	bi	ADP	_	_	16	mod	_	Gloss=until
+24	police	police	NOUN	_	_	25	subj	_	Gloss=police
+25	teg	teg	VERB	_	_	23	comp:obj	_	Gloss=put
+26	ko	ko	PRON	_	_	25	comp:obl	_	Gloss=him
+27	loxo	loxo	NOUN	_	_	25	comp:obj	_	Gloss=hand
+28	,	,	PUNCT	_	_	29	punct	_	Gloss=,
+29	dafa	da	AUX	_	_	0	root	_	Gloss=aux
+30	wéddi	weddi	VERB	_	_	29	comp:aux	_	Gloss=refute
+31	ba	bi	SCONJ	_	_	30	mod	_	Gloss=until
+32	mu	mu	PRON	_	_	33	subj	_	Gloss=it
+33	set	set	VERB	_	_	31	comp:obj	_	Gloss=be clean
+34	wecc	wecc	PART	_	_	33	mod	_	Gloss=entirely
+35	ne	ni	SCONJ	_	_	29	comp:obj	_	Gloss=say
+36	li	bi	PRON	_	_	52	dislocated	_	Gloss=what
+37	ñu	mu	PRON	_	_	39	subj	_	Gloss=they
+38	koy	ko	PRON	_	_	39	comp:obj	_	Gloss=him
+39	waxal	wax	VERB	_	_	36	mod	_	Gloss=tell
+40	naan	naan	VERB	_	_	39	comp:obj	_	Gloss=say
+41	dafa	da	AUX	_	_	40	comp:aux	_	Gloss=he
+42	doon	di	AUX	_	_	41	comp:aux	_	Gloss=imperfective
+43	raayaate	raayaate	VERB	_	_	41	comp:aux	_	Gloss=kill
+44	wala	wala	CCONJ	_	_	45	cc	_	Gloss=or
+45	di	di	AUX	_	_	41	conj	_	Gloss=imperfective
+46	def	def	VERB	_	_	45	comp:aux	_	Gloss=do
+47	lu	bi	PRON	_	_	46	comp:obj	_	Gloss=what
+48	ni	ni	ADP	_	_	49	mod	_	Gloss=like
+49	mel	mel	VERB	_	_	47	mod	_	Gloss=look|NoSpaceAfter=Yes
+50	,	,	PUNCT	_	_	52	punct	_	Gloss=,
+51	dara	dara	ADV	_	_	52	subj	_	Gloss=nothing
+52	du	di	AUX	_	_	35	comp:obj	_	Gloss=not
+53	ci	ci	ADP	_	_	54	udep	_	Gloss=in
+54	dëgg	dëgg	NOUN	_	_	52	comp:obj	_	Gloss=truth|NoSpaceAfter=Yes
+55	.	.	PUNCT	_	_	29	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_2
+# text = Nas bii, ci lu leer nàññ, dëppoowul ak yoon ndax ni ñu ko móole, dafa desee leer te dafay may njiitu réew mi muy buur ak a bummi, ci nu mu ko neexee.
+# text_en = This law, clearly, is not in conformity with the rights because the way it is formulated lacks clarity and it allows the president to run the country as he pleases (like a king).
+1	Nas	nas	NOUN	_	_	9	subj	_	Gloss=law
+2	bii	bi	DET	_	_	1	det	_	Gloss=this|NoSpaceAfter=Yes
+3	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+4	ci	ci	ADP	_	_	9	udep	_	Gloss=in
+5	lu	bi	PRON	_	_	4	comp:obj	_	Gloss=what
+6	leer	leer	VERB	_	_	5	mod	_	Gloss=clear
+7	nàññ	nàññ	PART	_	_	6	compound:prt	_	Gloss=very|NoSpaceAfter=Yes
+8	,	.	PUNCT	_	_	4	punct	_	Gloss=,
+9	dëppoowul	dëppoo	VERB	_	_	0	root	_	Gloss=not comply
+10	ak	ak	ADP	_	_	9	comp:obl	_	Gloss=with
+11	yoon	yoon	NOUN	_	_	10	comp:obj	_	Gloss=justice
+12	ndax	ndax	SCONJ	_	_	9	mod	_	Gloss=because
+13	ni	ni	ADP	_	_	18	subj	_	Gloss=how
+14	ñu	mu	PRON	_	_	16	subj	_	Gloss=they
+15	ko	ko	PRON	_	_	16	comp:obj	_	Gloss=it
+16	móole	móol	VERB	_	_	13	mod	_	Gloss=formulate|NoSpaceAfter=Yes
+17	,	,	PUNCT	_	_	18	punct	_	Gloss=,
+18	dafa	da	AUX	_	_	12	comp:obj	_	Gloss=aux
+19	desee	des	VERB	_	_	18	comp:aux	_	Gloss=lack
+20	leer	leer	VERB	_	_	19	comp:obj	_	Gloss=clear
+21	te	te	CCONJ	_	_	22	cc	_	Gloss=and
+22	dafay	da	AUX	_	_	18	conj	_	Gloss=aux
+23	may	may	VERB	_	_	22	comp:aux	_	Gloss=give
+24	njiitu	njiit	NOUN	_	_	23	comp:obj	_	Gloss=leader
+25	réew	réew	NOUN	_	_	24	mod	_	Gloss=country
+26	mi	bi	DET	_	_	25	det	_	Gloss=the
+27	muy	mu	PRON	_	_	28	subj	_	Gloss=he
+28	buur	buur	VERB	_	_	22	comp:obj	_	Gloss=govern
+29	ak	ak	CCONJ	_	_	31	cc	_	Gloss=and
+30	a	a	PART	_	_	31	udep	_	Gloss=to
+31	bummi	bummi	VERB	_	_	28	conj	_	Gloss=unrule|NoSpaceAfter=Yes
+32	,	,	PUNCT	_	_	33	punct	_	Gloss=,
+33	ci	ci	ADP	_	_	31	udep	_	Gloss=in
+34	nu	ni	PRON	_	_	33	comp:obj	_	Gloss=how
+35	mu	mu	PRON	_	_	37	subj	_	Gloss=he
+36	ko	ko	PRON	_	_	37	comp:obj	_	Gloss=it
+37	neexee	neex	VERB	_	_	34	mod	_	Gloss=like|NoSpaceAfter=Yes
+38	.	.	PUNCT	_	_	9	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_3
+# text = Hackathon Hacking Covid-19 Africa bu HEC bu Paris dafay dajale ndawi Afirig yépp.
+# text_en = Hackathon Hacking Covid-19 brings together all the young people of Africa
+1	Hackathon	Hackathon	PROPN	_	_	9	subj	_	Gloss=Hackathon
+2	Hacking	Hacking	PROPN	_	_	1	flat	_	Gloss=hacking
+3	Covid-19	Covid-19	PROPN	_	_	2	flat	_	Gloss=Covid-19
+4	Africa	Africa	PROPN	_	_	3	flat	_	Gloss=Africa
+5	bu	bu	PRON	_	_	4	udep	_	Gloss=of
+6	HEC	HEC	PROPN	_	_	5	comp:obj	_	Gloss=HEC
+7	bu	bu	PRON	_	_	6	udep	_	Gloss=of
+8	Paris	Paris	PROPN	_	_	7	comp:obj	_	Gloss=Paris
+9	dafay	da	AUX	_	_	0	root	_	Gloss=is
+10	dajale	dajale	VERB	_	_	9	comp:aux	_	Gloss=bring
+11	ndawi	ndaw	NOUN	_	_	9	comp:obj	_	Gloss=young people of
+12	Afirig	Afriq	PROPN	_	_	11	mod	_	Gloss=Africa
+13	yépp	bépp	DET	_	_	12	det	_	Gloss=all|NoSpaceAfter=Yes
+14	.	.	PUNCT	_	_	9	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_4
+# text = Sama defug pólótig dafa jaare ci saytu ak xalaat ci gis-gisu PASTEEF bi nga xam ne Usmaan Sónko moo ko jëmmal.
+# text_en = My commitment to politics involves analyzing and reflecting on the vision of Pasteef, which is embodied by Ousmane Sonko.
+1	Sama	sama	DET	_	_	2	det	_	_
+2	defug	def	NOUN	_	_	4	subj	_	_
+3	pólótig	pólitig	NOUN	_	_	2	mod	_	_
+4	dafa	da	AUX	_	_	0	root	_	_
+5	jaare	jaar	VERB	_	_	4	comp:aux	_	_
+6	ci	ci	ADP	_	_	4	udep	_	_
+7	saytu	saytu	VERB	_	_	6	comp:obj	_	_
+8	ak	ak	CCONJ	_	_	9	cc	_	_
+9	xalaat	xalaat	VERB	_	_	7	conj	_	_
+10	ci	ci	ADP	_	_	9	udep	_	_
+11	gis-gisu	gis-gis	NOUN	_	_	10	comp:obj	_	_
+12	PASTEEF	Pasteef	PROPN	_	_	11	mod	_	_
+13	bi	bi	PRON	_	_	15	comp:obj	_	_
+14	nga	nga	PRON	_	_	15	subj	_	_
+15	xam	xam	VERB	_	_	12	mod	_	_
+16	ne	ne	SCONJ	_	_	15	comp:obj	_	_
+17	Usmaan	Usmaan	PROPN	_	_	19	subj	_	_
+18	Sónko	Sonko	PROPN	_	_	17	flat	_	_
+19	moo	a	PRON	_	_	16	comp:obj	_	_
+20	ko	ko	PRON	_	_	19	comp:obj	_	_
+21	jëmmal	jëmmal	VERB	_	_	19	comp:aux	_	NoSpaceAfter=Yes
+22	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_5
+# text = Coppite yiy xew ci diwaanu Afirig yépp yu mel noonu la, waaye dina jaadu ñépp àndandoo ci ay leeral yoo xam ne seen jubluwaay mooy jàngale ak fësal yenn mbir yoo xam ne naqari naa xam.
+# text_en = The changes taking place across Africa look like this, but it's important for everyone to agree on principles whose aim is to raise awareness and popularize certain practices that are not easy to understand.
+1	Coppite	coppite	NOUN	_	_	11	subj	_	Gloss=change
+2	yiy	bi	PRON	_	_	3	subj	_	Gloss=that
+3	xew	xew	VERB	_	_	1	mod	_	Gloss=happen
+4	ci	ci	ADP	_	_	3	udep	_	Gloss=in
+5	diwaanu	diiwaan	NOUN	_	_	4	comp:obj	_	Gloss=region
+6	Afirig	Afriq	PROPN	_	_	5	mod	_	Gloss=Africa
+7	yépp	bépp	DET	_	_	6	det	_	Gloss=all
+8	yu	bu	PRON	_	_	11	comp:pred	_	Gloss=what
+9	mel	mel	VERB	_	_	8	mod	_	Gloss=look like
+10	noonu	noonu	ADV	_	_	9	mod	_	Gloss=that
+11	la	la	AUX	_	_	0	root	_	Gloss=to be|NoSpaceAfter=Yes
+12	,	,	PUNCT	_	_	14	punct	_	Gloss=,
+13	waaye	waaye	CCONJ	_	_	14	cc	_	Gloss=but
+14	dina	di	AUX	_	_	11	conj	_	Gloss=will
+15	jaadu	jaadu	VERB	_	_	14	comp:aux	_	Gloss=should
+16	ñépp	képp	PRON	_	_	17	subj	_	Gloss=everyone
+17	àndandoo	àndadoo	VERB	_	_	15	comp:obj	_	Gloss=agree
+18	ci	ci	ADP	_	_	17	udep	_	Gloss=on
+19	ay	ab	DET	_	_	20	det	_	Gloss=some
+20	leeral	leeral	NOUN	_	_	18	comp:obj	_	Gloss=principles
+21	yoo	yu	PRON	_	_	22	subj	_	Gloss=which
+22	xam	xam	VERB	_	_	20	mod	_	Gloss=know
+23	ne	ni	SCONJ	_	_	22	comp:obj	_	Gloss=that
+24	seen	sama	DET	_	_	25	det	_	Gloss=their
+25	jubluwaay	jubluwaay	NOUN	_	_	26	subj	_	Gloss=target
+26	mooy	a	AUX	_	_	23	comp:obj	_	Gloss=are
+27	jàngale	jàngale	VERB	_	_	26	comp:pred	_	Gloss=teach
+28	ak	ak	CCONJ	_	_	29	cc	_	Gloss=and
+29	fësal	fësal	VERB	_	_	27	comp:obj	_	Gloss=popularize
+30	yenn	benn	DET	_	_	31	det	_	Gloss=some
+31	mbir	mbir	NOUN	_	_	29	comp:obj	_	Gloss=affairs
+32	yoo	yu	PRON	_	_	33	subj	_	Gloss=which
+33	xam	xam	VERB	_	_	31	mod	_	Gloss=know
+34	ne	ne	SCONJ	_	_	33	comp:obj	_	Gloss=that
+35	naqari	naqari	VERB	_	_	36	comp:aux	_	Gloss=not easy
+36	naa	na	AUX	_	_	34	comp:obj	_	Gloss=aux
+37	xam	xam	VERB	_	_	36	comp:aux	_	Gloss=know|NoSpaceAfter=Yes
+38	.	.	PUNCT	_	_	11	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_6
+# text = M2D bi Seex Tijaan Jéey jiite ak Usmaan mu doyadi mii mooy firnde lañu ci pólótig boo xam ne ci wàllu fitna la tënku, te nguurug Maki gi bëgg ko fee jële, te amaana sax mënul dajale lu dul woyu yi nekk ci biir Ndakaaru ak li ko wër.
+# text_en = The M2D led by Cheikh Tidiane Dieye and the incompetent Ousmane is an indication that it's a policy based on unrest that Macky Sall's government wants to suppress, and perhaps it can't even mobilize the thugs who are in Dakar and surrounding areas.
+1	M2D	M2D	PROPN	_	_	12	subj	_	Gloss=M2D
+2	bi	bi	PRON	_	_	6	comp:obj	_	Gloss=that
+3	Seex	Seex	PROPN	_	_	6	subj	_	Gloss=Sheikh
+4	Tijaan	Tijaan	PROPN	_	_	3	flat	_	Gloss=Tidiane
+5	Jéey	Jeey	PROPN	_	_	4	flat	_	Gloss=Dieye
+6	jiite	jiite	VERB	_	_	1	mod	_	Gloss=lead
+7	ak	ak	CCONJ	_	_	8	cc	_	Gloss=and
+8	Usmaan	Usmaan	PROPN	_	_	1	conj	_	Gloss=Ousmane
+9	mu	mu	PRON	_	_	10	subj	_	Gloss=who
+10	doyadi	doyadi	VERB	_	_	8	mod	_	Gloss=incompetent
+11	mii	bii	DET	_	_	10	det	_	Gloss=this
+12	mooy	a	AUX	_	_	0	subj	_	Gloss=is
+13	firnde	firnde	VERB	_	_	12	comp:aux	_	Gloss=indication
+14	lañu	la	AUX	_	_	13	comp:aux	_	Gloss=be
+15	ci	ci	ADP	_	_	14	udep	_	Gloss=in
+16	pólótig	politiq	NOUN	_	_	15	comp:obj	_	Gloss=politics
+17	boo	bu	PRON	_	_	18	subj	_	Gloss=which
+18	xam	xam	VERB	_	_	16	mod	_	Gloss=know
+19	ne	ni	SCONJ	_	_	18	comp:obj	_	Gloss=that
+20	ci	ci	ADP	_	_	23	udep	_	Gloss=in
+21	wàllu	wàll	NOUN	_	_	20	comp:obj	_	Gloss=domain
+22	fitna	fitna	NOUN	_	_	21	mod	_	Gloss=troubles
+23	la	la	AUX	_	_	19	comp:obj	_	Gloss=is
+24	tënku	tënku	VERB	_	_	23	comp:aux	_	Gloss=base|NoSpaceAfter=Yes
+25	,	,	PUNCT	_	_	30	punct	_	Gloss=,
+26	te	te	CCONJ	_	_	27	cc	_	Gloss=and
+27	nguurug	nguuru	NOUN	_	_	30	subj	_	Gloss=government
+28	Maki	Maki	PROPN	_	_	27	mod	_	Gloss=Macky
+29	gi	bi	DET	_	_	27	det	_	Gloss=who
+30	bëgg	bëgg	VERB	_	_	12	conj	_	Gloss=want
+31	ko	ko	PRON	_	_	30	comp:obj	_	Gloss=it
+32	fee	fi	ADV	_	_	33	mod	_	Gloss=there
+33	jële	jële	VERB	_	_	30	comp:obj	_	Gloss=dismiss|NoSpaceAfter=Yes
+34	,	,	PUNCT	_	_	38	punct	_	Gloss=,
+35	te	te	CCONJ	_	_	38	cc	_	Gloss=and
+36	amaana	amaana	NOUN	_	_	38	mod	_	Gloss=maybe
+37	sax	sax	ADV	_	_	36	mod	_	Gloss=even
+38	mënul	mën	VERB	_	_	12	conj	_	Gloss=cannot
+39	dajale	dajale	VERB	_	_	38	comp:obj	_	Gloss=bring together
+40	lu	lu	PRON	_	_	41	subj	_	Gloss=what
+41	dul	di	AUX	_	_	39	comp:obj	_	Gloss=is not
+42	woyu	woyu	NOUN	_	_	41	comp:pred	_	Gloss=rogue
+43	yi	bi	PRON	_	_	44	subj	_	Gloss=who
+44	nekk	nekk	VERB	_	_	42	mod	_	Gloss=be
+45	ci	ci	ADP	_	_	44	udep	_	Gloss=in
+46	biir	biir	NOUN	_	_	45	comp:obj	_	Gloss=inside
+47	Ndakaaru	Ndakaaru	PROPN	_	_	46	mod	_	Gloss=Dakar
+48	ak	ak	CCONJ	_	_	49	cc	_	Gloss=and
+49	li	bi	PRON	_	_	47	conj	_	Gloss=what
+50	ko	ko	PRON	_	_	51	comp:obj	_	Gloss=it
+51	wër	wër	VERB	_	_	49	mod	_	Gloss=surround|NoSpaceAfter=Yes
+52	.	.	PUNCT	_	_	12	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_7
+# text = Doxali VAP yi nga xam ne dafay boolee ñu yore suuf ak ñoo xam ne amuñu suuf waaye am nañu xaalis, ci diirub ñetti at lees koy amal.
+# text_en = The VAP events, which bring together those who own land and those who don't but have money, are held every three years.
+1	Doxali	doxal	NOUN	_	_	27	dislocated	_	Gloss=events
+2	VAP	VAP	PROPN	_	_	1	mod	_	Gloss=VAP
+3	yi	bi	PRON	_	_	5	comp:obj	_	Gloss=which
+4	nga	nga	PRON	_	_	5	subj	_	Gloss=you
+5	xam	xam	VERB	_	_	1	mod	_	Gloss=know
+6	ne	ni	SCONJ	_	_	5	comp:conj	_	Gloss=that
+7	dafay	da	AUX	_	_	6	comp:obj	_	Gloss=is
+8	boolee	boole	VERB	_	_	7	comp:aux	_	Gloss=bring together
+9	ñu	ñi	PRON	_	_	8	comp:obj	_	Gloss=those who
+10	yore	yore	VERB	_	_	9	mod	_	Gloss=possess
+11	suuf	suuf	NOUN	_	_	10	comp:obj	_	Gloss=land
+12	ak	ak	CCONJ	_	_	13	cc	_	Gloss=and
+13	ñoo	ñu	PRON	_	_	9	conj	_	Gloss=those who
+14	xam	xam	VERB	_	_	13	mod	_	Gloss=know
+15	ne	ni	SCONJ	_	_	14	comp:obl	_	Gloss=that
+16	amuñu	am	VERB	_	_	15	comp:obj	_	Gloss=don't have
+17	suuf	suuf	NOUN	_	_	16	comp:obj	_	Gloss=land
+18	waaye	waaye	CCONJ	_	_	20	cc	_	Gloss=but
+19	am	am	VERB	_	_	20	comp:aux	_	Gloss=have
+20	nañu	na	AUX	_	_	16	conj	_	Gloss=they
+21	xaalis	xaalis	NOUN	_	_	20	comp:obj	_	Gloss=money|NoSpaceAfter=Yes
+22	,	,	PUNCT	_	_	27	punct	_	Gloss=,
+23	ci	ci	ADP	_	_	27	subj	_	Gloss=in
+24	diirub	diir	NOUN	_	_	23	comp:obj	_	Gloss=period of
+25	ñetti	ñett	NUM	_	_	26	mod	_	Gloss=three
+26	at	at	NOUN	_	_	24	mod	_	Gloss=years
+27	lees	la	AUX	_	_	0	root	_	Gloss=aux
+28	koy	ko	PRON	_	_	27	comp:obj	_	Gloss=it
+29	amal	amal	VERB	_	_	27	comp:aux	_	Gloss=organize|NoSpaceAfter=Yes
+30	.	.	PUNCT	_	_	27	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_8
+# text = Aljuma jii yemook bésu ñaar-fukki fan ak juróom-ñett , njiital xëy mi , Sëñ. Móodu Faal def na ay siifey lëkkaloo ak këri liggéeyukaay yu bare yu nguur gi moomul , te fukk ci ñoom , ay jigéen na leen di jiite .
+# text_en = This Friday, coinciding with Day 28, Labor Minister Sëñ Móodu Faal signed collaborations with many non-government companies, ten of which are run by women.
+1	Aljuma	Aljuma	NOUN	_	_	18	mod	_	Gloss=friday
+2	jii	bi	PRON	_	_	3	subj	_	Gloss=this
+3	yemook	yemoo	VERB	_	_	1	mod	_	Gloss=coincide
+4	bésu	bés	NOUN	_	_	3	comp:obj	_	Gloss=day of
+5	ñaar-fukki	ñaar-fukk	NUM	_	_	6	mod	_	Gloss=twenty
+6	fan	fan	NOUN	_	_	4	mod	_	Gloss=day
+7	ak	ak	CCONJ	_	_	8	cc	_	Gloss=and
+8	juróom-ñett	juróom-ñett	NUM	_	_	6	compound	_	Gloss=eight|NoSpaceAfter=Yes
+9	,	,	PUNCT	_	_	10	punct	_	Gloss=,
+10	njiital	njiit	NOUN	_	_	18	subj	_	Gloss=leader of
+11	xëy	xëy	NOUN	_	_	10	mod	_	Gloss=work
+12	mi	mi	DET	_	_	11	det	_	Gloss=the|NoSpaceAfter=Yes
+13	,	,	PUNCT	_	_	10	punct	_	Gloss=,
+14	Sëñ.	Sëñ.	_	_	_	_	_	_	_
+15	Móodu	Móodu	PROPN	_	_	14	flat	_	Gloss=Móodou
+16	Faal	Faal	PROPN	_	_	15	flat	_	Gloss=Faal
+17	def	def	VERB	_	_	18	comp:aux	_	Gloss=do
+18	na	na	AUX	_	_	0	root	_	Gloss=has
+19	ay	ab	DET	_	_	20	det	_	Gloss=some
+20	siifey	siife	NOUN	_	_	18	comp:obj	_	Gloss=conventions
+21	lëkkaloo	lëkkaloo	NOUN	_	_	20	mod	_	Gloss=collaboration
+22	ak	ak	ADP	_	_	21	mod	_	Gloss=with
+23	këri	kër	NOUN	_	_	22	comp:obj	_	Gloss=house
+24	liggéeyukaay	liggéeyukaay	NOUN	_	_	23	mod	_	Gloss=work
+25	yu	bi	PRON	_	_	26	subj	_	Gloss=which
+26	bare	bare	VERB	_	_	24	mod	_	Gloss=be many
+27	yu	bi	PRON	_	_	30	comp:obj	_	Gloss=which
+28	nguur	nguur	NOUN	_	_	30	subj	_	Gloss=government
+29	gi	bi	DET	_	_	28	det	_	Gloss=the
+30	moomul	moom	VERB	_	_	23	mod	_	Gloss=not own|NoSpaceAfter=Yes
+31	,	,	PUNCT	_	_	39	punct	_	Gloss=,
+32	te	te	CCONJ	_	_	39	cc	_	Gloss=and
+33	fukk	fukk	NUM	_	_	39	dislocated	_	Gloss=ten
+34	ci	ci	ADP	_	_	33	udep	_	Gloss=out of
+35	ñoom	ñoom	PRON	_	_	34	comp:obj	_	Gloss=them|NoSpaceAfter=Yes
+36	,	,	PUNCT	_	_	39	punct	_	Gloss=,
+37	ay	ab	DET	_	_	38	det	_	Gloss=some
+38	jigéen	jigéen	NOUN	_	_	39	subj	_	Gloss=women
+39	na	na	AUX	_	_	18	conj	_	Gloss=are
+40	leen	ko	PRON	_	_	39	comp:obj	_	Gloss=them
+41	di	di	AUX	_	_	39	comp:aux	_	Gloss=imperf
+42	jiite	jiite	VERB	_	_	41	comp:aux	_	Gloss=jiite|NoSpaceAfter=Yes
+43	.	.	PUNCT	_	_	18	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_9
+# text = Ñi seen xam-xam màcc ci wàll wi yàgg nañoo àrtu waaye njiit yi dégluwuñu leen ngir xam lan mooy seen njàmbat.
+# text_en = Those who are experts in this field have long been issuing warnings, but their leaders have not listened to them in order to know their difficulties.
+1	Ñi	bi	PRON	_	_	9	subj	_	Gloss=Those who
+2	seen	sama	DET	_	_	3	det	_	Gloss=their
+3	xam-xam	xam-xam	NOUN	_	_	4	subj	_	Gloss=knowledge
+4	màcc	màcc	VERB	_	_	1	mod	_	Gloss=be oriented
+5	ci	ci	ADP	_	_	4	udep	_	Gloss=towards
+6	wàll	wàll	NOUN	_	_	5	comp:obj	_	Gloss=domain
+7	wi	bi	DET	_	_	6	det	_	Gloss=the
+8	yàgg	yàgg	VERB	_	_	9	comp:aux	_	Gloss=have long
+9	nañoo	na	AUX	_	_	0	root	_	Gloss=have
+10	àrtu	àrtu	VERB	_	_	9	comp:obj	_	Gloss=warn
+11	waaye	waaye	CCONJ	_	_	14	cc	_	Gloss=but
+12	njiit	njiit	NOUN	_	_	14	subj	_	Gloss=leader
+13	yi	bi	DET	_	_	12	det	_	Gloss=the
+14	dégluwuñu	déglu	VERB	_	_	9	conj	_	Gloss=not listen
+15	leen	ko	PRON	_	_	14	comp:obj	_	Gloss=them
+16	ngir	ngir	ADP	_	_	14	mod	_	Gloss=in order to
+17	xam	xam	VERB	_	_	16	comp:obj	_	Gloss=know
+18	lan	la	PRON	_	_	19	subj	_	Gloss=what
+19	mooy	a	AUX	_	_	17	comp:obj	_	Gloss=be
+20	seen	sama	DET	_	_	21	det	_	Gloss=their
+21	njàmbat	njàmbat	NOUN	_	_	19	comp:pred	_	Gloss=problem|NoSpaceAfter=Yes
+22	.	.	PUNCT	_	_	9	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_10
+# text = Blues yi defaat nañu jalloore ju mel noonu, maanaam daan Skyblues ci silimi bu mujj ci waxtu wi ñaari bit ci benn, ci ndoortel weeru mee, ñetti ayu-bés laata joŋanteb daj-dëppu Ligg dee sàmpiyoŋ (Ligue des champions) bi.
+# text_en = The Blues again achieved a similar feat, beating the skyblues 2-1 in the beginning of May , three weeks before the Champion's league.
+1	Blues	Blues	PROPN	_	_	4	subj	_	Gloss=blues
+2	yi	bi	DET	_	_	1	det	_	Gloss=the
+3	defaat	def	VERB	_	_	4	comp:aux	_	Gloss=do again
+4	nañu	na	AUX	_	_	0	root	_	Gloss=have
+5	jalloore	jalloore	NOUN	_	_	4	comp:obj	_	Gloss=achievement
+6	ju	bu	PRON	_	_	7	subj	_	Gloss=which
+7	mel	mel	VERB	_	_	5	mod	_	Gloss=look
+8	noonu	noonu	ADV	_	_	7	mod	_	Gloss=like that|NoSpaceAfter=Yes
+9	,	,	PUNCT	_	_	11	punct	_	Gloss=,
+10	maanaam	maanaam	ADV	_	_	11	mod	_	Gloss=meaning
+11	daan	daan	AUX	_	_	4	parataxis	_	Gloss=defeat
+12	Skyblues	Skyblues	PROPN	_	_	11	comp:obl	_	Gloss=skyblues
+13	ci	ci	ADP	_	_	12	mod	_	Gloss=in
+14	silimi	simili	NOUN	_	_	13	comp:obj	_	Gloss=minute
+15	bu	bu	PRON	_	_	16	subj	_	Gloss=which
+16	mujj	mujj	VERB	_	_	14	mod	_	Gloss=be last
+17	ci	ci	ADP	_	_	16	comp:obl	_	Gloss=in
+18	waxtu	waxtu	NOUN	_	_	17	comp:obj	_	Gloss=time
+19	wi	bi	DET	_	_	18	det	_	Gloss=the
+20	ñaari	ñaar	NUM	_	_	21	mod	_	Gloss=two
+21	bit	bit	NOUN	_	_	11	comp:obj	_	Gloss=goal
+22	ci	ci	ADP	_	_	21	udep	_	Gloss=versus
+23	benn	benn	NUM	_	_	22	mod	_	Gloss=one|NoSpaceAfter=Yes
+24	,	,	PUNCT	_	_	25	punct	_	Gloss=,
+25	ci	ci	ADP	_	_	11	mod	_	Gloss=in
+26	ndoortel	ndorteel	NOUN	_	_	25	comp:obj	_	Gloss=beginning
+27	weeru	weer	NOUN	_	_	26	mod	_	Gloss=month
+28	mee	mee	NOUN	_	_	27	mod	_	Gloss=may|NoSpaceAfter=Yes
+29	,	,	PUNCT	_	_	31	punct	_	Gloss=,
+30	ñetti	ñett	NUM	_	_	31	mod	_	Gloss=three
+31	ayu-bés	ayu-bés	NOUN	_	_	11	mod	_	Gloss=week
+32	laata	laata	ADP	_	_	31	mod	_	Gloss=before
+33	joŋanteb	joŋante	NOUN	_	_	32	comp:obj	_	Gloss=competition
+34	daj-dëppu	daj-dëpp	NOUN	_	_	33	mod	_	Gloss=final
+35	Ligg	Ligg	PROPN	_	_	34	mod	_	Gloss=league
+36	dee	dee	PROPN	_	_	35	udep	_	Gloss=of
+37	sàmpiyoŋ	sàmpiyoŋ	PROPN	_	_	36	comp:obj	_	Gloss=champions
+38	(	(	PUNCT	_	_	39	punct	_	Gloss=(|NoSpaceAfter=Yes
+39	Ligue	Ligue	PROPN	_	_	35	conj:appos	_	Gloss=league
+40	des	des	PROPN	_	_	39	udep	_	Gloss=of
+41	champions	champions	PROPN	_	_	40	comp:obj	_	Gloss=champions
+42	)	)	PUNCT	_	_	39	punct	_	Gloss=)
+43	bi	bi	DET	_	_	35	det	_	Gloss=the|NoSpaceAfter=Yes
+44	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_11
+# text = Sa jëf jii dafa wone ne fullaaloo ñu benn yoon yaw njiitu réew mi, waaye ñun itam naka noonu.
+# text_en = Your act shows that you don't consider us, you the president of the republic, but we also do the same to you.
+1	Sa	sama	DET	_	_	2	det	_	Gloss=your
+2	jëf	jëf	NOUN	_	_	4	subj	_	Gloss=act
+3	jii	bi	DET	_	_	2	det	_	Gloss=this
+4	dafa	da	AUX	_	_	0	root	_	Gloss=has
+5	wone	wone	VERB	_	_	4	comp:aux	_	Gloss=show
+6	ne	ni	SCONJ	_	_	4	comp:obj	_	Gloss=that
+7	fullaaloo	fullaal	VERB	_	_	6	comp:obj	_	Gloss=not consider
+8	ñu	mu	PRON	_	_	7	comp:obj	_	Gloss=us
+9	benn	benn	NUM	_	_	10	mod	_	Gloss=any
+10	yoon	yoon	NOUN	_	_	7	mod	_	Gloss=time
+11	yaw	moom	PRON	_	_	7	dislocated	_	Gloss=you
+12	njiitu	njiit	NOUN	_	_	11	conj:appos	_	Gloss=leader of
+13	réew	réew	NOUN	_	_	12	mod	_	Gloss=country
+14	mi	bi	DET	_	_	13	det	_	Gloss=the|NoSpaceAfter=Yes
+15	,	,	PUNCT	_	_	17	punct	_	Gloss=,
+16	waaye	waaye	CCONJ	_	_	17	cc	_	Gloss=but
+17	ñun	moom	PRON	_	_	4	conj	_	Gloss=we
+18	itam	it	ADV	_	_	17	discourse	_	Gloss=also
+19	naka	naka	ADV	_	_	17	mod	_	Gloss=like
+20	noonu	noonu	ADV	_	_	19	mod	_	Gloss=that|NoSpaceAfter=Yes
+21	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_12
+# text = Baat yii dafay tënk njeexitalu liggéeyu kuréelu péncum ndawi réew mi doon gëstu ci mbirum juroom-ñeen-fukk ak ñeenti milyaar mi nga xam ne, xaatim bu jëkk ci atum 2019 bu fukki fan ak juróom ci weeru féewiriyee 2019 moo ko jëmmal.
+# text_en = hese words conclude the end of the work of the National Assembly committee studying the 94 billion affair, which was constituted by the first decree of February 15, 2019.
+1	Baat	baat	NOUN	_	_	3	subj	_	Gloss=word
+2	yii	bi	DET	_	_	1	det	_	Gloss=these
+3	dafay	da	AUX	_	_	0	root	_	Gloss=are
+4	tënk	tënk	VERB	_	_	3	comp:aux	_	Gloss=conclude
+5	njeexitalu	njeexital	NOUN	_	_	3	comp:obj	_	Gloss=end of
+6	liggéeyu	liggéey	NOUN	_	_	5	mod	_	Gloss=work of
+7	kuréelu	kuréel	NOUN	_	_	6	mod	_	Gloss=committee
+8	péncum	pénc	NOUN	_	_	7	mod	_	Gloss=assembly
+9	ndawi	ndaw	NOUN	_	_	8	mod	_	Gloss=messengers of
+10	réew	réew	NOUN	_	_	9	mod	_	Gloss=country
+11	mi	bi	PRON	_	_	12	subj	_	Gloss=which
+12	doon	di	AUX	_	_	7	mod	_	Gloss=were
+13	gëstu	gëstu	VERB	_	_	12	comp:aux	_	Gloss=study
+14	ci	ci	ADP	_	_	13	udep	_	Gloss=about
+15	mbirum	mbir	NOUN	_	_	14	comp:obj	_	Gloss=affair
+16	juroom-ñeen-fukk	juroom-ñeen-fukk	NUM	_	_	15	compound	_	Gloss=ninety
+17	ak	ak	CCONJ	_	_	18	cc	_	Gloss=and
+18	ñeenti	ñeent	NUM	_	_	16	conj	_	Gloss=four
+19	milyaar	milyaar	NOUN	_	_	18	mod	_	Gloss=billion
+20	mi	bi	PRON	_	_	22	comp:obj	_	Gloss=which
+21	nga	mu	PRON	_	_	22	subj	_	Gloss=you
+22	xam	xam	VERB	_	_	15	mod	_	Gloss=know
+23	ne	ni	SCONJ	_	_	22	comp:obj	_	Gloss=that|NoSpaceAfter=Yes
+24	,	,	PUNCT	_	_	25	punct	_	Gloss=,
+25	xaatim	xaatim	NOUN	_	_	40	subj	_	Gloss=signature
+26	bu	bu	PRON	_	_	27	comp:obj	_	Gloss=which
+27	jëkk	jëkk	VERB	_	_	25	mod	_	Gloss=be first
+28	ci	ci	ADP	_	_	27	udep	_	Gloss=in
+29	atum	at	NOUN	_	_	28	comp:obj	_	Gloss=year
+30	2019	2019	NUM	_	_	29	mod	_	Gloss=2019
+31	bu	bu	PRON	_	_	30	comp:obj	_	Gloss=of
+32	fukki	fukk	NUM	_	_	33	mod	_	Gloss=ten
+33	fan	fan	NOUN	_	_	31	comp:obj	_	_
+34	ak	ak	CCONJ	_	_	35	cc	_	Gloss=and
+35	juróom	juróom	NUM	_	_	33	conj	_	Gloss=five
+36	ci	ci	ADP	_	_	35	udep	_	Gloss=in
+37	weeru	weer	NOUN	_	_	36	comp:obj	_	Gloss=month of
+38	féewiriyee	féewiriyee	NOUN	_	_	37	mod	_	Gloss=february
+39	2019	2019	NUM	_	_	38	mod	_	Gloss=2019
+40	moo	a	AUX	_	_	23	comp:obj	_	Gloss=has
+41	ko	ko	PRON	_	_	40	comp:obl	_	Gloss=it
+42	jëmmal	jëmm	VERB	_	_	40	comp:obj	_	Gloss=materialize|NoSpaceAfter=Yes
+43	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_13
+# text = Mën nañoo jàppe luubalkatu alalu askan wi, képp koo xam ne dafay jéem a sàcc wala sax mu sàcc yëf yoo xam ne nguur gi moo ko moom, bokk na ci yooyu:
+# text_en = An embezzler is any individual who tries to steal the people's money or property belonging to the state, including:
+1	Mën	Mën	VERB	_	_	2	comp:aux	_	Gloss=can
+2	nañoo	na	AUX	_	_	0	root	_	Gloss=we
+3	jàppe	jàpp	VERB	_	_	2	comp:obj	_	Gloss=consider
+4	luubalkatu	luubalkat	NOUN	_	_	3	comp:obj	_	Gloss=embezzler
+5	alalu	alal	NOUN	_	_	4	mod	_	Gloss=money
+6	askan	askan	NOUN	_	_	5	mod	_	Gloss=people
+7	wi	bi	DET	_	_	6	det	_	Gloss=the|NoSpaceAfter=Yes
+8	,	,	PUNCT	_	_	9	punct	_	Gloss=,
+9	képp	bépp	PRON	_	_	3	comp:obl	_	Gloss=everyone
+10	koo	ko	PRON	_	_	11	subj	_	Gloss=who you
+11	xam	xam	VERB	_	_	9	mod	_	Gloss=know
+12	ne	ni	SCONJ	_	_	11	comp:obj	_	Gloss=that
+13	dafay	da	AUX	_	_	12	comp:obj	_	Gloss=is
+14	jéem	jéem	VERB	_	_	13	comp:aux	_	Gloss=try
+15	a	a	PART	_	_	16	udep	_	Gloss=to
+16	sàcc	sàcc	VERB	_	_	13	comp:obj	_	Gloss=steal
+17	wala	walla	CCONJ	_	_	20	cc	_	Gloss=or
+18	sax	sax	ADV	_	_	20	mod	_	Gloss=even
+19	mu	mu	PRON	_	_	20	subj	_	Gloss=he
+20	sàcc	sàcc	VERB	_	_	16	conj	_	Gloss=steal
+21	yëf	yëf	NOUN	_	_	20	comp:obj	_	Gloss=things
+22	yoo	boobu	PRON	_	_	23	subj	_	Gloss=who you
+23	xam	xam	VERB	_	_	21	mod	_	Gloss=know
+24	ne	ni	SCONJ	_	_	23	comp:obj	_	Gloss=that
+25	nguur	nguur	NOUN	_	_	27	subj	_	Gloss=government
+26	gi	bi	DET	_	_	25	det	_	Gloss=the
+27	moo	a	AUX	_	_	24	comp:obj	_	Gloss=is
+28	ko	ko	PRON	_	_	27	comp:obj	_	Gloss=it
+29	moom	moom	VERB	_	_	27	comp:aux	_	Gloss=own|NoSpaceAfter=Yes
+30	,	,	PUNCT	_	_	31	punct	_	Gloss=,
+31	bokk	bokk	VERB	_	_	2	parataxis	_	Gloss=belong
+32	na	na	AUX	_	_	31	comp:aux	_	Gloss=has
+33	ci	ci	ADP	_	_	32	udep	_	Gloss=to
+34	yooyu	boobu	PRON	_	_	33	comp:obj	_	Gloss=those|NoSpaceAfter=Yes
+35	:	:	PUNCT	_	_	2	punct	_	Gloss=:
+
+# sent_id = Masakhane-Wolof_dev_14
+# text = bépp jumtuwaay, xaalisu gox wala goxaat, xaalisu këru liggéeyukaayu nguur gi, xaalisu kuréel goo xam ne ñépp la amal njariñ wala sax mu nekk kuréel goo xam ne nguur gi moomu ko waaye moom lay liggéeyal ak yu deme noonu.
+# text_en = Any fund, money from local authorities, money from the civil service, money from a state service for the people or from an entity that doesn't belong to the state but collaborates with it, and so on.
+1	bépp	bépp	DET	_	_	2	det	_	Gloss=any
+2	jumtuwaay	jumtukaay	NOUN	_	_	0	root	_	Gloss=facility|NoSpaceAfter=Yes
+3	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+4	xaalisu	xaalis	NOUN	_	_	2	conj:appos	_	Gloss=money of
+5	gox	gox	NOUN	_	_	4	mod	_	Gloss=locality
+6	wala	walla	CCONJ	_	_	7	cc	_	Gloss=or
+7	goxaat	goxaat	NOUN	_	_	5	conj	_	Gloss=small area|NoSpaceAfter=Yes
+8	,	,	PUNCT	_	_	9	punct	_	Gloss=,
+9	xaalisu	xaalis	NOUN	_	_	2	conj:appos	_	Gloss=money of
+10	këru	kër	NOUN	_	_	9	mod	_	Gloss=house
+11	liggéeyukaayu	liggéeyukaay	NOUN	_	_	10	mod	_	Gloss=office
+12	nguur	nguur	NOUN	_	_	11	mod	_	Gloss=government
+13	gi	bi	DET	_	_	12	det	_	Gloss=the|NoSpaceAfter=Yes
+14	,	,	PUNCT	_	_	15	punct	_	Gloss=,
+15	xaalisu	xaalis	NOUN	_	_	2	conj:appos	_	Gloss=money
+16	kuréel	kuréel	NOUN	_	_	15	mod	_	Gloss=committee
+17	goo	boo	PRON	_	_	18	subj	_	Gloss=which you
+18	xam	xam	VERB	_	_	16	mod	_	Gloss=know
+19	ne	ni	SCONJ	_	_	18	comp:obj	_	Gloss=that
+20	ñépp	bépp	PRON	_	_	21	subj	_	Gloss=everyone
+21	la	la	AUX	_	_	19	comp:obj	_	Gloss=has
+22	amal	amal	VERB	_	_	21	comp:aux	_	Gloss=have
+23	njariñ	njariñ	NOUN	_	_	22	comp:obj	_	Gloss=usefulness
+24	wala	walla	CCONJ	_	_	27	cc	_	Gloss=or
+25	sax	sax	ADV	_	_	27	mod	_	Gloss=even
+26	mu	mu	PRON	_	_	27	subj	_	Gloss=it
+27	nekk	nekk	VERB	_	_	2	conj	_	Gloss=be
+28	kuréel	kuréel	NOUN	_	_	27	comp:obj	_	Gloss=committee
+29	goo	boo	PRON	_	_	30	subj	_	Gloss=which you
+30	xam	xam	VERB	_	_	28	dislocated	_	Gloss=know
+31	ne	ni	SCONJ	_	_	30	comp:obj	_	Gloss=that
+32	nguur	nguur	NOUN	_	_	34	subj	_	Gloss=government
+33	gi	bi	DET	_	_	32	det	_	Gloss=the
+34	moomu	moom	VERB	_	_	31	comp:obj	_	Gloss=own
+35	ko	ko	PRON	_	_	34	comp:obj	_	Gloss=it
+36	waaye	waaye	CCONJ	_	_	38	cc	_	Gloss=but
+37	moom	moom	PRON	_	_	38	comp:obj	_	Gloss=it
+38	lay	la	AUX	_	_	34	conj	_	Gloss=is
+39	liggéeyal	liggéey	VERB	_	_	38	comp:aux	_	Gloss=work for
+40	ak	ak	CCONJ	_	_	41	cc	_	Gloss=and
+41	yu	bu	PRON	_	_	34	conj	_	Gloss=which
+42	deme	deme	VERB	_	_	41	mod	_	Gloss=be
+43	noonu	noonu	ADV	_	_	42	mod	_	Gloss=that|NoSpaceAfter=Yes
+44	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_15
+# text = Xam ngeen ne waxtu wi jotagul ngir njënd moomu.
+# text_en = You know it's not yet time for that purchase.
+1	Xam	xam	VERB	_	_	0	root	_	Gloss=know
+2	ngeen	mu	PRON	_	_	1	subj	_	Gloss=you
+3	ne	ni	SCONJ	_	_	1	comp:obj	_	Gloss=that
+4	waxtu	waxtu	NOUN	_	_	6	subj	_	Gloss=time
+5	wi	bi	DET	_	_	4	det	_	Gloss=the
+6	jotagul	jot	VERB	_	_	3	comp:obj	_	Gloss=not arrive
+7	ngir	ngir	ADP	_	_	6	udep	_	Gloss=for
+8	njënd	njënd	NOUN	_	_	7	comp:obj	_	Gloss=purchase
+9	moomu	boobu	DET	_	_	8	det	_	Gloss=that|NoSpaceAfter=Yes
+10	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_16
+# text = Ay nit yu foqale, ci njàppaleg njiit yi, ñoo ngi dagg suuf si ci lu tegewul fenn te xooluñu sax jafe-jafey dëkkuwaay yi mu mën a jur.
+# text_en = Greedy people, with the help of governments, are dividing up the land on no legal basis, and with no regard for the housing difficulties this may cause.
+1	Ay	ab	DET	_	_	2	det	_	Gloss=some
+2	nit	nit	NOUN	_	_	11	subj	_	Gloss=people
+3	yu	bu	PRON	_	_	4	subj	_	Gloss=who
+4	foqale	foqale	VERB	_	_	2	mod	_	Gloss=be greedy|NoSpaceAfter=Yes
+5	,	,	PUNCT	_	_	6	punct	_	Gloss=,
+6	ci	ci	ADP	_	_	4	udep	_	Gloss=in
+7	njàppaleg	njàppale	NOUN	_	_	6	comp:obj	_	Gloss=the help of
+8	njiit	njiit	NOUN	_	_	7	mod	_	Gloss=leader
+9	yi	bi	DET	_	_	8	det	_	Gloss=the|NoSpaceAfter=Yes
+10	,	,	PUNCT	_	_	11	punct	_	Gloss=,
+11	ñoo	boo	PRON	_	_	0	root	_	Gloss=they
+12	ngi	na	AUX	_	_	11	comp:aux	_	Gloss=are
+13	dagg	dagg	VERB	_	_	11	comp:aux	_	Gloss=cut
+14	suuf	suuf	NOUN	_	_	13	comp:obj	_	Gloss=land
+15	si	bi	DET	_	_	14	det	_	Gloss=the
+16	ci	ci	ADP	_	_	11	udep	_	Gloss=in
+17	lu	bu	PRON	_	_	16	comp:obj	_	Gloss=what
+18	tegewul	tege	VERB	_	_	17	mod	_	Gloss=be based
+19	fenn	fenn	ADV	_	_	18	mod	_	Gloss=nothing
+20	te	te	CCONJ	_	_	21	cc	_	Gloss=and
+21	xooluñu	xool	VERB	_	_	11	conj	_	Gloss=don't look
+22	sax	sax	ADV	_	_	21	mod	_	Gloss=even
+23	jafe-jafey	jafe-jafe	NOUN	_	_	21	comp:obj	_	Gloss=difficulties
+24	dëkkuwaay	dëkkuwaay	NOUN	_	_	23	mod	_	Gloss=housing
+25	yi	bi	PRON	_	_	27	comp:obj	_	Gloss=that
+26	mu	mu	PRON	_	_	27	subj	_	Gloss=it
+27	mën	mën	VERB	_	_	23	mod	_	Gloss=can
+28	a	a	PART	_	_	29	udep	_	Gloss=to
+29	jur	jur	VERB	_	_	27	comp:obj	_	Gloss=cause|NoSpaceAfter=Yes
+30	.	.	PUNCT	_	_	11	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_17
+# text = Daañu woo ay saasenegaal te duñu ci seet jan diine lañu bokk.
+1	Daañu	daa	AUX	_	_	0	root	_	_
+2	woo	woo	VERB	_	_	1	comp:aux	_	_
+3	ay	by	DET	_	_	4	det	_	_
+4	saasenegaal	saasenegaal	NOUN	_	_	1	comp:obj	_	_
+5	te	te	CCONJ	_	_	6	cc	_	_
+6	duñu	du	AUX	_	_	1	conj	_	_
+7	ci	ci	ADP	_	_	6	udep	_	_
+8	seet	seet	VERB	_	_	6	comp:aux	_	_
+9	jan	ban	DET	_	_	10	det	_	_
+10	diine	diine	NOUN	_	_	11	comp:obj	_	_
+11	lañu	la	AUX	_	_	8	comp:obj	_	_
+12	bokk	bokk	VERB	_	_	11	comp:aux	_	NoSpaceAfter=Yes
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_18
+# text = Xamal nit ñi li ñu ci war a xam yépp te jaarale ko ci tënk wii : génn leen seen kër yi dem fajuji su fekkee dangeen feebar , waaye fexe ba génne ci xeli nit ñi baat bii : toogleen seen kër doonte sax dangeen a jagadi .
+1	Xamal	_	VERB	_	_	0	root	_	_
+2	nit	_	NOUN	_	_	1	subj	_	_
+3	ñi	_	DET	_	_	2	det	_	_
+4	li	_	PRON	_	_	1	comp:obj	_	_
+5	ñu	_	PRON	_	_	7	subj	_	_
+6	ci	_	ADP	_	_	7	udep	_	_
+7	war	_	VERB	_	_	4	mod	_	_
+8	a	_	PART	_	_	7	udep	_	_
+9	xam	_	VERB	_	_	8	comp:obj	_	_
+10	yépp	_	DET	_	_	4	det	_	_
+11	te	_	CCONJ	_	_	12	cc	_	_
+12	jaarale	_	VERB	_	_	1	conj	_	_
+13	ko	_	PRON	_	_	12	comp:obj	_	_
+14	ci	_	ADP	_	_	12	udep	_	_
+15	tënk	_	NOUN	_	_	14	comp:obj	_	_
+16	wii	_	DET	_	_	15	det	_	NoSpaceAfter=Yes
+17	:	_	PUNCT	_	_	18	punct	_	_
+18	génn	_	VERB	_	_	15	parataxis	_	_
+19	leen	_	PRON	_	_	18	comp:obj	_	_
+20	seen	_	DET	_	_	21	det	_	_
+21	kër	_	NOUN	_	_	18	comp:obl	_	_
+22	yi	_	DET	_	_	21	det	_	_
+23	dem	_	VERB	_	_	18	compound:svc	_	_
+24	fajuji	_	VERB	_	_	23	comp:obj	_	_
+25	su	_	SCONJ	_	_	18	mod	_	_
+26	fekkee	_	VERB	_	_	25	comp:obj	_	_
+27	dangeen	_	AUX	_	_	26	comp:obj	_	_
+28	feebar	_	VERB	_	_	27	comp:aux	_	NoSpaceAfter=Yes
+29	,	_	PUNCT	_	_	31	punct	_	_
+30	waaye	_	CCONJ	_	_	31	cc	_	_
+31	fexe	_	VERB	_	_	18	conj	_	_
+32	ba	_	ADP	_	_	31	udep	_	_
+33	génne	_	VERB	_	_	32	comp:obj	_	_
+34	ci	_	ADP	_	_	33	udep	_	_
+35	xeli	_	NOUN	_	_	34	comp:obj	_	_
+36	nit	_	NOUN	_	_	35	mod	_	_
+37	ñi	_	DET	_	_	36	det	_	_
+38	baat	_	NOUN	_	_	33	comp:obj	_	_
+39	bii	_	DET	_	_	38	det	_	NoSpaceAfter=Yes
+40	:	_	PUNCT	_	_	41	punct	_	_
+41	toogleen	_	VERB	_	_	38	parataxis	_	_
+42	seen	_	DET	_	_	43	det	_	_
+43	kër	_	NOUN	_	_	41	comp:obl	_	_
+44	doonte	_	SCONJ	_	_	41	mod	_	_
+45	sax	_	ADV	_	_	44	mod	_	_
+46	dangeen	_	AUX	_	_	44	comp:obj	_	_
+47	a	_	PART	_	_	46	udep	_	_
+48	jagadi	_	VERB	_	_	47	comp:obj	_	NoSpaceAfter=Yes
+49	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_19
+# text = Ci lim bi, gis nañu ci turu njool mii di Tàkko Faal ak Yusufa Faal mi nga xam ne bëgg-bëggam moo nekkoon réewum Farãas woo ko.
+# text_en = The list included the names of that great man Tàkko Faal and Yusufa Faal, whose wish it was that he be called up by France.
+1	Ci	ci	ADP	_	_	6	udep	_	Gloss=in
+2	lim	lim	NOUN	_	_	1	comp:obj	_	Gloss=count
+3	bi	bi	DET	_	_	2	det	_	Gloss=the|NoSpaceAfter=Yes
+4	,	,	PUNCT	_	_	6	punct	_	Gloss=,
+5	gis	gis	VERB	_	_	6	comp:aux	_	Gloss=see
+6	nañu	na	AUX	_	_	0	root	_	Gloss=have
+7	ci	ci	ADP	_	_	6	udep	_	Gloss=in
+8	turu	tur	NOUN	_	_	6	comp:obj	_	Gloss=name of
+9	njool	njool	NOUN	_	_	8	mod	_	Gloss=tall
+10	mii	bi	DET	_	_	11	subj	_	Gloss=this
+11	di	di	AUX	_	_	9	mod	_	Gloss=is
+12	Tàkko	Tàkko	PROPN	_	_	11	comp:pred	_	Gloss=Tàkko
+13	Faal	Faal	PROPN	_	_	12	flat	_	Gloss=Faal
+14	ak	ak	CCONJ	_	_	15	cc	_	Gloss=and
+15	Yusufa	Yusufa	PROPN	_	_	12	conj	_	Gloss=Yusufa
+16	Faal	Faal	PROPN	_	_	15	flat	_	Gloss=Faal
+17	mi	bi	PRON	_	_	19	comp:obj	_	Gloss=who
+18	nga	mu	PRON	_	_	19	subj	_	Gloss=you
+19	xam	xam	VERB	_	_	9	mod	_	Gloss=know
+20	ne	ni	SCONJ	_	_	19	comp:obj	_	Gloss=that
+21	bëgg-bëggam	bëgg-bëgg	NOUN	_	_	22	subj	_	Gloss=his desire
+22	moo	a	AUX	_	_	20	comp:obj	_	Gloss=has
+23	nekkoon	nekk	VERB	_	_	22	comp:aux	_	Gloss=be
+24	réewum	réew	NOUN	_	_	26	subj	_	Gloss=the coutry of
+25	Farãas	Faraas	PROPN	_	_	24	flat	_	Gloss=France
+26	woo	woo	VERB	_	_	23	comp:obj	_	Gloss=call
+27	ko	ko	PRON	_	_	26	comp:obj	_	Gloss=him|NoSpaceAfter=Yes
+28	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_20
+# text = Ñu ngi ñaan booloo ak jàmm ci Senegaal boo xam ne naataange ak dundin bu mucc-ayib dina fi saawaan ci ñépp , bañ a yem ci ñenn ñi rekk .
+1	Ñu	_	PRON	_	_	2	subj	_	_
+2	ngi	_	AUX	_	_	0	root	_	_
+3	ñaan	_	VERB	_	_	2	comp:aux	_	_
+4	booloo	_	VERB	_	_	3	comp:obj	_	_
+5	ak	_	CCONJ	_	_	6	cc	_	_
+6	jàmm	_	NOUN	_	_	4	conj	_	_
+7	ci	_	ADP	_	_	4	udep	_	_
+8	Senegaal	_	PROPN	_	_	7	comp:obl	_	_
+9	boo	_	PRON	_	_	10	subj	_	_
+10	xam	_	VERB	_	_	4	mod	_	_
+11	ne	_	SCONJ	_	_	10	comp:obj	_	_
+12	naataange	_	NOUN	_	_	17	subj	_	_
+13	ak	_	CCONJ	_	_	14	cc	_	_
+14	dundin	_	NOUN	_	_	12	conj	_	_
+15	bu	_	PRON	_	_	16	subj	_	_
+16	mucc-ayib	_	VERB	_	_	14	mod	_	_
+17	dina	dina	AUX	_	_	11	comp:obj	_	_
+18	fi	_	ADV	_	_	17	mod	_	_
+19	saawaan	_	VERB	_	_	17	comp:aux	_	_
+20	ci	_	ADP	_	_	19	udep	_	_
+21	ñépp	_	PRON	_	_	20	comp:obj	_	NoSpaceAfter=Yes
+22	,	_	PUNCT	_	_	23	punct	_	_
+23	bañ	_	VERB	_	_	17	mod	_	_
+24	a	_	PART	_	_	23	udep	_	_
+25	yem	_	VERB	_	_	24	comp:obj	_	_
+26	ci	_	ADP	_	_	25	udep	_	_
+27	ñenn	_	PRON	_	_	26	comp:obj	_	_
+28	ñi	_	DET	_	_	27	det	_	_
+29	rekk	_	ADV	_	_	27	mod	_	NoSpaceAfter=Yes
+30	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_21
+# text = Askan wi dañoo war a sàkku ñu woo Karaa bala ñoo diig.
+# text_en = The people must demand that Karaa be called in before the team goes under.
+1	Askan	askan	NOUN	_	_	3	subj	_	Gloss=people
+2	wi	bi	DET	_	_	1	det	_	Gloss=the
+3	dañoo	da	AUX	_	_	0	root	_	Gloss=have
+4	war	war	VERB	_	_	3	comp:aux	_	Gloss=should
+5	a	a	PART	_	_	6	udep	_	Gloss=to
+6	sàkku	sàkku	VERB	_	_	3	comp:obj	_	Gloss=request
+7	ñu	mu	PRON	_	_	8	subj	_	Gloss=they
+8	woo	woo	VERB	_	_	6	comp:obj	_	Gloss=call
+9	Karaa	Karaa	PROPN	_	_	8	comp:obj	_	Gloss=Karaa
+10	bala	balaa	SCONJ	_	_	8	mod	_	Gloss=before
+11	ñoo	a	AUX	_	_	10	comp:obj	_	Gloss=they
+12	diig	diig	VERB	_	_	11	comp:aux	_	Gloss=sink|NoSpaceAfter=Yes
+13	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_22_split1
+# text = Sea Premium 100 bu siiw bi ñu tudde Fatig , nekkul ag gaal goo xam ne njiitu réew mi daf ciy doxantu .
+1	Sea	_	PROPN	_	_	11	subj	_	_
+2	Premium	_	PROPN	_	_	1	flat	_	_
+3	100	_	NUM	_	_	1	conj:appos	_	_
+4	bu	_	PRON	_	_	5	subj	_	_
+5	siiw	_	VERB	_	_	1	mod	_	_
+6	bi	_	PRON	_	_	8	comp:obj	_	_
+7	ñu	_	PRON	_	_	8	subj	_	_
+8	tudde	_	VERB	_	_	1	mod	_	_
+9	Fatig	_	PROPN	_	_	8	comp:obl	_	NoSpaceAfter=Yes
+10	,	_	PUNCT	_	_	11	punct	_	_
+11	nekkul	_	VERB	_	_	0	root	_	_
+12	ag	_	DET	_	_	13	det	_	_
+13	gaal	_	NOUN	_	_	11	comp:cleft	_	_
+14	goo	_	PRON	_	_	15	subj	_	_
+15	xam	_	VERB	_	_	13	mod	_	_
+16	ne	_	SCONJ	_	_	15	comp:obj	_	_
+17	njiitu	_	NOUN	_	_	20	subj	_	_
+18	réew	_	NOUN	_	_	17	mod	_	_
+19	mi	_	DET	_	_	18	det	_	_
+20	daf	_	AUX	_	_	16	comp:obj	_	_
+21	ciy	_	ADP	_	_	20	udep	_	_
+22	doxantu	_	VERB	_	_	20	comp:aux	_	NoSpaceAfter=Yes
+23	.	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_22_split2
+# text = Niki La signare , dafay yóbbu njiiti Senegaal yi ak gan yu am solo yi diggante Dakaar ak Gore , ci anam yu ànd ak kaaraange gu àdduna yépp nangu ne noonu la war a mel .
+1	Niki	Niki	ADP	_	_	5	udep	_	_
+2	La	_	PROPN	_	_	1	comp:obj	_	_
+3	signare	_	PROPN	_	_	2	flat	_	NoSpaceAfter=Yes
+4	,	_	PUNCT	_	_	5	punct	_	_
+5	dafay	_	AUX	_	_	0	root	_	_
+6	yóbbu	_	VERB	_	_	5	comp:aux	_	_
+7	njiiti	_	NOUN	_	_	5	comp:obj	_	_
+8	Senegaal	_	PROPN	_	_	7	mod	_	_
+9	yi	_	DET	_	_	7	det	_	_
+10	ak	_	CCONJ	_	_	11	cc	_	_
+11	gan	_	NOUN	_	_	7	conj	_	_
+12	yu	_	PRON	_	_	13	subj	_	_
+13	am	_	VERB	_	_	11	mod	_	_
+14	solo	_	NOUN	_	_	13	comp:obj	_	_
+15	yi	_	DET	_	_	14	det	_	_
+16	diggante	_	ADP	_	_	5	udep	_	_
+17	Dakaar	_	PROPN	_	_	16	comp:obl	_	_
+18	ak	_	CCONJ	_	_	19	cc	_	_
+19	Gore	_	PROPN	_	_	17	conj	_	NoSpaceAfter=Yes
+20	,	_	PUNCT	_	_	21	punct	_	_
+21	ci	_	ADP	_	_	5	udep	_	_
+22	anam	_	NOUN	_	_	21	comp:obj	_	_
+23	yu	_	PRON	_	_	24	subj	_	_
+24	ànd	_	VERB	_	_	22	mod	_	_
+25	ak	_	ADP	_	_	24	udep	_	_
+26	kaaraange	_	NOUN	_	_	25	comp:obj	_	_
+27	gu	_	PRON	_	_	30	comp:obj	_	_
+28	àdduna	_	NOUN	_	_	30	subj	_	_
+29	yépp	_	DET	_	_	28	det	_	_
+30	nangu	_	VERB	_	_	26	mod	_	_
+31	ne	_	SCONJ	_	_	30	comp:obj	_	_
+32	noonu	_	ADV	_	_	33	mod	_	_
+33	la	_	AUX	_	_	31	comp:obj	_	_
+34	war	_	VERB	_	_	33	comp:aux	_	_
+35	a	_	PART	_	_	34	udep	_	_
+36	mel	_	VERB	_	_	35	comp:obj	_	NoSpaceAfter=Yes
+37	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_23
+# text = Ci loo xam ne waru ko , ab jëwriñ ci nguur wax na ne ki fi nekkoon njiitu réew mi moo jël raw-gàddu gi ci wote yi .
+# text_en = Without having the right to do so, one of the government's leaders said that the outgoing president has won the elections.
+1	Ci	ci	ADP	_	_	13	udep	_	Gloss=in
+2	loo	boo	PRON	_	_	3	subj	_	Gloss=what
+3	xam	xam	VERB	_	_	1	comp:obj	_	Gloss=know
+4	ne	ni	SCONJ	_	_	3	comp:obj	_	Gloss=that
+5	waru	war	VERB	_	_	4	comp:obj	_	Gloss=should not
+6	ko	ko	PRON	_	_	5	comp:obj	_	Gloss=him|NoSpaceAfter=Yes
+7	,	,	PUNCT	_	_	13	punct	_	Gloss=,
+8	ab	ab	DET	_	_	9	det	_	Gloss=some
+9	jëwriñ	jëwriñ	NOUN	_	_	13	subj	_	Gloss=leader
+10	ci	ci	ADP	_	_	9	udep	_	Gloss=in
+11	nguur	nguur	NOUN	_	_	10	comp:obj	_	Gloss=government
+12	wax	wax	VERB	_	_	13	comp:aux	_	Gloss=say
+13	na	na	AUX	_	_	0	root	_	Gloss=has
+14	ne	ni	SCONJ	_	_	13	comp:obj	_	Gloss=that
+15	ki	bi	PRON	_	_	21	subj	_	Gloss=the one who
+16	fi	fi	ADV	_	_	17	mod	_	Gloss=here
+17	nekkoon	nekk	VERB	_	_	15	mod	_	Gloss=was
+18	njiitu	njiit	NOUN	_	_	17	comp:obj	_	Gloss=leader of
+19	réew	réew	NOUN	_	_	18	mod	_	Gloss=country
+20	mi	bi	DET	_	_	19	det	_	Gloss=the
+21	moo	boo	AUX	_	_	14	comp:obj	_	Gloss=has
+22	jël	jël	VERB	_	_	21	comp:aux	_	Gloss=take
+23	raw-gàddu	rawgàddu	_	_	_	22	comp:obj	_	Gloss=majority
+24	gi	bi	DET	_	_	23	det	_	Gloss=the
+25	ci	ci	ADP	_	_	22	udep	_	Gloss=in
+26	wote	wote	NOUN	_	_	25	comp:obj	_	Gloss=election
+27	yi	bi	DET	_	_	26	det	_	Gloss=the|NoSpaceAfter=Yes
+28	.	.	PUNCT	_	_	13	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_24
+# text = Beesal gi am ci pólótig bi dana tax, ci lu wér, ñu dellu ci suñuy xar-baax.
+# text_en = The political change that has taken place will undoubtedly see us return to our traditions.
+1	Beesal	Beesal	NOUN	_	_	7	subj	_	Gloss=change
+2	gi	bi	PRON	_	_	3	subj	_	Gloss=which
+3	am	am	VERB	_	_	1	mod	_	Gloss=take place
+4	ci	ci	ADP	_	_	3	udep	_	Gloss=in
+5	pólótig	pólótig	NOUN	_	_	4	comp:obj	_	Gloss=politics
+6	bi	bi	DET	_	_	5	det	_	Gloss=the
+7	dana	da	AUX	_	_	0	root	_	Gloss=will
+8	tax	tax	VERB	_	_	7	comp:aux	_	Gloss=cause|NoSpaceAfter=Yes
+9	,	,	PUNCT	_	_	10	punct	_	Gloss=,
+10	ci	ci	ADP	_	_	7	udep	_	Gloss=in
+11	lu	bu	PRON	_	_	10	comp:obj	_	Gloss=what
+12	wér	wër	VERB	_	_	11	mod	_	Gloss=be true|NoSpaceAfter=Yes
+13	,	,	PUNCT	_	_	10	punct	_	Gloss=,
+14	ñu	mu	PRON	_	_	15	subj	_	Gloss=they
+15	dellu	dellu	VERB	_	_	7	comp:obj	_	Gloss=go back
+16	ci	ci	ADP	_	_	15	udep	_	Gloss=to
+17	suñuy	sama	DET	_	_	18	det	_	Gloss=our
+18	xar-baax	xar-baax	NOUN	_	_	16	comp:obj	_	Gloss=tradition|NoSpaceAfter=Yes
+19	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_25
+# text = Njiitu bokk-moomeel bu Cees mu ngi ci jiixa-jaaxa.
+# text_en = The leader of the polical party bokk-moomeel is in a dilemma.
+1	Njiitu	njiit	NOUN	_	_	6	dislocated	_	Gloss=the leader of
+2	bokk-moomeel	bokk-moomeel	NOUN	_	_	1	mod	_	Gloss=bokk-moomeel
+3	bu	bu	PRON	_	_	2	udep	_	Gloss=of
+4	Cees	Cees	PROPN	_	_	3	comp:obj	_	Gloss=Thies
+5	mu	mu	PRON	_	_	6	subj	_	Gloss=he
+6	ngi	ngi	AUX	_	_	0	root	_	Gloss=is
+7	ci	ci	ADP	_	_	6	comp:pred	_	Gloss=in
+8	jiixa-jaaxa	jiixa-jaaxa	NOUN	_	_	7	comp:obj	_	Gloss=dilemma|NoSpaceAfter=Yes
+9	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_26
+# text = Xojax yi dañoo nas pexem lekk.
+# text_en = The foxes have made plans to embezzle money.
+1	Xojax	xojax	NOUN	_	_	3	subj	_	Gloss=renard
+2	yi	bi	DET	_	_	1	det	_	Gloss=the
+3	dañoo	da	VERB	_	_	0	root	_	Gloss=have
+4	nas	nas	VERB	_	_	3	comp:aux	_	Gloss=establish
+5	pexem	pexe	NOUN	_	_	3	comp:obj	_	Gloss=a plan for
+6	lekk	lekk	VERB	_	_	5	mod	_	Gloss=eat|NoSpaceAfter=Yes
+7	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_27
+# text = 1 - Jëfandikoog nafag réew: li jëm ci wàllu dàmpe ci loo xam ne dees koo foqatee ci nit ngir njariñal ñépp.
+1	1	_	NUM	_	_	3	mod	_	_
+2	-	_	PUNCT	_	_	3	punct	_	_
+3	Jëfandikoog	_	NOUN	_	_	0	root	_	_
+4	nafag	_	NOUN	_	_	3	comp:obj	_	_
+5	réew	_	NOUN	_	_	4	mod	_	NoSpaceAfter=Yes
+6	:	_	PUNCT	_	_	7	punct	_	_
+7	li	_	PRON	_	_	3	conj	_	_
+8	jëm	_	VERB	_	_	7	mod	_	_
+9	ci	_	ADP	_	_	8	udep	_	_
+10	wàllu	_	NOUN	_	_	9	comp:obj	_	_
+11	dàmpe	_	NOUN	_	_	10	mod	_	_
+12	ci	_	ADP	_	_	11	udep	_	_
+13	loo	_	PRON	_	_	12	comp:obj	_	_
+14	xam	_	VERB	_	_	13	mod	_	_
+15	ne	_	SCONJ	_	_	14	comp:obj	_	_
+16	dees	_	VERB	_	_	15	comp:obj	_	_
+17	koo	_	PRON	_	_	16	comp:obj	_	_
+18	foqatee	_	VERB	_	_	16	comp:aux	_	_
+19	ci	_	ADP	_	_	16	udep	_	_
+20	nit	_	NOUN	_	_	19	comp:obj	_	_
+21	ngir	_	ADP	_	_	20	udep	_	_
+22	njariñal	_	NOUN	_	_	21	comp:obj	_	_
+23	ñépp	_	PRON	_	_	22	mod	_	NoSpaceAfter=Yes
+24	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_28
+# text = Ca Guinée Bissau ak ca Niger daanaka yeksi nañu ci... Yaakaar nañu ne itam coppitee yooyu dina eksi Senegaal ci atum 2024.
+1	Ca	_	ADP	_	_	9	udep	_	_
+2	Guinée	_	PROPN	_	_	1	comp:obj	_	_
+3	Bissau	_	PROPN	_	_	2	flat	_	_
+4	ak	_	CCONJ	_	_	5	cc	_	_
+5	ca	_	ADP	_	_	1	conj	_	_
+6	Niger	_	PROPN	_	_	5	comp:obj	_	_
+7	daanaka	_	ADV	_	_	9	mod	_	_
+8	yeksi	_	VERB	_	_	9	comp:aux	_	_
+9	nañu	_	AUX	_	_	0	root	_	_
+10	ci	_	ADP	_	_	9	udep	_	_
+11	...	_	PUNCT	_	_	13	punct	_	_
+12	Yaakaar	_	VERB	_	_	13	comp:aux	_	_
+13	nañu	_	AUX	_	_	9	parataxis	_	_
+14	ne	_	SCONJ	_	_	13	comp:obj	_	_
+15	itam	_	ADV	_	_	14	mod	_	_
+16	coppitee	_	NOUN	_	_	18	subj	_	_
+17	yooyu	_	DET	_	_	16	det	_	_
+18	dina	_	AUX	_	_	14	comp:obj	_	_
+19	eksi	_	VERB	_	_	18	comp:aux	_	_
+20	Senegaal	_	PROPN	_	_	18	comp:obj	_	_
+21	ci	_	ADP	_	_	18	udep	_	_
+22	atum	_	NOUN	_	_	21	comp:obj	_	_
+23	2024	_	NUM	_	_	22	conj:appos	_	NoSpaceAfter=Yes
+24	.	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_29
+# text = Sa ree ju neex jii di firndeel dëggu dina des ci suñu xol yi ba abadan , dina des itam ci xolu képp ku bëggoon réew mi , yàgg a mébét senegaalug jàmm , senegaalug naataange , Senegaal gu moom boppam ak gu boole xeet ak diine yépp , te suuf féete leen kaw .
+1	Sa	_	DET	_	_	2	det	_	_
+2	ree	_	NOUN	_	_	6	subj	_	_
+3	ju	_	PRON	_	_	4	subj	_	_
+4	neex	_	VERB	_	_	2	mod	_	_
+5	jii	_	PRON	_	_	2	det	_	_
+6	di	_	AUX	_	_	0	root	_	_
+7	firndeel	_	VERB	_	_	6	comp:aux	_	_
+8	dëggu	_	NOUN	_	_	9	subj	_	_
+9	dina	_	AUX	_	_	6	comp:obj	_	_
+10	des	_	VERB	_	_	9	comp:aux	_	_
+11	ci	_	ADP	_	_	9	udep	_	_
+12	suñu	_	DET	_	_	13	det	_	_
+13	xol	_	NOUN	_	_	11	comp:obj	_	_
+14	yi	_	DET	_	_	13	det	_	_
+15	ba	_	ADP	_	_	9	udep	_	_
+16	abadan	_	ADV	_	_	15	comp:obj	_	NoSpaceAfter=Yes
+17	,	_	PUNCT	_	_	18	punct	_	_
+18	dina	_	AUX	_	_	9	parataxis	_	_
+19	des	_	VERB	_	_	18	comp:aux	_	_
+20	itam	_	ADV	_	_	18	mod	_	_
+21	ci	_	ADP	_	_	18	udep	_	_
+22	xolu	_	NOUN	_	_	21	comp:obj	_	_
+23	képp	_	PRON	_	_	22	mod	_	_
+24	ku	_	PRON	_	_	25	subj	_	_
+25	bëggoon	_	VERB	_	_	23	mod	_	_
+26	réew	_	NOUN	_	_	25	comp:obj	_	_
+27	mi	_	DET	_	_	26	det	_	NoSpaceAfter=Yes
+28	,	_	PUNCT	_	_	29	punct	_	_
+29	yàgg	_	VERB	_	_	23	mod	_	_
+30	a	_	PART	_	_	29	udep	_	_
+31	mébét	_	VERB	_	_	30	comp:obj	_	_
+32	senegaalug	_	NOUN	_	_	31	comp:obj	_	_
+33	jàmm	_	NOUN	_	_	32	mod	_	NoSpaceAfter=Yes
+34	,	_	PUNCT	_	_	35	punct	_	_
+35	senegaalug	_	NOUN	_	_	32	conj	_	_
+36	naataange	_	NOUN	_	_	35	mod	_	NoSpaceAfter=Yes
+37	,	_	PUNCT	_	_	38	punct	_	_
+38	Senegaal	_	PROPN	_	_	32	conj	_	_
+39	gu	_	PRON	_	_	40	subj	_	_
+40	moom	_	VERB	_	_	38	mod	_	_
+41	boppam	_	NOUN	_	_	40	comp:obj	_	_
+42	ak	_	CCONJ	_	_	44	cc	_	_
+43	gu	_	PRON	_	_	44	subj	_	_
+44	boole	_	VERB	_	_	38	conj	_	_
+45	xeet	_	NOUN	_	_	44	comp:obj	_	_
+46	ak	_	CCONJ	_	_	47	cc	_	_
+47	diine	_	NOUN	_	_	45	conj	_	_
+48	yépp	_	DET	_	_	47	det	_	NoSpaceAfter=Yes
+49	,	_	PUNCT	_	_	52	punct	_	_
+50	te	_	CCONJ	_	_	52	cc	_	_
+51	suuf	_	NOUN	_	_	52	subj	_	_
+52	féete	_	VERB	_	_	44	conj	_	_
+53	leen	_	PRON	_	_	52	comp:obj	_	_
+54	kaw	_	NOUN	_	_	52	comp:obl	_	NoSpaceAfter=Yes
+55	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_30_split1
+# text = Dafay def ay widéwoo yu bare yoo xam ne moo ngi ko duppe Càmbar gafag réew mi .
+1	Dafay	_	AUX	_	_	0	root	_	_
+2	def	_	VERB	_	_	1	comp:aux	_	_
+3	ay	_	DET	_	_	4	det	_	_
+4	widéwoo	_	NOUN	_	_	2	comp:obj	_	_
+5	yu	_	PRON	_	_	6	subj	_	_
+6	bare	_	VERB	_	_	4	mod	_	_
+7	yoo	_	PRON	_	_	8	subj	_	_
+8	xam	_	VERB	_	_	4	mod	_	_
+9	ne	_	SCONJ	_	_	8	comp:obj	_	_
+10	moo	_	PRON	_	_	11	subj	_	_
+11	ngi	_	AUX	_	_	9	comp:obj	_	_
+12	ko	_	PRON	_	_	11	comp:obj	_	_
+13	duppe	_	VERB	_	_	11	comp:aux	_	_
+14	Càmbar	_	PROPN	_	_	11	comp:obl	_	_
+15	gafag	_	NOUN	_	_	14	mod	_	_
+16	réew	_	NOUN	_	_	15	mod	_	_
+17	mi	_	DET	_	_	16	det	_	NoSpaceAfter=Yes
+18	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_30_split2
+# text = Ci widéwoo yooyu , dinaa ci dikkaat ci lu yaatu ci Yoon wiy yéwénal li ñu natt ci koom ci atum 2020 ak céddale gi ñeel at miiy ñëw
+1	Ci	_	ADP	_	_	5	udep	_	_
+2	widéwoo	_	NOUN	_	_	1	comp:obj	_	_
+3	yooyu	_	PRON	_	_	2	det	_	NoSpaceAfter=Yes
+4	,	_	PUNCT	_	_	5	punct	_	_
+5	dinaa	_	AUX	_	_	0	root	_	_
+6	ci	_	ADP	_	_	5	udep	_	_
+7	dikkaat	_	VERB	_	_	5	comp:aux	_	_
+8	ci	_	ADP	_	_	5	udep	_	_
+9	lu	_	PRON	_	_	8	comp:obj	_	_
+10	yaatu	_	VERB	_	_	9	mod	_	_
+11	ci	_	ADP	_	_	5	udep	_	_
+12	Yoon	_	NOUN	_	_	11	comp:obj	_	_
+13	wiy	_	PRON	_	_	14	subj	_	_
+14	yéwénal	_	VERB	_	_	12	mod	_	_
+15	li	_	PRON	_	_	14	comp:obj	_	_
+16	ñu	_	PRON	_	_	17	subj	_	_
+17	natt	_	VERB	_	_	15	mod	_	_
+18	ci	_	ADP	_	_	17	udep	_	_
+19	koom	_	NOUN	_	_	18	comp:obj	_	_
+20	ci	_	ADP	_	_	17	udep	_	_
+21	atum	_	NOUN	_	_	20	comp:obj	_	_
+22	2020	_	NUM	_	_	21	mod	_	_
+23	ak	_	CCONJ	_	_	24	cc	_	_
+24	céddale	_	NOUN	_	_	15	conj	_	_
+25	gi	_	DET	_	_	24	det	_	_
+26	ñeel	_	ADP	_	_	24	udep	_	_
+27	at	_	NOUN	_	_	26	comp:obj	_	_
+28	miiy	_	PRON	_	_	29	subj	_	_
+29	ñëw	_	VERB	_	_	27	mod	_	_
+
+# sent_id = Masakhane-Wolof_dev_31
+# text = Ginnaaw gi, liggéey na ci kuréel yu wuute yoo xam ne fa la jàngee lépp lu aju ci wàllum xarala.
+# text_en = Afterwards, he worked in various organizations where he learned all about journalism.
+1	Ginnaaw	Ginnaaw	NOUN	_	_	5	mod	_	Gloss=after
+2	gi	bi	DET	_	_	1	det	_	Gloss=that|NoSpaceAfter=Yes
+3	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+4	liggéey	liggéey	NOUN	_	_	5	comp:aux	_	Gloss=work
+5	na	na	AUX	_	_	0	root	_	Gloss=has
+6	ci	ci	ADP	_	_	5	udep	_	Gloss=in
+7	kuréel	kuréel	NOUN	_	_	6	comp:obj	_	Gloss=organization
+8	yu	bu	PRON	_	_	9	subj	_	Gloss=which
+9	wuute	wuute	VERB	_	_	7	mod	_	Gloss=be different
+10	yoo	boo	PRON	_	_	11	subj	_	Gloss=which
+11	xam	xam	VERB	_	_	7	mod	_	Gloss=know
+12	ne	ni	SCONJ	_	_	11	comp:obj	_	Gloss=that
+13	fa	fa	ADV	_	_	14	mod	_	Gloss=there
+14	la	la	AUX	_	_	12	comp:obj	_	Gloss=has
+15	jàngee	jàng	VERB	_	_	14	comp:aux	_	Gloss=learn
+16	lépp	bépp	ADV	_	_	14	comp:obj	_	Gloss=everything
+17	lu	lu	PRON	_	_	18	subj	_	Gloss=which
+18	aju	aju	VERB	_	_	16	mod	_	Gloss=deal
+19	ci	ci	ADP	_	_	18	udep	_	Gloss=with
+20	wàllum	wàll	NOUN	_	_	19	comp:obj	_	Gloss=domain of
+21	xarala	xarala	NOUN	_	_	20	mod	_	Gloss=journalism|NoSpaceAfter=Yes
+22	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_32
+# text = Ci xelu waa APR, ndam li ca gox bu Sigicoor lay gën a neexee, fàww, ak nu mu mën a deme, ñu boole leen ci li ñuy def.
+1	Ci	_	ADP	_	_	12	udep	_	_
+2	xelu	_	NOUN	_	_	1	comp:obj	_	_
+3	waa	_	NOUN	_	_	2	mod	_	_
+4	APR	_	PROPN	_	_	3	compound	_	NoSpaceAfter=Yes
+5	,	_	PUNCT	_	_	12	punct	_	_
+6	ndam	_	NOUN	_	_	12	subj	_	_
+7	li	_	DET	_	_	6	det	_	_
+8	ca	_	ADP	_	_	12	udep	_	_
+9	gox	_	NOUN	_	_	8	comp:obj	_	_
+10	bu	_	PRON	_	_	9	udep	_	_
+11	Sigicoor	_	PROPN	_	_	10	comp:obl	_	_
+12	lay	_	AUX	_	_	0	root	_	_
+13	gën	_	VERB	_	_	12	comp:aux	_	_
+14	a	_	PART	_	_	13	udep	_	_
+15	neexee	_	VERB	_	_	14	comp:obj	_	NoSpaceAfter=Yes
+16	,	_	PUNCT	_	_	17	punct	_	_
+17	fàww	_	ADV	_	_	12	mod	_	NoSpaceAfter=Yes
+18	,	_	PUNCT	_	_	17	punct	_	_
+19	ak	_	ADP	_	_	12	udep	_	_
+20	nu	_	ADV	_	_	22	mod	_	_
+21	mu	_	PRON	_	_	22	subj	_	_
+22	mën	_	VERB	_	_	19	conj	_	_
+23	a	_	PART	_	_	22	udep	_	_
+24	deme	_	VERB	_	_	23	comp:obj	_	NoSpaceAfter=Yes
+25	,	_	PUNCT	_	_	27	punct	_	_
+26	ñu	_	PRON	_	_	27	subj	_	_
+27	boole	_	VERB	_	_	12	parataxis	_	_
+28	leen	_	PRON	_	_	27	comp:obj	_	_
+29	ci	_	ADP	_	_	27	udep	_	_
+30	li	_	PRON	_	_	29	comp:obj	_	_
+31	ñuy	_	PRON	_	_	32	subj	_	_
+32	def	_	VERB	_	_	30	mod	_	NoSpaceAfter=Yes
+33	.	_	PUNCT	_	_	12	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_33
+# text = Li ci gënoon a doy waar mooy ni futbalkat yi doon xeexee bu ñu ñàkkee bal bi.
+# text_en = The most astonishing thing was the way the football players were fighting when they lost the ball.
+1	Li	li	PRON	_	_	7	subj	_	Gloss=what
+2	ci	ci	ADP	_	_	3	udep	_	Gloss=in
+3	gënoon	gën	VERB	_	_	1	mod	_	Gloss=be most
+4	a	a	PART	_	_	5	udep	_	Gloss=to
+5	doy	doy	VERB	_	_	3	comp:obj	_	Gloss=be enough
+6	waar	waar	NOUN	_	_	5	compound:prt	_	Gloss=astonishment
+7	mooy	a	AUX	_	_	0	root	_	Gloss=was
+8	ni	ni	ADV	_	_	11	mod	_	Gloss=how
+9	futbalkat	futbalkat	NOUN	_	_	11	subj	_	Gloss=football player
+10	yi	bi	DET	_	_	9	det	_	Gloss=the
+11	doon	di	AUX	_	_	7	comp:pred	_	Gloss=were
+12	xeexee	xeex	VERB	_	_	11	comp:aux	_	Gloss=fight
+13	bu	bi	SCONJ	_	_	11	mod	_	Gloss=when
+14	ñu	mu	PRON	_	_	15	subj	_	Gloss=they
+15	ñàkkee	ñàkk	VERB	_	_	13	comp:obj	_	Gloss=loose
+16	bal	bal	NOUN	_	_	15	comp:obj	_	Gloss=ball
+17	bi	bi	DET	_	_	16	det	_	Gloss=the|NoSpaceAfter=Yes
+18	.	.	PUNCT	_	_	11	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_34
+# text = Waa Liverpool jël nañu seen juróom-benneelu Ligg dee sàmpiyoŋ (Ligue des champions).
+# text_en = Liverpool has won their sixth Champions League
+1	Waa	waa	NOUN	_	_	4	subj	_	Gloss=team of
+2	Liverpool	Liverpool	PROPN	_	_	1	compound	_	Gloss=Liverpool
+3	jël	jël	VERB	_	_	4	comp:aux	_	Gloss=take
+4	nañu	na	AUX	_	_	0	root	_	Gloss=have
+5	seen	sa	DET	_	_	7	det	_	Gloss=their
+6	juróom-benneelu	juróom-benneel	NUM	_	_	7	mod	_	Gloss=sixth
+7	Ligg	Ligg	PROPN	_	_	4	comp:obj	_	Gloss=league
+8	dee	dee	PROPN	_	_	7	udep	_	Gloss=of
+9	sàmpiyoŋ	sàmpiyoŋ	PROPN	_	_	8	comp:obj	_	Gloss=champion
+10	(	(	PUNCT	_	_	11	punct	_	Gloss=(|NoSpaceAfter=Yes
+11	Ligue	Ligue	PROPN	_	_	7	conj:appos	_	Gloss=league
+12	des	des	PROPN	_	_	11	udep	_	Gloss=of
+13	champions	champions	PROPN	_	_	12	comp:obj	_	_
+14	)	)	PUNCT	_	_	11	punct	_	Gloss=)|NoSpaceAfter=Yes
+15	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_35
+# text = Daañu fa dajeek sax ñu yore seeni lijaasa ba noppi di jaay ay lëjum, ay dàll wala sax yu nekk ay defarkati dàll.
+1	Daañu	_	AUX	_	_	0	root	_	_
+2	fa	_	ADV	_	_	1	mod	_	_
+3	dajeek	_	VERB	_	_	1	comp:obj	_	_
+4	sax	_	ADV	_	_	1	mod	_	_
+5	ñu	_	PRON	_	_	1	comp:obj	_	_
+6	yore	_	VERB	_	_	5	mod	_	_
+7	seeni	_	DET	_	_	8	det	_	_
+8	lijaasa	_	NOUN	_	_	6	comp:obj	_	_
+9	ba	_	ADP	_	_	6	udep	_	_
+10	noppi	_	VERB	_	_	9	comp:obj	_	_
+11	di	_	AUX	_	_	6	comp:obj	_	_
+12	jaay	_	VERB	_	_	11	comp:aux	_	_
+13	ay	_	DET	_	_	14	det	_	_
+14	lëjum	_	NOUN	_	_	11	comp:obj	_	NoSpaceAfter=Yes
+15	,	_	PUNCT	_	_	17	punct	_	_
+16	ay	_	DET	_	_	17	det	_	_
+17	dàll	_	NOUN	_	_	14	conj	_	_
+18	wala	_	CCONJ	_	_	20	cc	_	_
+19	sax	_	ADV	_	_	18	mod	_	_
+20	yu	_	PRON	_	_	5	conj	_	_
+21	nekk	_	VERB	_	_	20	mod	_	_
+22	ay	_	DET	_	_	23	det	_	_
+23	defarkati	_	NOUN	_	_	21	comp:cleft	_	_
+24	dàll	_	NOUN	_	_	23	mod	_	NoSpaceAfter=Yes
+25	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_36
+# text = Waaye kiy tàggat gaynde yi nee na yemul rekk ci menn pexem futbal.
+# text_en = But the coach of the senegalese football team (the lions) has said that he does not rely on only one soccer tactic.
+1	Waaye	waaye	CCONJ	_	_	7	cc	_	Gloss=But
+2	kiy	ki	PRON	_	_	7	subj	_	Gloss=the one who
+3	tàggat	tàggat	VERB	_	_	2	mod	_	Gloss=train
+4	gaynde	gaynde	NOUN	_	_	3	comp:obj	_	Gloss=lions
+5	yi	bi	DET	_	_	4	det	_	Gloss=the
+6	nee	ne	VERB	_	_	7	comp:aux	_	Gloss=say
+7	na	na	AUX	_	_	0	root	_	Gloss=has
+8	yemul	yem	VERB	_	_	7	comp:obj	_	Gloss=not only do
+9	rekk	rekk	ADV	_	_	8	mod	_	Gloss=only
+10	ci	ci	ADP	_	_	8	udep	_	Gloss=on
+11	menn	benn	DET	_	_	12	det	_	Gloss=one
+12	pexem	pexe	NOUN	_	_	10	comp:obj	_	Gloss=tactic of
+13	futbal	futbal	NOUN	_	_	12	mod	_	Gloss=football|NoSpaceAfter=Yes
+14	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_37
+# text = Noo ngi xaar ak yàkkamti beneen teg-dóor bu Senegaal....
+# text_en = We look forward to and can't wait for another Senegalese victory.
+1	Noo	a	PRON	_	_	2	subj	_	Gloss=we
+2	ngi	ngi	AUX	_	_	0	root	_	Gloss=are
+3	xaar	xaar	VERB	_	_	2	comp:aux	_	Gloss=wait
+4	ak	ak	CCONJ	_	_	5	cc	_	Gloss=and
+5	yàkkamti	yàkkamti	VERB	_	_	3	conj	_	Gloss=can't wait
+6	beneen	beneen	DET	_	_	7	det	_	Gloss=another
+7	teg-dóor	teg-dóor	NOUN	_	_	5	comp:obj	_	Gloss=victory
+8	bu	bu	PRON	_	_	7	udep	_	Gloss=of
+9	Senegaal	Senegaal	PROPN	_	_	8	comp:obj	_	Gloss=Senegal
+10	....	...	PUNCT	_	_	2	punct	_	Gloss=...
+
+# sent_id = Masakhane-Wolof_dev_38
+# text = Ci tëralin woo xam ne taxas gi dees koo watee genn wet , jëndkat dees koy jàppee picc mu ñu war a suqi .
+1	Ci	_	ADP	_	_	15	udep	_	_
+2	tëralin	_	NOUN	_	_	1	comp:obj	_	_
+3	woo	_	PRON	_	_	4	subj	_	_
+4	xam	_	VERB	_	_	2	mod	_	_
+5	ne	_	SCONJ	_	_	4	comp:obj	_	_
+6	taxas	_	NOUN	_	_	8	subj	_	_
+7	gi	_	DET	_	_	6	det	_	_
+8	dees	_	VERB	_	_	5	comp:obj	_	_
+9	koo	_	PRON	_	_	8	comp:obj	_	_
+10	watee	_	VERB	_	_	8	comp:aux	_	_
+11	genn	_	DET	_	_	12	det	_	_
+12	wet	_	NOUN	_	_	8	comp:obj	_	NoSpaceAfter=Yes
+13	,	_	PUNCT	_	_	15	punct	_	_
+14	jëndkat	_	NOUN	_	_	15	subj	_	_
+15	dees	_	VERB	_	_	0	root	_	_
+16	koy	_	PRON	_	_	15	comp:obj	_	_
+17	jàppee	_	VERB	_	_	15	comp:aux	_	_
+18	picc	_	NOUN	_	_	15	comp:obj	_	_
+19	mu	_	PRON	_	_	21	comp:obj	_	_
+20	ñu	_	PRON	_	_	21	subj	_	_
+21	war	_	VERB	_	_	18	mod	_	_
+22	a	_	PART	_	_	21	udep	_	_
+23	suqi	_	VERB	_	_	22	comp:obj	_	NoSpaceAfter=Yes
+24	.	_	PUNCT	_	_	15	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_39
+# text = Xanaa nekkul ne ci jafe-jafe ngay xamee say xarit.
+# text_en = Isn't it true that it's in difficult times that you recognize your friends?
+1	Xanaa	xanaa	ADV	_	_	2	mod	_	Gloss=by chance
+2	nekkul	nekk	VERB	_	_	0	root	_	Gloss=not to be
+3	ne	ni	SCONJ	_	_	2	comp:obj	_	Gloss=that
+4	ci	ci	ADP	_	_	6	udep	_	Gloss=in
+5	jafe-jafe	jafe-jafe	NOUN	_	_	4	comp:obj	_	Gloss=difficulty
+6	ngay	mu	PRON	_	_	3	comp:aux	_	Gloss=you
+7	xamee	xam	VERB	_	_	6	comp:aux	_	Gloss=identify
+8	say	bi	DET	_	_	9	det	_	Gloss=yours
+9	xarit	xarit	NOUN	_	_	7	comp:obj	_	Gloss=friend|NoSpaceAfter=Yes
+10	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_40
+# text = Aamadu Tiijaan WON nee: muus-muuslu ak bariy afeer ci fàtteliku rekk lay mujj.
+# text_en = Amadou Tidiane Wane said that pretentiousness and activism will only end in oblivion.
+1	Aamadu	Aamadu	PROPN	_	_	4	subj	_	Gloss=Amadou
+2	Tiijaan	Tiijaan	PROPN	_	_	1	flat	_	Gloss=Tidiane
+3	WON	Won	PROPN	_	_	1	flat	_	Gloss=Wane
+4	nee	nee	VERB	_	_	0	root	_	Gloss=say|NoSpaceAfter=Yes
+5	:	:	PUNCT	_	_	13	punct	_	Gloss=:
+6	muus-muuslu	muus-muuslu	VERB	_	_	13	subj	_	Gloss=pretentiousness
+7	ak	ak	CCONJ	_	_	8	cc	_	Gloss=and
+8	bariy	bari	VERB	_	_	6	conj	_	Gloss=have many
+9	afeer	afeer	NOUN	_	_	8	comp:obj	_	Gloss=affair
+10	ci	ci	ADP	_	_	13	udep	_	Gloss=in
+11	fàtteliku	fàtteliku	NOUN	_	_	10	comp:obj	_	Gloss=remember
+12	rekk	rek	ADV	_	_	13	mod	_	Gloss=only
+13	lay	la	AUX	_	_	4	comp:obj	_	Gloss=will
+14	mujj	mujj	VERB	_	_	13	comp:aux	_	Gloss=end|NoSpaceAfter=Yes
+15	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_41
+# text = Leer na, dafa jaawale péncum ndawi réew moomu ak mu Senegaal.
+# text_en = Clearly he has confused the national assembly of that country with the one of Senegal.
+1	Leer	leer	VERB	_	_	2	comp:aux	_	Gloss=be clear
+2	na	na	AUX	_	_	0	root	_	Gloss=is|NoSpaceAfter=Yes
+3	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+4	dafa	da	AUX	_	_	2	parataxis	_	Gloss=he has
+5	jaawale	jaawale	VERB	_	_	4	comp:aux	_	Gloss=confuse
+6	péncum	pénc	NOUN	_	_	5	comp:obj	_	Gloss=assembly
+7	ndawi	ndaw	NOUN	_	_	6	mod	_	Gloss=representant
+8	réew	réew	NOUN	_	_	7	mod	_	Gloss=country
+9	moomu	boobu	PRON	_	_	8	det	_	Gloss=that
+10	ak	ak	ADP	_	_	5	comp:obl	_	Gloss=with
+11	mu	bu	PRON	_	_	10	udep	_	Gloss=of
+12	Senegaal	Senegaal	PROPN	_	_	11	comp:obj	_	Gloss=Senegal|NoSpaceAfter=Yes
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_42
+# text = Bataaxal yii maanaam """" doole dëgg mooy mën a woote fépp ci Senegaal , """" """" Yëfu ponkal dëgg mooy mën a def la war fépp , """" """" Njaatige dëgg mooy mëne fu ne ,
+1	Bataaxal	_	NOUN	_	_	7	vocative	_	_
+2	yii	_	DET	_	_	1	det	_	_
+3	maanaam	_	ADV	_	_	1	discourse	_	_
+4	""""	_	PUNCT	_	_	7	punct	_	_
+5	doole	_	NOUN	_	_	7	subj	_	_
+6	dëgg	_	ADV	_	_	5	mod	_	_
+7	mooy	_	AUX	_	_	0	root	_	_
+8	mën	_	VERB	_	_	7	comp:aux	_	_
+9	a	_	PART	_	_	8	udep	_	_
+10	woote	_	VERB	_	_	9	comp:obj	_	_
+11	fépp	_	ADV	_	_	10	mod	_	_
+12	ci	_	ADP	_	_	11	udep	_	_
+13	Senegaal	_	PROPN	_	_	12	comp:obj	_	NoSpaceAfter=Yes
+14	,	_	PUNCT	_	_	20	punct	_	_
+15	""""	_	PUNCT	_	_	20	punct	_	_
+16	""""	_	PUNCT	_	_	20	punct	_	_
+17	Yëfu	_	NOUN	_	_	20	subj	_	_
+18	ponkal	_	NOUN	_	_	17	mod	_	_
+19	dëgg	_	ADV	_	_	17	mod	_	_
+20	mooy	_	AUX	_	_	7	parataxis	_	_
+21	mën	_	VERB	_	_	20	comp:cleft	_	_
+22	a	_	PART	_	_	21	udep	_	_
+23	def	_	VERB	_	_	22	comp:obj	_	_
+24	la	_	PRON	_	_	23	comp:obj	_	_
+25	war	_	VERB	_	_	24	comp:aux	_	_
+26	fépp	_	ADV	_	_	25	mod	_	NoSpaceAfter=Yes
+27	,	_	PUNCT	_	_	32	punct	_	_
+28	""""	_	PUNCT	_	_	32	punct	_	_
+29	""""	_	PUNCT	_	_	32	punct	_	_
+30	Njaatige	_	NOUN	_	_	32	subj	_	_
+31	dëgg	_	ADV	_	_	30	mod	_	_
+32	mooy	_	AUX	_	_	7	parataxis	_	_
+33	mëne	_	VERB	_	_	32	comp:aux	_	_
+34	fu	_	ADV	_	_	33	mod	_	_
+35	ne	_	VERB	_	_	34	mod	_	NoSpaceAfter=Yes
+36	,	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_43
+# text = """" """" Cool dëgg mooy mën a konektewu fépp ci Senegaal ak 4G + bi """" dafay wane, ci lu wér, yéeney yàq deru Free, rawatina nag jëfandikoog baat yu ci mel ni """" fépp """" ak """" fu ne """" nga xam ne dafay gaaruwaale Free.
+1	""""	_	PUNCT	_	_	5	punct	_	_
+2	""""	_	PUNCT	_	_	5	punct	_	_
+3	Cool	_	PROPN	_	_	5	subj	_	_
+4	dëgg	_	ADV	_	_	3	mod	_	_
+5	mooy	_	AUX	_	_	0	root	_	_
+6	mën	_	VERB	_	_	5	comp:cleft	_	_
+7	a	_	PART	_	_	6	comp:obl	_	_
+8	konektewu	_	VERB	_	_	7	comp:obj	_	_
+9	fépp	_	ADV	_	_	8	mod	_	_
+10	ci	_	ADP	_	_	9	udep	_	_
+11	Senegaal	_	PROPN	_	_	10	comp:obj	_	_
+12	ak	_	ADP	_	_	8	udep	_	_
+13	4G	_	NOUN	_	_	12	comp:obj	_	_
+14	+	_	SYM	_	_	13	mod	_	_
+15	bi	_	DET	_	_	13	det	_	_
+16	""""	_	PUNCT	_	_	17	punct	_	_
+17	dafay	_	AUX	_	_	5	parataxis	_	_
+18	wane	_	VERB	_	_	17	comp:aux	_	NoSpaceAfter=Yes
+19	,	_	PUNCT	_	_	20	punct	_	_
+20	ci	_	ADP	_	_	17	udep	_	_
+21	lu	_	PRON	_	_	20	comp:obj	_	_
+22	wér	_	VERB	_	_	21	mod	_	NoSpaceAfter=Yes
+23	,	_	PUNCT	_	_	24	punct	_	_
+24	yéeney	_	AUX	_	_	17	comp:obj	_	_
+25	yàq	_	VERB	_	_	24	mod	_	_
+26	deru	_	NOUN	_	_	25	comp:obj	_	_
+27	Free	_	PROPN	_	_	26	mod	_	NoSpaceAfter=Yes
+28	,	_	PUNCT	_	_	29	punct	_	_
+29	rawatina	_	ADV	_	_	24	mod	_	_
+30	nag	_	ADV	_	_	29	mod	_	_
+31	jëfandikoog	_	NOUN	_	_	30	comp:obj	_	_
+32	baat	_	NOUN	_	_	31	mod	_	_
+33	yu	_	PRON	_	_	35	subj	_	_
+34	ci	_	ADP	_	_	35	udep	_	_
+35	mel	_	VERB	_	_	32	mod	_	_
+36	ni	_	ADP	_	_	35	udep	_	_
+37	""""	_	PUNCT	_	_	38	punct	_	_
+38	fépp	_	ADV	_	_	36	comp:obj	_	_
+39	""""	_	PUNCT	_	_	42	punct	_	_
+40	ak	_	CCONJ	_	_	42	cc	_	_
+41	""""	_	PUNCT	_	_	42	punct	_	_
+42	fu	_	ADV	_	_	38	conj	_	_
+43	ne	_	VERB	_	_	42	mod	_	_
+44	""""	_	PUNCT	_	_	46	punct	_	_
+45	nga	_	PRON	_	_	46	subj	_	_
+46	xam	_	VERB	_	_	32	mod	_	_
+47	ne	_	SCONJ	_	_	46	comp:obj	_	_
+48	dafay	_	AUX	_	_	46	comp:aux	_	_
+49	gaaruwaale	_	VERB	_	_	48	comp:aux	_	_
+50	Free	_	PROPN	_	_	49	comp:obj	_	NoSpaceAfter=Yes
+51	.	_	PUNCT	_	_	48	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_44
+# text = Ñàkk a sàmmoonteek dogal yii , li muy jur mooy , ginnaaw bu weesoo li ci bérébu dencukaayu xaalisu réew mi di ñàkk , musiba ci ñàkk a fay lempo te loolu itam mën na jur jafe-jafey askan .
+1	Ñàkk	_	VERB	_	_	10	dislocated	_	_
+2	a	_	PART	_	_	1	udep	_	_
+3	sàmmoonteek	_	VERB	_	_	2	comp:obj	_	_
+4	dogal	_	NOUN	_	_	3	comp:obj	_	_
+5	yii	_	DET	_	_	4	det	_	NoSpaceAfter=Yes
+6	,	_	PUNCT	_	_	10	punct	_	_
+7	li	_	PRON	_	_	10	subj	_	_
+8	muy	_	PRON	_	_	9	subj	_	_
+9	jur	_	VERB	_	_	7	mod	_	_
+10	mooy	_	AUX	_	_	0	root	_	NoSpaceAfter=Yes
+11	,	_	PUNCT	_	_	12	punct	_	_
+12	ginnaaw	_	ADV	_	_	10	mod	_	_
+13	bu	_	SCONJ	_	_	12	comp:obj	_	_
+14	weesoo	_	VERB	_	_	13	comp:obj	_	_
+15	li	_	PRON	_	_	14	comp:obj	_	_
+16	ci	_	ADP	_	_	22	udep	_	_
+17	bérébu	_	NOUN	_	_	22	subj	_	_
+18	dencukaayu	_	NOUN	_	_	17	mod	_	_
+19	xaalisu	_	NOUN	_	_	18	mod	_	_
+20	réew	_	NOUN	_	_	19	mod	_	_
+21	mi	_	DET	_	_	20	det	_	_
+22	di	_	AUX	_	_	15	mod	_	_
+23	ñàkk	_	VERB	_	_	22	comp:aux	_	NoSpaceAfter=Yes
+24	,	_	PUNCT	_	_	25	punct	_	_
+25	musiba	_	NOUN	_	_	10	comp:cleft	_	_
+26	ci	_	ADP	_	_	25	udep	_	_
+27	ñàkk	_	VERB	_	_	26	comp:obj	_	_
+28	a	_	PART	_	_	27	udep	_	_
+29	fay	_	VERB	_	_	28	comp:obj	_	_
+30	lempo	_	NOUN	_	_	29	comp:obj	_	_
+31	te	_	CCONJ	_	_	35	cc	_	_
+32	loolu	_	PRON	_	_	35	subj	_	_
+33	itam	_	ADV	_	_	32	mod	_	_
+34	mën	_	VERB	_	_	35	comp:aux	_	_
+35	na	_	AUX	_	_	10	conj	_	_
+36	jur	_	VERB	_	_	35	comp:obj	_	_
+37	jafe-jafey	_	NOUN	_	_	36	comp:obj	_	_
+38	askan	_	NOUN	_	_	37	mod	_	NoSpaceAfter=Yes
+39	.	_	PUNCT	_	_	10	_	_	_
+
+# sent_id = Masakhane-Wolof_dev_45
+# text = Ci li Joseh Ki-Zerbo wax, neenal bor bi, nekkul saafara suy sax dàkk ndax ba tay li koy jur jógu fi.
+# text_en = As Joseph Kizerbo said, forgiving debt is not a definitive solution, because the cause of the debt is still with us.
+1	Ci	ci	ADP	_	_	11	udep	_	Gloss=on
+2	li	li	PRON	_	_	1	comp:obj	_	Gloss=what
+3	Joseh	Joseph	PROPN	_	_	5	subj	_	Gloss=Joseph
+4	Ki-Zerbo	Ki-Zerbo	PROPN	_	_	3	flat	_	Gloss=Ki-Zerbo
+5	wax	wax	VERB	_	_	2	mod	_	Gloss=say|NoSpaceAfter=Yes
+6	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+7	neenal	neenal	VERB	_	_	11	subj	_	Gloss=forgive
+8	bor	bor	NOUN	_	_	7	comp:obj	_	Gloss=debt
+9	bi	bi	DET	_	_	8	det	_	Gloss=the|NoSpaceAfter=Yes
+10	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+11	nekkul	nekk	VERB	_	_	0	root	_	Gloss=not be
+12	saafara	saafara	NOUN	_	_	11	comp:obj	_	Gloss=solution
+13	suy	su	PRON	_	_	14	subj	_	Gloss=that
+14	sax	sax	VERB	_	_	12	mod	_	Gloss=last
+15	dàkk	dàkk	ADV	_	_	14	compound:prt	_	Gloss=forever
+16	ndax	ndax	SCONJ	_	_	11	mod	_	Gloss=because
+17	ba	ba	ADP	_	_	22	mod	_	Gloss=until
+18	tay	tay	ADV	_	_	17	comp:obj	_	Gloss=now
+19	li	li	PRON	_	_	22	subj	_	Gloss=what
+20	koy	ko	PRON	_	_	21	comp:obj	_	Gloss=it
+21	jur	jur	VERB	_	_	19	mod	_	Gloss=cause
+22	jógu	jóg	VERB	_	_	16	comp:obj	_	Gloss=not disappear
+23	fi	fi	ADV	_	_	22	mod	_	Gloss=here|NoSpaceAfter=Yes
+24	.	.	PUNCT	_	_	11	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_46
+# text = Saajo Maane moom bi ñu dallujee ba dellusi lañu ko génne.
+# text_en = Mane was substituted after half-time.
+1	Saajo	Saajo	PROPN	_	_	9	dislocated	_	Gloss=Sadio
+2	Maane	Maane	PROPN	_	_	1	flat	_	Gloss=Mane
+3	moom	moom	PRON	_	_	1	mod	_	Gloss=concerning
+4	bi	bi	SCONJ	_	_	9	mod	_	Gloss=when
+5	ñu	ko	PRON	_	_	6	subj	_	Gloss=they
+6	dallujee	dallu	VERB	_	_	4	comp:obj	_	Gloss=go rest
+7	ba	ba	ADP	_	_	6	mod	_	Gloss=until
+8	dellusi	dellusi	VERB	_	_	7	comp:obj	_	Gloss=come back
+9	lañu	la	AUX	_	_	0	root	_	Gloss=have
+10	ko	ko	PRON	_	_	9	comp:obj	_	Gloss=him
+11	génne	génn	VERB	_	_	9	comp:aux	_	Gloss=substituute|NoSpaceAfter=Yes
+12	.	.	PUNCT	_	_	9	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_47
+# text = Moom li muy ñoddi mooy gëm-gëm ci pólótig bi.
+# text_en = As far he is concerned, what he is attracting is political conviction.
+1	Moom	Moom	PRON	_	_	5	dislocated	_	Gloss=him
+2	li	bi	PRON	_	_	5	subj	_	Gloss=what
+3	muy	mu	PRON	_	_	4	subj	_	Gloss=he is
+4	ñoddi	ñoddi	VERB	_	_	2	mod	_	Gloss=to attract
+5	mooy	a	AUX	_	_	0	root	_	Gloss=is
+6	gëm-gëm	gëm-gëm	NOUN	_	_	5	comp:pred	_	Gloss=conviction
+7	ci	ci	ADP	_	_	6	udep	_	Gloss=in
+8	pólótig	pólótig	NOUN	_	_	7	comp:obj	_	Gloss=politics
+9	bi	bi	DET	_	_	8	det	_	Gloss=the|NoSpaceAfter=Yes
+10	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_48
+# text = Njiitu réew mi Maki Sàll wane na bëgg-bëggam ngir def mbir mi bu jógee ci boppu réew mi.
+# text_en = The President of the Republic, Macky Sall, has expressed his wish to carry out this project once he is no longer at the head of the country
+1	Njiitu	Njiit	NOUN	_	_	7	subj	_	Gloss=leader of
+2	réew	réew	NOUN	_	_	1	mod	_	Gloss=country
+3	mi	bi	DET	_	_	2	det	_	Gloss=the
+4	Maki	Maki	PROPN	_	_	1	conj:appos	_	Gloss=Macky
+5	Sàll	sàll	PROPN	_	_	4	flat	_	Gloss=Sall
+6	wane	wane	VERB	_	_	7	comp:aux	_	Gloss=show
+7	na	na	AUX	_	_	0	root	_	Gloss=has
+8	bëgg-bëggam	bëgg-bëgg	NOUN	_	_	7	comp:obj	_	Gloss=desire
+9	ngir	ngir	ADP	_	_	7	mod	_	Gloss=for
+10	def	def	VERB	_	_	9	comp:obj	_	Gloss=do
+11	mbir	mbir	NOUN	_	_	10	comp:obj	_	Gloss=affair
+12	mi	bi	DET	_	_	11	det	_	Gloss=the
+13	bu	bu	PRON	_	_	10	mod	_	Gloss=when
+14	jógee	jóg	VERB	_	_	13	comp:obj	_	Gloss=leave
+15	ci	ci	ADP	_	_	14	udep	_	Gloss=in
+16	boppu	bopp	NOUN	_	_	15	comp:obj	_	Gloss=head of
+17	réew	réew	NOUN	_	_	16	mod	_	Gloss=country
+18	mi	bi	DET	_	_	17	det	_	Gloss=the|NoSpaceAfter=Yes
+19	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_49
+# text = Réew mi mën naa dox ak keneen ndax campeef yi mu fi teg wala yi mu gën a dëgëral , am nañu solo ba nga xam ne moom sax bu dul moom , réew mi nga xam ne am na bànneexu jiite , mën naa nekk ci dal .
+1	Réew	_	NOUN	_	_	4	subj	_	_
+2	mi	_	DET	_	_	1	det	_	_
+3	mën	_	VERB	_	_	4	comp:aux	_	_
+4	naa	_	AUX	_	_	0	root	_	_
+5	dox	_	VERB	_	_	4	comp:obj	_	_
+6	ak	_	ADP	_	_	5	udep	_	_
+7	keneen	_	PRON	_	_	6	comp:obj	_	_
+8	ndax	_	SCONJ	_	_	4	mod	_	_
+9	campeef	_	NOUN	_	_	22	subj	_	_
+10	yi	_	PRON	_	_	13	comp:obj	_	_
+11	mu	_	PRON	_	_	13	subj	_	_
+12	fi	_	ADV	_	_	13	mod	_	_
+13	teg	_	VERB	_	_	9	mod	_	_
+14	wala	_	CCONJ	_	_	15	cc	_	_
+15	yi	_	PRON	_	_	13	comp:obj	_	_
+16	mu	_	PRON	_	_	17	subj	_	_
+17	gën	_	VERB	_	_	9	mod	_	_
+18	a	_	PART	_	_	17	comp:obl	_	_
+19	dëgëral	_	VERB	_	_	18	comp:obj	_	NoSpaceAfter=Yes
+20	,	_	PUNCT	_	_	22	punct	_	_
+21	am	_	VERB	_	_	22	comp:aux	_	_
+22	nañu	nañu	_	_	_	8	comp:obj	_	_
+23	solo	_	NOUN	_	_	22	comp:obj	_	_
+24	ba	_	SCONJ	_	_	22	mod	_	_
+25	nga	_	PRON	_	_	26	subj	_	_
+26	xam	_	VERB	_	_	24	comp:obj	_	_
+27	ne	_	SCONJ	_	_	26	comp:obj	_	_
+28	moom	_	PRON	_	_	45	dislocated	_	_
+29	sax	_	ADV	_	_	28	mod	_	_
+30	bu	_	SCONJ	_	_	45	mod	_	_
+31	dul	_	AUX	_	_	30	comp:obj	_	_
+32	moom	_	VERB	_	_	31	comp:cleft	_	NoSpaceAfter=Yes
+33	,	_	PUNCT	_	_	45	punct	_	_
+34	réew	_	NOUN	_	_	45	subj	_	_
+35	mi	_	PRON	_	_	37	comp:obj	_	_
+36	nga	_	PRON	_	_	37	subj	_	_
+37	xam	_	VERB	_	_	34	mod	_	_
+38	ne	_	SCONJ	_	_	37	mod	_	_
+39	am	_	VERB	_	_	40	comp:aux	_	_
+40	na	_	AUX	_	_	38	comp:obj	_	_
+41	bànneexu	_	NOUN	_	_	40	comp:obj	_	_
+42	jiite	_	NOUN	_	_	41	mod	_	NoSpaceAfter=Yes
+43	,	_	PUNCT	_	_	45	punct	_	_
+44	mën	_	VERB	_	_	45	comp:aux	_	_
+45	naa	_	AUX	_	_	27	comp:obj	_	_
+46	nekk	_	VERB	_	_	45	comp:obj	_	_
+47	ci	_	ADP	_	_	46	udep	_	_
+48	dal	_	NOUN	_	_	47	comp:obj	_	NoSpaceAfter=Yes
+49	.	_	PUNCT	_	_	4	_	_	_
+
+# sent_id = Masakhane-Wolof_dev_50
+# text = Xam naa ñaar ñoo xam ne ginnaaw ba ñu jógee ca këru njiitu jëwriñ ga, dañoo soppeeku ay xalamkatu nguur goo xam ne yoonam nekkul ci askanam.
+1	Xam	_	VERB	_	_	2	comp:aux	_	_
+2	naa	_	AUX	_	_	0	root	_	_
+3	ñaar	_	NUM	_	_	2	comp:obj	_	_
+4	ñoo	_	AUX	_	_	5	subj	_	_
+5	xam	_	VERB	_	_	3	mod	_	_
+6	ne	_	SCONJ	_	_	5	mod	_	_
+7	ginnaaw	_	ADP	_	_	17	mod	_	_
+8	ba	_	SCONJ	_	_	7	comp:obj	_	_
+9	ñu	_	PRON	_	_	10	subj	_	_
+10	jógee	_	VERB	_	_	8	comp:obj	_	_
+11	ca	_	ADP	_	_	10	udep	_	_
+12	këru	_	NOUN	_	_	11	comp:obj	_	_
+13	njiitu	_	NOUN	_	_	12	mod	_	_
+14	jëwriñ	_	NOUN	_	_	13	mod	_	_
+15	ga	_	DET	_	_	14	det	_	NoSpaceAfter=Yes
+16	,	_	PUNCT	_	_	17	punct	_	_
+17	dañoo	_	AUX	_	_	6	comp:obj	_	_
+18	soppeeku	_	VERB	_	_	17	comp:aux	_	_
+19	ay	_	DET	_	_	20	det	_	_
+20	xalamkatu	_	NOUN	_	_	17	comp:obj	_	_
+21	nguur	_	NOUN	_	_	20	mod	_	_
+22	goo	_	PRON	_	_	23	subj	_	_
+23	xam	_	VERB	_	_	21	mod	_	_
+24	ne	_	SCONJ	_	_	23	comp:obj	_	_
+25	yoonam	_	NOUN	_	_	26	subj	_	_
+26	nekkul	_	VERB	_	_	24	comp:obj	_	_
+27	ci	_	ADP	_	_	26	udep	_	_
+28	askanam	_	NOUN	_	_	27	comp:obj	_	NoSpaceAfter=Yes
+29	.	_	PUNCT	_	_	17	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_51
+# text = Xoqatal yi nga xam ne dund na ko ci bés bi, yokk ci yi mu nar a dund ca kër ga...
+# text_en = The threats he has experienced during the day, and those he will experience at home.
+1	Xoqatal	xoqatal	NOUN	_	_	0	root	_	Gloss=threat
+2	yi	bi	PRON	_	_	4	comp:obj	_	Gloss=which
+3	nga	mu	PRON	_	_	4	subj	_	Gloss=you
+4	xam	xam	VERB	_	_	1	mod	_	Gloss=know
+5	ne	ni	SCONJ	_	_	4	comp:obj	_	Gloss=that
+6	dund	dund	VERB	_	_	7	comp:aux	_	Gloss=experience
+7	na	na	AUX	_	_	5	comp:obj	_	Gloss=has
+8	ko	ko	PRON	_	_	7	comp:obl	_	Gloss=it
+9	ci	ci	ADP	_	_	7	udep	_	Gloss=in
+10	bés	bés	NOUN	_	_	9	comp:obj	_	Gloss=day
+11	bi	bi	DET	_	_	10	det	_	NoSpaceAfter=Yes
+12	,	,	PUNCT	_	_	13	punct	_	Gloss=,
+13	yokk	yokk	VERB	_	_	1	parataxis	_	Gloss=add
+14	ci	ci	ADP	_	_	13	udep	_	Gloss=to
+15	yi	bi	PRON	_	_	13	comp:obj	_	Gloss=the one which
+16	mu	mu	PRON	_	_	17	subj	_	Gloss=he
+17	nar	nar	VERB	_	_	15	mod	_	Gloss=be about
+18	a	a	PART	_	_	19	udep	_	Gloss=to
+19	dund	dund	VERB	_	_	17	comp:obj	_	Gloss=experience
+20	ca	ca	ADP	_	_	19	udep	_	Gloss=in
+21	kër	kër	NOUN	_	_	20	comp:obj	_	Gloss=house
+22	ga	bi	DET	_	_	21	det	_	Gloss=the
+23	...	...	PUNCT	_	_	1	punct	_	Gloss=...
+
+# sent_id = Masakhane-Wolof_dev_52
+# text = Am na aw dig wu nekk ci diggante ñi jiite ak ñi ñu jiite.
+# text_en = There's a cleavage between those who govern and those who are governed.
+1	Am	Am	VERB	_	_	2	comp:aux	_	Gloss=exist
+2	na	na	AUX	_	_	0	root	_	Gloss=has
+3	aw	ab	DET	_	_	4	det	_	Gloss=a
+4	dig	dig	VERB	_	_	2	comp:obj	_	Gloss=cleavage
+5	wu	bu	PRON	_	_	6	subj	_	Gloss=that
+6	nekk	nekk	VERB	_	_	4	mod	_	Gloss=be
+7	ci	ci	ADP	_	_	6	udep	_	Gloss=in
+8	diggante	diggante	NOUN	_	_	7	comp:obj	_	Gloss=between
+9	ñi	mu	PRON	_	_	8	comp:obj	_	Gloss=those who
+10	jiite	jiite	VERB	_	_	9	mod	_	Gloss=lead
+11	ak	ak	CCONJ	_	_	12	cc	_	Gloss=and
+12	ñi	mu	PRON	_	_	9	conj	_	Gloss=those who
+13	ñu	mu	PRON	_	_	14	comp:obl	_	Gloss=them
+14	jiite	jiite	VERB	_	_	12	mod	_	Gloss=lead|NoSpaceAfter=Yes
+15	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_53
+# text = Amuñu ruu ga, amuñu xadar ba, amuñu mën-mën ba wala xam-xam ba, amuñu tam xel ma.
+# text_en = They don't have the spirit, they don't have the commitment, they don't have the ability or the knowledge, they don't have the intelligence either.
+1	Amuñu	Am	VERB	_	_	0	root	_	Gloss=they don't have
+2	ruu	ruu	NOUN	_	_	1	comp:obj	_	Gloss=spirit
+3	ga	bi	DET	_	_	2	det	_	Gloss=the|NoSpaceAfter=Yes
+4	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+5	amuñu	am	VERB	_	_	1	parataxis	_	Gloss=they don't have
+6	xadar	xadar	NOUN	_	_	5	comp:obj	_	Gloss=commitment
+7	ba	bi	DET	_	_	6	det	_	Gloss=the|NoSpaceAfter=Yes
+8	,	,	PUNCT	_	_	9	punct	_	Gloss=,
+9	amuñu	am	VERB	_	_	1	parataxis	_	Gloss=they don't have
+10	mën-mën	mën-mën	NOUN	_	_	9	comp:obj	_	Gloss=capacity
+11	ba	bi	DET	_	_	10	det	_	Gloss=the
+12	wala	walla	CCONJ	_	_	13	cc	_	Gloss=or
+13	xam-xam	xam-xam	NOUN	_	_	10	conj	_	Gloss=knowledge
+14	ba	bi	DET	_	_	13	det	_	Gloss=the|NoSpaceAfter=Yes
+15	,	,	PUNCT	_	_	16	punct	_	Gloss=,
+16	amuñu	am	VERB	_	_	1	parataxis	_	Gloss=they don't have
+17	tam	tam	ADV	_	_	16	mod	_	Gloss=too
+18	xel	xel	NOUN	_	_	16	comp:obj	_	Gloss=intelligence
+19	ma	bi	DET	_	_	18	det	_	Gloss=the|NoSpaceAfter=Yes
+20	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_54
+# text = Siise amul lenn lu mu mën a jàngal xale yii nga xam ne ñi leen di tàggat ñoo gën a xarañ boroom njañ yi fuuf.
+1	Siise	_	PROPN	_	_	2	subj	_	_
+2	amul	_	VERB	_	_	0	root	_	_
+3	lenn	_	PRON	_	_	2	comp:obj	_	_
+4	lu	_	PRON	_	_	6	comp:obj	_	_
+5	mu	_	PRON	_	_	6	subj	_	_
+6	mën	_	VERB	_	_	3	mod	_	_
+7	a	_	PART	_	_	6	udep	_	_
+8	jàngal	_	VERB	_	_	7	comp:obj	_	_
+9	xale	_	NOUN	_	_	8	comp:obj	_	_
+10	yii	_	PRON	_	_	12	comp:obj	_	_
+11	nga	_	PRON	_	_	12	subj	_	_
+12	xam	_	VERB	_	_	9	:appos	_	_
+13	ne	_	SCONJ	_	_	12	comp:obj	_	_
+14	ñi	_	PRON	_	_	18	subj	_	_
+15	leen	_	PRON	_	_	16	comp:obj	_	_
+16	di	_	AUX	_	_	14	mod	_	_
+17	tàggat	_	VERB	_	_	16	comp:aux	_	_
+18	ñoo	_	AUX	_	_	13	comp:obj	_	_
+19	gën	_	VERB	_	_	18	comp:aux	_	_
+20	a	_	PART	_	_	19	udep	_	_
+21	xarañ	_	VERB	_	_	20	comp:obj	_	_
+22	boroom	_	NOUN	_	_	21	comp:obj	_	_
+23	njañ	_	NOUN	_	_	22	mod	_	_
+24	yi	_	DET	_	_	23	det	_	_
+25	fuuf	_	ADV	_	_	21	mod	_	NoSpaceAfter=Yes
+26	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_55
+# text = F. Bojãa nekk ki jiite wàllu jokkalante bi ci bérébu fajukaay bi dañu koo tuumaal ne dafa luubaal lu tollu ci juróom-ñaar???.
+1	F.	_	PROPN	_	_	13	subj	_	_
+2	Bojãa	_	NOUN	_	_	1	flat	_	_
+3	nekk	_	VERB	_	_	1	mod	_	_
+4	ki	_	PRON	_	_	3	comp:cleft	_	_
+5	jiite	_	VERB	_	_	4	mod	_	_
+6	wàllu	_	NOUN	_	_	5	comp:obj	_	_
+7	jokkalante	_	NOUN	_	_	6	mod	_	_
+8	bi	_	DET	_	_	7	det	_	_
+9	ci	_	ADP	_	_	8	udep	_	_
+10	bérébu	_	NOUN	_	_	9	comp:obj	_	_
+11	fajukaay	_	NOUN	_	_	10	mod	_	_
+12	bi	_	DET	_	_	11	det	_	_
+13	dañu	_	AUX	_	_	0	root	_	_
+14	koo	_	PRON	_	_	13	comp:obj	_	_
+15	tuumaal	_	VERB	_	_	13	comp:aux	_	_
+16	ne	_	SCONJ	_	_	15	mod	_	_
+17	dafa	_	AUX	_	_	16	comp:aux	_	_
+18	luubaal	_	VERB	_	_	17	comp:aux	_	_
+19	lu	_	PRON	_	_	18	comp:obj	_	_
+20	tollu	_	VERB	_	_	19	mod	_	_
+21	ci	_	ADP	_	_	20	udep	_	_
+22	juróom-ñaar	_	NUM	_	_	21	compound	_	NoSpaceAfter=Yes
+23	?	_	PUNCT	_	_	20	punct	_	NoSpaceAfter=Yes
+24	?	_	PUNCT	_	_	20	punct	_	NoSpaceAfter=Yes
+25	?	_	PUNCT	_	_	20	punct	_	NoSpaceAfter=Yes
+26	.	_	PUNCT	_	_	13	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_56
+# text = Dañu doon faral di wax kàddu gii: mooytuleen ki war a fey lempo ki; dafa ñor, day njuuj-njaaj, day nëbbu, topp ci di la ko wax ak a waxaat.
+1	Dañu	_	AUX	_	_	0	root	_	_
+2	doon	_	AUX	_	_	1	comp:aux	_	_
+3	faral	_	VERB	_	_	1	comp:aux	_	_
+4	di	_	AUX	_	_	3	comp:obj	_	_
+5	wax	_	VERB	_	_	4	comp:aux	_	_
+6	kàddu	_	NOUN	_	_	4	comp:obj	_	_
+7	gii	_	DET	_	_	6	det	_	NoSpaceAfter=Yes
+8	:	_	PUNCT	_	_	9	punct	_	_
+9	mooytuleen	_	VERB	_	_	6	conj:appos	_	_
+10	ki	_	PRON	_	_	9	comp:obj	_	_
+11	war	_	VERB	_	_	10	mod	_	_
+12	a	_	PART	_	_	11	udep	_	_
+13	fey	_	VERB	_	_	12	comp:obj	_	_
+14	lempo	_	NOUN	_	_	13	comp:obj	_	_
+15	ki	_	DET	_	_	10	det	_	NoSpaceAfter=Yes
+16	;	_	PUNCT	_	_	17	punct	_	_
+17	dafa	_	AUX	_	_	9	parataxis	_	_
+18	ñor	_	VERB	_	_	17	comp:aux	_	NoSpaceAfter=Yes
+19	,	_	PUNCT	_	_	20	punct	_	_
+20	day	_	AUX	_	_	17	conj	_	_
+21	njuuj-njaaj	_	VERB	_	_	20	comp:aux	_	NoSpaceAfter=Yes
+22	,	_	PUNCT	_	_	23	punct	_	_
+23	day	_	AUX	_	_	17	conj	_	_
+24	nëbbu	_	VERB	_	_	23	comp:aux	_	NoSpaceAfter=Yes
+25	,	_	PUNCT	_	_	26	punct	_	_
+26	topp	_	VERB	_	_	9	mod	_	_
+27	ci	_	ADP	_	_	26	udep	_	_
+28	di	_	AUX	_	_	26	comp:obj	_	_
+29	la	_	PRON	_	_	28	comp:obj	_	_
+30	ko	_	PRON	_	_	28	comp:obl	_	_
+31	wax	_	VERB	_	_	28	comp:obj	_	_
+32	ak	_	CCONJ	_	_	33	cc	_	_
+33	a	_	PART	_	_	31	udep	_	_
+34	waxaat	_	VERB	_	_	33	comp:obj	_	NoSpaceAfter=Yes
+35	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_57
+# text = Jafe-jafe bi, kuréelug Amerig giy yëngu ci wàllu kaaraange digal nañu yenn ci ay njiiti bitim-réew ñu bañ a jël bato bi ñu tudde La vedette bu ñuy dem gore.
+1	Jafe-jafe	_	NOUN	_	_	12	dislocated	_	_
+2	bi	_	DET	_	_	1	det	_	NoSpaceAfter=Yes
+3	,	_	PUNCT	_	_	12	punct	_	_
+4	kuréelug	_	NOUN	_	_	12	subj	_	_
+5	Amerig	_	PROPN	_	_	4	mod	_	_
+6	giy	_	PRON	_	_	7	subj	_	_
+7	yëngu	_	VERB	_	_	4	mod	_	_
+8	ci	_	ADP	_	_	7	udep	_	_
+9	wàllu	_	NOUN	_	_	8	comp:obj	_	_
+10	kaaraange	_	NOUN	_	_	9	mod	_	_
+11	digal	_	VERB	_	_	12	comp:aux	_	_
+12	nañu	_	AUX	_	_	0	root	_	_
+13	yenn	_	PRON	_	_	12	comp:obj	_	_
+14	ci	_	ADP	_	_	13	udep	_	_
+15	ay	_	DET	_	_	16	det	_	_
+16	njiiti	_	NOUN	_	_	14	comp:obj	_	_
+17	bitim-réew	_	NOUN	_	_	16	mod	_	_
+18	ñu	_	PRON	_	_	19	subj	_	_
+19	bañ	_	VERB	_	_	12	comp:obj	_	_
+20	a	_	PART	_	_	19	udep	_	_
+21	jël	_	VERB	_	_	20	comp:obj	_	_
+22	bato	_	NOUN	_	_	21	comp:obj	_	_
+23	bi	_	DET	_	_	25	comp:obj	_	_
+24	ñu	_	PRON	_	_	25	subj	_	_
+25	tudde	_	VERB	_	_	22	mod	_	_
+26	La	_	PROPN	_	_	25	comp:obj	_	_
+27	vedette	_	PROPN	_	_	26	flat	_	_
+28	bu	_	SCONJ	_	_	21	mod	_	_
+29	ñuy	_	PRON	_	_	30	subj	_	_
+30	dem	_	VERB	_	_	28	comp:obj	_	_
+31	gore	_	PROPN	_	_	30	comp:obj	_	NoSpaceAfter=Yes
+32	.	_	PUNCT	_	_	12	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_58
+# text = Dañoo war a sàkku ak njubal ci ni ñu yoree suñu xaalis , sàkku ñu defaral ñu ay jumtuwaay yu baax , sàkku askan wépp jot ci céddale gi , ci tënk daal sàkku ñu andiy saafara ci suñuy yitte te loolu dafa war sax dàkk ci xelu njiit yi .
+1	Dañoo	_	AUX	_	_	0	root	_	_
+2	war	_	VERB	_	_	1	comp:aux	_	_
+3	a	_	PART	_	_	2	udep	_	_
+4	sàkku	_	VERB	_	_	3	comp:obj	_	_
+5	ak	_	DET	_	_	6	det	_	_
+6	njubal	_	NOUN	_	_	4	comp:obj	_	_
+7	ci	_	ADP	_	_	4	udep	_	_
+8	ni	_	ADV	_	_	7	comp:obj	_	_
+9	ñu	_	PRON	_	_	10	subj	_	_
+10	yoree	_	VERB	_	_	8	mod	_	_
+11	suñu	_	DET	_	_	12	det	_	_
+12	xaalis	_	NOUN	_	_	10	comp:obj	_	NoSpaceAfter=Yes
+13	,	_	PUNCT	_	_	_	_	_	_
+14	sàkku	_	NOUN	_	_	4	parataxis	_	_
+15	ñu	_	PRON	_	_	16	subj	_	_
+16	defaral	_	VERB	_	_	14	comp:obj	_	_
+17	ñu	_	PRON	_	_	16	comp:obj	_	_
+18	ay	_	DET	_	_	19	det	_	_
+19	jumtuwaay	_	NOUN	_	_	16	comp:obl	_	_
+20	yu	_	PRON	_	_	21	subj	_	_
+21	baax	_	VERB	_	_	19	mod	_	NoSpaceAfter=Yes
+22	,	_	PUNCT	_	_	23	punct	_	_
+23	sàkku	_	VERB	_	_	4	parataxis	_	_
+24	askan	_	NOUN	_	_	26	subj	_	_
+25	wépp	_	NOUN	_	_	24	det	_	_
+26	jot	_	VERB	_	_	23	comp:obj	_	_
+27	ci	_	ADP	_	_	26	udep	_	_
+28	céddale	_	NOUN	_	_	27	comp:obj	_	_
+29	gi	_	DET	_	_	28	det	_	NoSpaceAfter=Yes
+30	,	_	PUNCT	_	_	31	punct	_	_
+31	ci	_	ADP	_	_	34	udep	_	_
+32	tënk	_	NOUN	_	_	31	comp:obj	_	_
+33	daal	_	ADV	_	_	32	mod	_	_
+34	sàkku	_	VERB	_	_	4	parataxis	_	_
+35	ñu	_	PRON	_	_	36	subj	_	_
+36	andiy	_	VERB	_	_	34	mod	_	_
+37	saafara	_	NOUN	_	_	36	comp:obj	_	_
+38	ci	_	ADP	_	_	36	udep	_	_
+39	suñuy	_	DET	_	_	40	det	_	_
+40	yitte	_	NOUN	_	_	38	comp:obj	_	_
+41	te	_	CCONJ	_	_	43	cc	_	_
+42	loolu	_	PRON	_	_	43	subj	_	_
+43	dafa	_	AUX	_	_	1	conj	_	_
+44	war	_	VERB	_	_	43	comp:aux	_	_
+45	sax	_	VERB	_	_	44	comp:obj	_	_
+46	dàkk	_	ADV	_	_	45	mod	_	_
+47	ci	_	ADP	_	_	45	udep	_	_
+48	xelu	_	NOUN	_	_	47	comp:obj	_	_
+49	njiit	_	NOUN	_	_	48	mod	_	_
+50	yi	_	DET	_	_	49	det	_	NoSpaceAfter=Yes
+51	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_59
+# text = Ngir mën a egsi ci lolu Maam Mbay yaakaar na ne fokk ñu am tëggin yu yees ci suñu wàllu askan , yu mel ni yu Usmaan Sónko , te mu tegu ci gëm-gëm bu dëggu te amul benn njuuj-njaaj wala waxtaan ba juboo .
+1	Ngir	_	ADP	_	_	10	mod	_	_
+2	mën	_	VERB	_	_	1	comp:obj	_	_
+3	a	_	PART	_	_	2	udep	_	_
+4	egsi	_	VERB	_	_	3	comp:obj	_	_
+5	ci	_	ADP	_	_	4	udep	_	_
+6	lolu	_	PRON	_	_	5	comp:obj	_	_
+7	Maam	_	PROPN	_	_	10	subj	_	_
+8	Mbay	_	PROPN	_	_	7	flat	_	_
+9	yaakaar	_	VERB	_	_	10	comp:aux	_	_
+10	na	_	AUX	_	_	0	root	_	_
+11	ne	_	SCONJ	_	_	10	comp:obj	_	_
+12	fokk	_	ADV	_	_	14	mod	_	_
+13	ñu	_	PRON	_	_	14	subj	_	_
+14	am	_	VERB	_	_	11	comp:obj	_	_
+15	tëggin	_	NOUN	_	_	14	comp:obj	_	_
+16	yu	_	PRON	_	_	17	subj	_	_
+17	yees	_	VERB	_	_	15	mod	_	_
+18	ci	_	ADP	_	_	14	udep	_	_
+19	suñu	_	DET	_	_	20	det	_	_
+20	wàllu	_	NOUN	_	_	18	comp:obj	_	_
+21	askan	_	NOUN	_	_	20	mod	_	NoSpaceAfter=Yes
+22	,	_	PUNCT	_	_	24	punct	_	_
+23	yu	_	PRON	_	_	24	subj	_	_
+24	mel	_	VERB	_	_	15	mod	_	_
+25	ni	_	ADP	_	_	24	udep	_	_
+26	yu	_	PRON	_	_	25	comp:obj	_	_
+27	Usmaan	_	PROPN	_	_	26	comp:obj	_	_
+28	Sónko	_	PROPN	_	_	27	flat	_	NoSpaceAfter=Yes
+29	,	_	PUNCT	_	_	32	punct	_	_
+30	te	_	CCONJ	_	_	32	cc	_	_
+31	mu	_	PRON	_	_	32	subj	_	_
+32	tegu	_	VERB	_	_	10	conj	_	_
+33	ci	_	ADP	_	_	32	udep	_	_
+34	gëm-gëm	_	NOUN	_	_	33	comp:obj	_	_
+35	bu	_	PRON	_	_	36	subj	_	_
+36	dëggu	_	VERB	_	_	34	comp:obj	_	_
+37	te	_	CCONJ	_	_	38	cc	_	_
+38	amul	_	VERB	_	_	34	conj	_	_
+39	benn	_	PRON	_	_	38	mod	_	_
+40	njuuj-njaaj	_	NOUN	_	_	39	comp:obj	_	_
+41	wala	_	CCONJ	_	_	42	cc	_	_
+42	waxtaan	_	VERB	_	_	40	conj	_	_
+43	ba	_	ADP	_	_	42	udep	_	_
+44	juboo	_	VERB	_	_	43	comp:obj	_	NoSpaceAfter=Yes
+45	.	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_60
+# text = Ci noonu la nas bi amee benn pàcc bu ñu jagleel ab xeetu mbay bu mucc-ayib boo xam ne dafa yomb a jëmmal te saytu ko tamit seerul lool.
+1	Ci	_	ADP	_	_	3	udep	_	_
+2	noonu	_	ADV	_	_	3	mod	_	_
+3	la	_	AUX	_	_	0	root	_	_
+4	nas	_	NOUN	_	_	3	comp:obj	_	_
+5	bi	_	DET	_	_	4	det	_	_
+6	amee	_	VERB	_	_	3	comp:aux	_	_
+7	benn	_	NUM	_	_	8	det	_	_
+8	pàcc	_	NOUN	_	_	3	comp:obj	_	_
+9	bu	_	PRON	_	_	11	comp:obj	_	_
+10	ñu	_	PRON	_	_	11	subj	_	_
+11	jagleel	_	VERB	_	_	8	comp:obj	_	_
+12	ab	_	DET	_	_	13	det	_	_
+13	xeetu	_	NOUN	_	_	11	comp:obl	_	_
+14	mbay	_	NOUN	_	_	13	mod	_	_
+15	bu	_	PRON	_	_	16	subj	_	_
+16	mucc-ayib	_	VERB	_	_	14	comp:obj	_	_
+17	boo	_	PRON	_	_	18	subj	_	_
+18	xam	_	VERB	_	_	14	mod	_	_
+19	ne	_	SCONJ	_	_	18	comp:obj	_	_
+20	dafa	_	AUX	_	_	19	comp:obj	_	_
+21	yomb	_	VERB	_	_	20	comp:aux	_	_
+22	a	_	PART	_	_	21	udep	_	_
+23	jëmmal	_	VERB	_	_	22	comp:obj	_	_
+24	te	_	CCONJ	_	_	28	cc	_	_
+25	saytu	_	VERB	_	_	28	subj	_	_
+26	ko	_	PRON	_	_	25	comp:obj	_	_
+27	tamit	_	ADV	_	_	25	mod	_	_
+28	seerul	_	VERB	_	_	20	conj	_	_
+29	lool	_	ADV	_	_	28	mod	_	NoSpaceAfter=Yes
+30	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_61
+# text = Ci beneen joŋante bi ci kippaango G bi, ci ñaar-fukkeelu simili bi ak juróom waa Russie yi lakk caax yi, waaye bi ñu noppalujee ba ñëwaat, waa Almaañ yi wane nañu beneen xar-kanam.
+1	Ci	_	ADP	_	_	19	udep	_	_
+2	beneen	_	DET	_	_	3	det	_	_
+3	joŋante	_	NOUN	_	_	1	comp:obj	_	_
+4	bi	_	DET	_	_	3	det	_	_
+5	ci	_	ADP	_	_	3	udep	_	_
+6	kippaango	_	NOUN	_	_	5	comp:obj	_	_
+7	G	_	PROPN	_	_	6	flat	_	_
+8	bi	_	DET	_	_	6	det	_	NoSpaceAfter=Yes
+9	,	_	PUNCT	_	_	19	punct	_	_
+10	ci	_	ADP	_	_	19	udep	_	_
+11	ñaar-fukkeelu	_	NUM	_	_	12	det	_	_
+12	simili	_	NOUN	_	_	10	comp:obj	_	_
+13	bi	_	DET	_	_	12	det	_	_
+14	ak	_	CCONJ	_	_	15	cc	_	_
+15	juróom	_	NUM	_	_	11	conj	_	_
+16	waa	_	NOUN	_	_	19	subj	_	_
+17	Russie	_	PROPN	_	_	16	compound	_	_
+18	yi	_	DET	_	_	17	det	_	_
+19	lakk	_	VERB	_	_	0	root	_	_
+20	caax	_	NOUN	_	_	19	comp:obj	_	_
+21	yi	_	DET	_	_	20	det	_	NoSpaceAfter=Yes
+22	,	_	PUNCT	_	_	_	_	_	_
+23	waaye	_	CCONJ	_	_	34	cc	_	_
+24	bi	_	SCONJ	_	_	34	mod	_	_
+25	ñu	_	PRON	_	_	26	subj	_	_
+26	noppalujee	_	VERB	_	_	24	comp:obj	_	_
+27	ba	_	ADP	_	_	26	udep	_	_
+28	ñëwaat	_	VERB	_	_	27	comp:obj	_	NoSpaceAfter=Yes
+29	,	_	PUNCT	_	_	30	punct	_	_
+30	waa	_	NOUN	_	_	34	subj	_	_
+31	Almaañ	_	PROPN	_	_	30	compound	_	_
+32	yi	_	DET	_	_	31	det	_	_
+33	wane	_	VERB	_	_	34	comp:aux	_	_
+34	nañu	_	AUX	_	_	_	_	_	_
+35	beneen	_	DET	_	_	36	det	_	_
+36	xar-kanam	_	NOUN	_	_	34	comp:obj	_	NoSpaceAfter=Yes
+37	.	_	PUNCT	_	_	19	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_62
+# text = Waaw, këru liggéeyukaayu Farãas gu mag bi, wàññi na bu baax njëgi yónne wala jot ci xaalis gi.
+1	Waaw	_	INTJ	_	_	11	discourse	_	NoSpaceAfter=Yes
+2	,	_	PUNCT	_	_	11	punct	_	_
+3	këru	_	NOUN	_	_	11	subj	_	_
+4	liggéeyukaayu	_	NOUN	_	_	3	mod	_	_
+5	Farãas	_	PROPN	_	_	4	comp:obj	_	_
+6	gu	_	PRON	_	_	7	subj	_	_
+7	mag	_	VERB	_	_	3	mod	_	_
+8	bi	_	DET	_	_	7	det	_	NoSpaceAfter=Yes
+9	,	_	PUNCT	_	_	11	punct	_	_
+10	wàññi	_	VERB	_	_	11	comp:aux	_	_
+11	na	_	AUX	_	_	0	root	_	_
+12	bu	_	PRON	_	_	11	mod	_	_
+13	baax	_	VERB	_	_	12	compound	_	_
+14	njëgi	_	NOUN	_	_	11	comp:obj	_	_
+15	yónne	_	NOUN	_	_	14	mod	_	_
+16	wala	_	CCONJ	_	_	17	cc	_	_
+17	jot	_	VERB	_	_	15	conj	_	_
+18	ci	_	ADP	_	_	15	udep	_	_
+19	xaalis	_	NOUN	_	_	18	comp:obj	_	_
+20	gi	_	DET	_	_	14	det	_	NoSpaceAfter=Yes
+21	.	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_63
+# text = Baay Móodu Faal ñu gën ko a xam ci turu Booy Jinne dafa rëcc dibéer fanweeri fan ci weeru mee ci kasog Camp pénal gi nga xam ne ci ruq bu am kaaraange lañu ko fa dencoon .
+1	Baay	_	PROPN	_	_	13	subj	_	_
+2	Móodu	_	PROPN	_	_	1	flat	_	_
+3	Faal	_	PROPN	_	_	1	flat	_	_
+4	ñu	_	PRON	_	_	5	subj	_	_
+5	gën	_	VERB	_	_	1	mod	_	_
+6	ko	ko	PRON	_	_	5	comp:obj	_	_
+7	a	a	PART	_	_	5	udep	_	_
+8	xam	_	VERB	_	_	7	comp:obj	_	_
+9	ci	_	ADP	_	_	8	udep	_	_
+10	turu	_	NOUN	_	_	9	comp:obj	_	_
+11	Booy	_	PROPN	_	_	10	mod	_	_
+12	Jinne	_	PROPN	_	_	11	flat	_	_
+13	dafa	_.	AUX	_	_	0	root	_	_
+14	rëcc	_	VERB	_	_	13	comp:aux	_	_
+15	dibéer	_	NOUN	_	_	13	mod	_	_
+16	fanweeri	_	NUM	_	_	17	det	_	_
+17	fan	_	NOUN	_	_	15	mod	_	_
+18	ci	_	ADP	_	_	17	udep	_	_
+19	weeru	_	NOUN	_	_	18	comp:obj	_	_
+20	mee	_	NOUN	_	_	19	mod	_	_
+21	ci	_	ADP	_	_	13	udep	_	_
+22	kasog	_	NOUN	_	_	21	comp:obj	_	_
+23	Camp	_	PROPN	_	_	22	mod	_	_
+24	pénal	_	PROPN	_	_	23	flat	_	_
+25	gi	_	PRON	_	_	27	comp:obj	_	_
+26	nga	_	PRON	_	_	27	subj	_	_
+27	xam	_	VERB	_	_	22	mod	_	_
+28	ne	_	SCONJ	_	_	27	comp:obj	_	_
+29	ci	_	ADP	_	_	34	udep	_	_
+30	ruq	_	NOUN	_	_	29	comp:obj	_	_
+31	bu	_	PRON	_	_	32	subj	_	_
+32	am	_	VERB	_	_	30	mod	_	_
+33	kaaraange	_	NOUN	_	_	32	comp:obj	_	_
+34	lañu	_	AUX	_	_	28	comp:obj	_	_
+35	ko	_	PRON	_	_	34	comp:obj	_	_
+36	fa	_	ADV	_	_	34	mod	_	_
+37	dencoon	_	VERB	_	_	34	comp:aux	_	NoSpaceAfter=Yes
+38	.	_	PUNCT	_	_	13	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_64
+# text = Su ñu sukkandikoo ci Libération , ki doon dawal BMW bi , Mamadu Jóob te mu am fukki at ak juróom-ñeent amul këyit giy firndeel ne war na a mën a dawal daamaar ( permi ) .
+1	Su	_	SCONJ	_	_	22	mod	_	_
+2	ñu	_	PRON	_	_	3	subj	_	_
+3	sukkandikoo	_	VERB	_	_	1	comp:obj	_	_
+4	ci	_	ADP	_	_	3	udep	_	_
+5	Libération	_	PROPN	_	_	4	comp:obj	_	NoSpaceAfter=Yes
+6	,	_	PUNCT	_	_	7	punct	_	_
+7	ki	_	PRON	_	_	22	subj	_	_
+8	doon	_	AUX	_	_	7	subj	_	_
+9	dawal	_	VERB	_	_	8	comp:aux	_	_
+10	BMW	_	PROPN	_	_	8	comp:obj	_	_
+11	bi	_	DET	_	_	10	det	_	NoSpaceAfter=Yes
+12	,	_	PUNCT	_	_	13	punct	_	_
+13	Mamadu	_	PROPN	_	_	7	conj:appos	_	_
+14	Jóob	_	PROPN	_	_	13	flat	_	_
+15	te	_	CCONJ	_	_	17	cc	_	_
+16	mu	_	PRON	_	_	17	subj	_	_
+17	am	_	VERB	_	_	7	conj	_	_
+18	fukki	_	NUM	_	_	19	det	_	_
+19	at	_	NOUN	_	_	17	comp:obj	_	_
+20	ak	_	CCONJ	_	_	21	cc	_	_
+21	juróom-ñeent	_	NUM	_	_	18	conj	_	_
+22	amul	_	VERB	_	_	0	root	_	_
+23	këyit	_	NOUN	_	_	22	comp:obj	_	_
+24	giy	_	PRON	_	_	25	subj	_	_
+25	firndeel	_	VERB	_	_	23	mod	_	_
+26	ne	_	SCONJ	_	_	25	mod	_	_
+27	war	_	VERB	_	_	28	comp:aux	_	_
+28	na	na	AUX	_	_	26	comp:obj	_	_
+29	a	a	PART	_	_	28	udep	_	_
+30	mën	_	VERB	_	_	29	comp:obj	_	_
+31	a	_	PART	_	_	30	udep	_	_
+32	dawal	_	VERB	_	_	31	comp:obj	_	_
+33	daamaar	_	NOUN	_	_	32	comp:obj	_	_
+34	(	_	PUNCT	_	_	35	punct	_	NoSpaceAfter=Yes
+35	permi	_	NOUN	_	_	23	conj:appos	_	_
+36	)	_	PUNCT	_	_	35	punct	_	NoSpaceAfter=Yes
+37	.	_	PUNCT	_	_	22	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_65
+# text = Jamono ji xelum doom-aadama xippeekoo moo yembook jamono ji xelam tàmbalee neex , jamono ji muy sukkandi ci li nekk ba pare nag , mooy jamono ji nga xam ne ci la xelu doom-aadama matee doon li mu doon tey .
+1	Jamono	_	NOUN	_	_	6	subj	_	_
+2	ji	_	PRON	_	_	5	comp:obj	_	_
+3	xelum	_	NOUN	_	_	5	subj	_	_
+4	doom-aadama	_	NOUN	_	_	3	compound	_	_
+5	xippeekoo	_	VERB	_	_	1	mod	_	_
+6	moo	_	AUX	_	_	0	root	_	_
+7	yembook	_	VERB	_	_	6	comp:aux	_	_
+8	jamono	_	NOUN	_	_	7	comp:obj	_	_
+9	ji	_	PRON	_	_	11	comp:obj	_	_
+10	xelam	_	NOUN	_	_	11	subj	_	_
+11	tàmbalee	_	VERB	_	_	8	mod	_	_
+12	neex	_	VERB	_	_	11	comp:obj	_	NoSpaceAfter=Yes
+13	,	_	PUNCT	_	_	25	punct	_	_
+14	jamono	_	NOUN	_	_	25	subj	_	_
+15	ji	_	PRON	_	_	17	comp:obj	_	_
+16	muy	_	PRON	_	_	17	subj	_	_
+17	sukkandi	_	VERB	_	_	14	mod	_	_
+18	ci	_	ADP	_	_	17	udep	_	_
+19	li	_	PRON	_	_	18	comp:obj	_	_
+20	nekk	_	VERB	_	_	19	comp:obj	_	_
+21	ba	_	ADP	_	_	20	udep	_	_
+22	pare	_	VERB	_	_	21	comp:obj	_	_
+23	nag	_	ADV	_	_	19	mod	_	NoSpaceAfter=Yes
+24	,	_	PUNCT	_	_	25	punct	_	_
+25	mooy	_	AUX	_	_	6	parataxis	_	_
+26	jamono	_	NOUN	_	_	25	comp:cleft	_	_
+27	ji	_	PRON	_	_	29	comp:obj	_	_
+28	nga	_	PRON	_	_	29	subj	_	_
+29	xam	_	VERB	_	_	26	mod	_	_
+30	ne	_	SCONJ	_	_	29	mod	_	_
+31	ci	_	ADP	_	_	32	udep	_	_
+32	la	_	AUX	_	_	30	comp:obj	_	_
+33	xelu	_	NOUN	_	_	32	subj	_	_
+34	doom-aadama	_	NOUN	_	_	33	mod	_	_
+35	matee	_	VERB	_	_	32	comp:aux	_	_
+36	doon	_	AUX	_	_	35	comp:obj	_	_
+37	li	_	PRON	_	_	36	comp:cleft	_	_
+38	mu	_	PRON	_	_	39	subj	_	_
+39	doon	_	AUX	_	_	37	mod	_	_
+40	tey	_	ADV	_	_	39	mod	_	NoSpaceAfter=Yes
+41	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_66
+# text = Club anglais bi def na jalloore ju rëy te Saajo Maane wone na ci njàmbaar gu réy.
+1	Club	_	NOUN	_	_	5	subj	_	_
+2	anglais	_	ADJ	_	_	1	mod	_	_
+3	bi	_	DET	_	_	1	det	_	_
+4	def	_	VERB	_	_	5	comp:aux	_	_
+5	na	_	AUX	_	_	0	root	_	_
+6	jalloore	_	NOUN	_	_	5	comp:obj	_	_
+7	ju	_	PRON	_	_	8	subj	_	_
+8	rëy	_	VERB	_	_	6	mod	_	_
+9	te	_	CCONJ	_	_	13	cc	_	_
+10	Saajo	_	PROPN	_	_	13	subj	_	_
+11	Maane	_	PROPN	_	_	10	flat	_	_
+12	wone	_	VERB	_	_	13	comp:aux	_	_
+13	na	_	AUX	_	_	5	conj	_	_
+14	ci	_	ADP	_	_	13	udep	_	_
+15	njàmbaar	_	NOUN	_	_	13	comp:obj	_	_
+16	gu	_	PRON	_	_	17	subj	_	_
+17	réy	_	VERB	_	_	15	mod	_	NoSpaceAfter=Yes
+18	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_67_split1
+# text = Dafa tàmbalee tëj gémmiñu benn pàcc ci ñiy xeexal askan wi te defuñu pólótig , ci lu nga xam ne da leen di ger , wala mu wañ seen loxo .
+1	Dafa	_	AUX	_	_	0	root	_	_
+2	tàmbalee	_	VERB	_	_	1	comp:aux	_	_
+3	tëj	_	VERB	_	_	2	comp:obj	_	_
+4	gémmiñu	_	NOUN	_	_	3	comp:obj	_	_
+5	benn	_	NUM	_	_	6	det	_	_
+6	pàcc	_	NOUN	_	_	4	mod	_	_
+7	ci	_	ADP	_	_	6	udep	_	_
+8	ñiy	_	PRON	_	_	7	comp:obj	_	_
+9	xeexal	_	VERB	_	_	8	mod	_	_
+10	askan	_	NOUN	_	_	9	comp:obj	_	_
+11	wi	_	DET	_	_	10	det	_	_
+12	te	_	CCONJ	_	_	13	cc	_	_
+13	defuñu	defuñu	VERB	_	_	9	conj	_	_
+14	pólótig	_	NOUN	_	_	13	comp:obj	_	NoSpaceAfter=Yes
+15	,	_	PUNCT	_	_	16	punct	_	_
+16	ci	_	ADP	_	_	13	udep	_	_
+17	lu	lu	PRON	_	_	16	comp:obj	_	_
+18	nga	nga	PRON	_	_	19	subj	_	_
+19	xam	_	VERB	_	_	17	mod	_	_
+20	ne	_	SCONJ	_	_	19	comp:obj	_	_
+21	da	_	AUX	_	_	20	comp:aux	_	_
+22	leen	_	PRON	_	_	21	comp:obj	_	_
+23	di	_	AUX	_	_	21	comp:aux	_	_
+24	ger	_	VERB	_	_	23	comp:aux	_	NoSpaceAfter=Yes
+25	,	_	PUNCT	_	_	28	punct	_	_
+26	wala	_	CCONJ	_	_	28	cc	_	_
+27	mu	_	PRON	_	_	28	subj	_	_
+28	wañ	_	VERB	_	_	21	conj	_	_
+29	seen	_	DET	_	_	30	det	_	_
+30	loxo	_	NOUN	_	_	28	comp:obj	_	NoSpaceAfter=Yes
+31	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_67_split2_split1
+# text = Ginnaaw gi muy xoqatal këri tas-xibaar yi nga xam ne féetuwuñu ak moom , ba noppi salfaañe lépp lu tënku ci wàllu wote .
+1	Ginnaaw	_	NOUN	_	_	4	mod	_	_
+2	gi	_	DET	_	_	1	det	_	_
+3	muy	_	PRON	_	_	4	subj	_	_
+4	xoqatal	_	VERB	_	_	0	root	_	_
+5	këri	_	NOUN	_	_	4	comp:obj	_	_
+6	tas-xibaar	_	NOUN	_	_	5	mod	_	_
+7	yi	_	PRON	_	_	9	comp:obj	_	_
+8	nga	_	PRON	_	_	9	subj	_	_
+9	xam	_	VERB	_	_	5	mod	_	_
+10	ne	_	SCONJ	_	_	9	comp:obj	_	_
+11	féetuwuñu	_	VERB	_	_	10	comp:obj	_	_
+12	ak	_	ADP	_	_	11	udep	_	_
+13	moom	_	PRON	_	_	12	comp:obj	_	NoSpaceAfter=Yes
+14	,	_	PUNCT	_	_	4	punct	_	_
+15	ba	_	ADP	_	_	4	udep	_	_
+16	noppi	_	VERB	_	_	15	comp:obj	_	_
+17	salfaañe	_	VERB	_	_	4	parataxis	_	_
+18	lépp	_	PRON	_	_	17	comp:obj	_	_
+19	lu	_	PRON	_	_	20	subj	_	_
+20	tënku	_	VERB	_	_	18	mod	_	_
+21	ci	_	ADP	_	_	20	udep	_	_
+22	wàllu	_	NOUN	_	_	21	comp:obj	_	_
+23	wote	_	NOUN	_	_	22	mod	_	NoSpaceAfter=Yes
+24	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_67_split2_split2
+# text = Li mu mujjee nag , mooy tënk sañ-sañu nit ñi .
+1	Li	_	PRON	_	_	6	mod	_	_
+2	mu	_	PRON	_	_	3	subj	_	_
+3	mujjee	_	VERB	_	_	1	mod	_	_
+4	nag	_	ADV	_	_	3	mod	_	NoSpaceAfter=Yes
+5	,	_	PUNCT	_	_	6	punct	_	_
+6	mooy	_	AUX	_	_	0	root	_	_
+7	tënk	_	VERB	_	_	6	comp:aux	_	_
+8	sañ-sañu	_	NOUN	_	_	6	comp:obj	_	_
+9	nit	_	NOUN	_	_	8	mod	_	_
+10	ñi	_	DET	_	_	9	det	_	NoSpaceAfter=Yes
+11	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_68
+# text = Li ci topp mooy, dafa xëtt sàrti wote yiy fal ñi fi wote di samp ñépp, mujj gi, mu xoj moom-sa-boppug askan wi.
+1	Li	_	PRON	_	_	4	subj	_	_
+2	ci	_	ADP	_	_	3	udep	_	_
+3	topp	_	VERB	_	_	1	mod	_	_
+4	mooy	_	AUX	_	_	0	root	_	NoSpaceAfter=Yes
+5	,	_	PUNCT	_	_	6	punct	_	_
+6	dafa	_	AUX	_	_	4	comp:cleft	_	_
+7	xëtt	_	VERB	_	_	6	comp:aux	_	_
+8	sàrti	_	NOUN	_	_	6	comp:obj	_	_
+9	wote	_	NOUN	_	_	8	mod	_	_
+10	yiy	_	PRON	_	_	11	subj	_	_
+11	fal	_	VERB	_	_	9	mod	_	_
+12	ñi	_	PRON	_	_	11	comp:obj	_	_
+13	fi	_	ADV	_	_	14	mod	_	_
+14	wote	_	NOUN	_	_	12	mod	_	_
+15	di	_	AUX	_	_	14	comp:obj	_	_
+16	samp	_	VERB	_	_	15	comp:aux	_	_
+17	ñépp	_	PRON	_	_	16	comp:obj	_	NoSpaceAfter=Yes
+18	,	_	PUNCT	_	_	23	punct	_	_
+19	mujj	_	NOUN	_	_	_	_	_	_
+20	gi	_	DET	_	_	19	det	_	NoSpaceAfter=Yes
+21	,	_	PUNCT	_	_	23	punct	_	_
+22	mu	_	PRON	_	_	23	subj	_	_
+23	xoj	_	VERB	_	_	4	conj:appos	_	_
+24	moom-sa-boppug	_	NOUN	_	_	23	comp:obj	_	_
+25	askan	_	NOUN	_	_	24	mod	_	_
+26	wi	_	DET	_	_	25	det	_	NoSpaceAfter=Yes
+27	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_69
+# text = Xaste ak ñaawal doŋŋ lañu am, moone Usmaan Sónko laaj na leen ay laaj yu ñu tontoogul ba tey.
+# text_en = All they get is insults and mockery, and yet Ousmane Sonko has asked them questions which they have so far failed to answer.
+1	Xaste	Xaste	NOUN	_	_	5	comp:obj	_	Gloss=insult
+2	ak	ak	CCONJ	_	_	3	cc	_	Gloss=and
+3	ñaawal	ñaawal	NOUN	_	_	1	conj	_	Gloss=mockery
+4	doŋŋ	doŋŋ	ADV	_	_	1	mod	_	Gloss=only
+5	lañu	la	AUX	_	_	0	root	_	Gloss=have
+6	am	am	VERB	_	_	5	comp:aux	_	Gloss=have|NoSpaceAfter=Yes
+7	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+8	moone	moone	ADV	_	_	12	mod	_	Gloss=yet
+9	Usmaan	Usmaan	PROPN	_	_	12	subj	_	Gloss=Ousmane
+10	Sónko	Sónko	PROPN	_	_	9	flat	_	Gloss=Sonko
+11	laaj	laaj	VERB	_	_	12	comp:aux	_	Gloss=ask
+12	na	na	AUX	_	_	5	parataxis	_	Gloss=have
+13	leen	ko	PRON	_	_	12	comp:obj	_	Gloss=them
+14	ay	ab	DET	_	_	15	det	_	Gloss=some
+15	laaj	laaj	NOUN	_	_	12	comp:obl	_	Gloss=question
+16	yu	bu	PRON	_	_	18	comp:obj	_	Gloss=which
+17	ñu	mu	PRON	_	_	18	subj	_	Gloss=they
+18	tontoogul	tontu	VERB	_	_	15	mod	_	Gloss=not answer yet
+19	ba	ba	ADP	_	_	18	udep	_	Gloss=until
+20	tey	tey	ADV	_	_	19	comp:obj	_	Gloss=today|NoSpaceAfter=Yes
+21	.	.	PUNCT	_	_	12	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_70
+# text = Ngir loolu, fokk ñu tabax ay kaso yu yees yu méngook ni ko àdduna yépp di defe.
+# text_en = To achieve this, we need to build new prisons that meet international standards.
+1	Ngir	ngir	ADP	_	_	6	udep	_	Gloss=for
+2	loolu	boobu	PRON	_	_	1	comp:obj	_	Gloss=that|NoSpaceAfter=Yes
+3	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+4	fokk	fokk	ADV	_	_	6	mod	_	Gloss=necessarily
+5	ñu	mu	PRON	_	_	6	subj	_	Gloss=they
+6	tabax	tabax	VERB	_	_	0	root	_	Gloss=build
+7	ay	ab	DET	_	_	8	det	_	Gloss=some
+8	kaso	kaso	NOUN	_	_	6	comp:obj	_	Gloss=prisons
+9	yu	bu	PRON	_	_	10	subj	_	Gloss=which
+10	yees	yees	VERB	_	_	8	mod	_	Gloss=be new
+11	yu	yu	PRON	_	_	12	subj	_	Gloss=which
+12	méngook	méngoo	VERB	_	_	8	mod	_	Gloss=be conform with
+13	ni	ni	ADP	_	_	12	comp:obl	_	Gloss=how
+14	ko	ko	PRON	_	_	17	comp:obj	_	Gloss=it
+15	àdduna	àdduna	NOUN	_	_	17	subj	_	Gloss=world
+16	yépp	bépp	DET	_	_	15	det	_	Gloss=all
+17	di	di	AUX	_	_	13	mod	_	Gloss=is
+18	defe	def	VERB	_	_	17	comp:aux	_	Gloss=doing|NoSpaceAfter=Yes
+19	.	_	PUNCT	_	_	6	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_71
+# text = Xeeti nit ñu jàng ñii, dafa leen di neex ñuy tagg xar-baaxi jaamu ak jëf yu doyadi.
+# text_en = These kinds of educated people have the malicious pleasure of praising belief and indecent acts.
+1	Xeeti	Xeet	NOUN	_	_	7	dislocated	_	Gloss=kind of
+2	nit	nit	NOUN	_	_	1	mod	_	Gloss=person
+3	ñu	mu	PRON	_	_	4	subj	_	Gloss=they
+4	jàng	jàng	VERB	_	_	2	mod	_	Gloss=be educated
+5	ñii	bi	DET	_	_	4	det	_	Gloss=these|NoSpaceAfter=Yes
+6	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+7	dafa	da	AUX	_	_	0	root	_	Gloss=is
+8	leen	ko	PRON	_	_	7	comp:obj	_	Gloss=them
+9	di	di	AUX	_	_	7	comp:aux	_	Gloss=imperfective
+10	neex	neex	VERB	_	_	9	comp:aux	_	Gloss=please
+11	ñuy	bi	PRON	_	_	12	subj	_	Gloss=they
+12	tagg	tagg	VERB	_	_	10	comp:obj	_	Gloss=praise
+13	xar-baaxi	xar-baax	NOUN	_	_	12	comp:obj	_	Gloss=tradition of
+14	jaamu	jaamu	NOUN	_	_	13	mod	_	Gloss=belief
+15	ak	ak	CCONJ	_	_	16	cc	_	Gloss=and
+16	jëf	jëf	NOUN	_	_	14	conj	_	Gloss=act
+17	yu	bu	PRON	_	_	18	subj	_	Gloss=which
+18	doyadi	doy	VERB	_	_	16	mod	_	Gloss=be poor|NoSpaceAfter=Yes
+19	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_72
+# text = Ñi jot ci feebar bi, bu ñu demee seen kër, mën nañoo wàll màggat ñi, ak ñi nga xam ne dañoo ame yeneen feebar, te ñoom Koronaa wiris bi ñoom lay gën a faat.
+1	Ñi	_	PRON	_	_	14	subj	_	_
+2	jot	_	VERB	_	_	1	mod	_	_
+3	ci	_	ADP	_	_	2	udep	_	_
+4	feebar	_	NOUN	_	_	3	comp:obj	_	_
+5	bi	_	DET	_	_	4	det	_	NoSpaceAfter=Yes
+6	,	_	PUNCT	_	_	7	punct	_	_
+7	bu	_	SCONJ	_	_	14	mod	_	_
+8	ñu	_	PRON	_	_	9	subj	_	_
+9	demee	_	VERB	_	_	7	comp:obj	_	_
+10	seen	_	DET	_	_	11	det	_	_
+11	kër	_	NOUN	_	_	9	comp:obj	_	NoSpaceAfter=Yes
+12	,	_	PUNCT	_	_	14	punct	_	_
+13	mën	_	VERB	_	_	14	comp:aux	_	_
+14	nañoo	_	AUX	_	_	0	root	_	_
+15	wàll	_	VERB	_	_	14	comp:aux	_	_
+16	màggat	_	NOUN	_	_	14	comp:obj	_	_
+17	ñi	_	DET	_	_	16	det	_	NoSpaceAfter=Yes
+18	,	_	PUNCT	_	_	20	punct	_	_
+19	ak	_	CCONJ	_	_	20	cc	_	_
+20	ñi	_	PRON	_	_	16	conj	_	_
+21	nga	_	PRON	_	_	22	subj	_	_
+22	xam	_	VERB	_	_	20	comp:obj	_	_
+23	ne	_	SCONJ	_	_	22	comp:obj	_	_
+24	dañoo	_	AUX	_	_	23	comp:obj	_	_
+25	ame	_	VERB	_	_	24	comp:aux	_	_
+26	yeneen	_	DET	_	_	27	det	_	_
+27	feebar	_	NOUN	_	_	24	comp:obj	_	NoSpaceAfter=Yes
+28	,	_	PUNCT	_	_	35	punct	_	_
+29	te	_	CCONJ	_	_	35	cc	_	_
+30	ñoom	_	PRON	_	_	35	dislocated	_	_
+31	Koronaa	_	PROPN	_	_	35	subj	_	_
+32	wiris	_	NOUN	_	_	31	compound	_	_
+33	bi	_	DET	_	_	32	det	_	_
+34	ñoom	_	PRON	_	_	35	comp:obj	_	_
+35	lay	_	AUX	_	_	14	conj	_	_
+36	gën	_	VERB	_	_	35	comp:aux	_	_
+37	a	_	PART	_	_	36	udep	_	_
+38	faat	_	VERB	_	_	37	comp:obj	_	NoSpaceAfter=Yes
+39	.	_	PUNCT	_	_	14	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_73
+# text = Njiital raay bu gaaw (TEER BI) biy lëkkale gox yi, Abdu Ndeene Sàll, moo nekkoon ganu RFM ci aljuma ji.
+1	Njiital	_	NOUN	_	_	18	subj	_	_
+2	raay	_	NOUN	_	_	1	mod	_	_
+3	bu	_	PRON	_	_	4	subj	_	_
+4	gaaw	_	VERB	_	_	2	mod	_	_
+5	(	_	PUNCT	_	_	6	punct	_	NoSpaceAfter=Yes
+6	TEER	_	PROPN	_	_	2	conj:appos	_	_
+7	BI	_	DET	_	_	6	det	_	_
+8	)	_	PUNCT	_	_	6	punct	_	_
+9	biy	_	PRON	_	_	10	subj	_	_
+10	lëkkale	_	VERB	_	_	2	mod	_	_
+11	gox	_	NOUN	_	_	10	comp:obj	_	_
+12	yi	_	DET	_	_	11	det	_	NoSpaceAfter=Yes
+13	,	_	PUNCT	_	_	14	punct	_	_
+14	Abdu	_	PROPN	_	_	1	conj:appos	_	_
+15	Ndeene	_	PROPN	_	_	14	flat	_	_
+16	Sàll	_	PROPN	_	_	14	flat	_	NoSpaceAfter=Yes
+17	,	_	PUNCT	_	_	14	punct	_	_
+18	moo	_	AUX	_	_	0	root	_	_
+19	nekkoon	_	VERB	_	_	18	comp:aux	_	_
+20	ganu	_	NOUN	_	_	18	comp:cleft	_	_
+21	RFM	_	PROPN	_	_	20	mod	_	_
+22	ci	_	ADP	_	_	18	udep	_	_
+23	aljuma	_	NOUN	_	_	22	comp:obj	_	_
+24	ji	_	DET	_	_	23	det	_	NoSpaceAfter=Yes
+25	.	_	PUNCT	_	_	18	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_74
+# text = Njàppale gu mel nii dana gën a dalal xelu joxekat yi yaakaar na béréb bi mënul a dékku mbooloo mi fiy ñëw yépp.
+1	Njàppale	_	NOUN	_	_	5	subj	_	_
+2	gu	_	PRON	_	_	3	subj	_	_
+3	mel	_	VERB	_	_	1	mod	_	_
+4	nii	_	ADV	_	_	3	mod	_	_
+5	dana	_	AUX	_	_	0	root	_	_
+6	gën	_	VERB	_	_	5	comp:aux	_	_
+7	a	_	PART	_	_	6	udep	_	_
+8	dalal	_	VERB	_	_	7	comp:obj	_	_
+9	xelu	_	NOUN	_	_	8	comp:obj	_	_
+10	joxekat	_	NOUN	_	_	9	mod	_	_
+11	yi	_	PRON	_	_	12	subj	_	_
+12	yaakaar	_	VERB	_	_	10	mod	_	_
+13	na	_	SCONJ	_	_	12	comp:obj	_	_
+14	béréb	_	NOUN	_	_	16	subj	_	_
+15	bi	_	DET	_	_	14	det	_	_
+16	mënul	_	VERB	_	_	13	comp:obj	_	_
+17	a	_	PART	_	_	16	udep	_	_
+18	dékku	_	VERB	_	_	17	comp:obj	_	_
+19	mbooloo	_	NOUN	_	_	18	comp:obj	_	_
+20	mi	_	PRON	_	_	22	subj	_	_
+21	fiy	_	ADV	_	_	22	mod	_	_
+22	ñëw	_	VERB	_	_	19	mod	_	_
+23	yépp	_	DET	_	_	19	det	_	NoSpaceAfter=Yes
+24	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_75
+# text = Su fekkee dañu nu teg tiis , ñun chretiens yi , dañu ko war a nangu ba àdduna di tukki , laata xew-xew bu neex bi di ñow , te muy yemook yëkkatikug jàngu bi .
+1	Su	_	SCONJ	_	_	12	mod	_	_
+2	fekkee	_	VERB	_	_	_	_	_	_
+3	dañu	_	AUX	_	_	2	comp:obj	_	_
+4	nu	_	PRON	_	_	5	comp:obj	_	_
+5	teg	_	VERB	_	_	3	comp:aux	_	_
+6	tiis	_	NOUN	_	_	5	comp:obj	_	NoSpaceAfter=Yes
+7	,	_	PUNCT	_	_	12	punct	_	_
+8	ñun	_	PRON	_	_	12	dislocated	_	_
+9	chretiens	_	NOUN	_	_	8	conj:appos	_	_
+10	yi	_	DET	_	_	9	det	_	NoSpaceAfter=Yes
+11	,	_	PUNCT	_	_	8	punct	_	_
+12	dañu	_	AUX	_	_	0	root	_	_
+13	ko	_	PRON	_	_	12	comp:obj	_	_
+14	war	_	VERB	_	_	12	comp:aux	_	_
+15	a	_	PART	_	_	14	udep	_	_
+16	nangu	_	VERB	_	_	15	comp:obj	_	_
+17	ba	_	SCONJ	_	_	16	mod	_	_
+18	àdduna	_	NOUN	_	_	19	subj	_	_
+19	di	_	AUX	_	_	17	comp:obj	_	_
+20	tukki	_	VERB	_	_	19	comp:aux	_	NoSpaceAfter=Yes
+21	,	_	PUNCT	_	_	22	punct	_	_
+22	laata	_	SCONJ	_	_	12	mod	_	_
+23	xew-xew	_	NOUN	_	_	27	subj	_	_
+24	bu	_	PRON	_	_	25	subj	_	_
+25	neex	_	VERB	_	_	23	mod	_	_
+26	bi	bi	DET	_	_	23	det	_	_
+27	di	di	DET	_	_	22	comp:obj	_	_
+28	ñow	_	VERB	_	_	27	comp:aux	_	NoSpaceAfter=Yes
+29	,	_	PUNCT	_	_	32	punct	_	_
+30	te	_	CCONJ	_	_	32	cc	_	_
+31	muy	_	PRON	_	_	32	subj	_	_
+32	yemook	_	VERB	_	_	27	conj	_	_
+33	yëkkatikug	_	NOUN	_	_	32	comp:obj	_	_
+34	jàngu	_	NOUN	_	_	33	mod	_	_
+35	bi	_	DET	_	_	34	det	_	NoSpaceAfter=Yes
+36	.	_	PUNCT	_	_	12	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_76_split1
+# text = Su fekkee palaas yi am mbaar la , dinañu fa jaay junni ak ñeenti-téeméeri këyit yiy jàppandal dugg gi ( tiket ) , njëg li junni la .
+1	Su	_	SCONJ	_	_	9	mod	_	_
+2	fekkee	_	VERB	_	_	1	comp:obj	_	_
+3	palaas	_	NOUN	_	_	7	subj	_	_
+4	yi	_	DET	_	_	3	det	_	_
+5	am	_	DET	_	_	6	det	_	_
+6	mbaar	_	NOUN	_	_	7	comp:cleft	_	_
+7	la	_	AUX	_	_	2	comp:obj	_	NoSpaceAfter=Yes
+8	,	_	PUNCT	_	_	9	punct	_	_
+9	dinañu	_	AUX	_	_	0	root	_	_
+10	fa	_	ADV	_	_	9	mod	_	_
+11	jaay	_	VERB	_	_	9	comp:aux	_	_
+12	junni	_	NUM	_	_	15	det	_	_
+13	ak	_	CCONJ	_	_	14	cc	_	_
+14	ñeenti-téeméeri	_	NUM	_	_	12	conj	_	_
+15	këyit	_	NOUN	_	_	9	comp:obj	_	_
+16	yiy	_	PRON	_	_	17	subj	_	_
+17	jàppandal	_	VERB	_	_	15	mod	_	_
+18	dugg	_	NOUN	_	_	17	comp:obj	_	_
+19	gi	_	DET	_	_	18	det	_	_
+20	(	_	PUNCT	_	_	21	punct	_	NoSpaceAfter=Yes
+21	tiket	_	NOUN	_	_	15	conj:appos	_	_
+22	)	_	PUNCT	_	_	21	punct	_	NoSpaceAfter=Yes
+23	,	_	PUNCT	_	_	27	punct	_	_
+24	njëg	_	NOUN	_	_	27	subj	_	_
+25	li	_	DET	_	_	24	det	_	_
+26	junni	_	NOUN	_	_	27	comp:cleft	_	_
+27	la	_	AUX	_	_	9	conj:appos	_	NoSpaceAfter=Yes
+28	.	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_76_split2_split1
+# text = Su fekkee palaas yi amul mbaar la , ñaari junni ak ñeen-fukk këyit lañu fay jaay , ci juróom-benn téeméeri dërëm .
+1	Su	_	SCONJ	_	_	14	mod	_	_
+2	fekkee	_	VERB	_	_	1	comp:obj	_	_
+3	palaas	_	NOUN	_	_	_	_	_	_
+4	yi	_	PRON	_	_	5	subj	_	_
+5	amul	_	VERB	_	_	3	mod	_	_
+6	mbaar	_	NOUN	_	_	5	comp:obj	_	_
+7	la	_	AUX	_	_	2	comp:obj	_	NoSpaceAfter=Yes
+8	,	_	PUNCT	_	_	14	punct	_	_
+9	ñaari	_	NUM	_	_	13	det	_	_
+10	junni	_	NUM	_	_	9	mod	_	_
+11	ak	_	CCONJ	_	_	12	cc	_	_
+12	ñeen-fukk	_	NUM	_	_	10	conj	_	_
+13	këyit	_	NOUN	_	_	14	subj	_	_
+14	lañu	_	AUX	_	_	0	root	_	_
+15	fay	_	ADV	_	_	14	mod	_	_
+16	jaay	_	VERB	_	_	14	comp:obj	_	NoSpaceAfter=Yes
+17	,	_	PUNCT	_	_	14	punct	_	_
+18	ci	_	ADP	_	_	14	udep	_	_
+19	juróom-benn	_	NUM	_	_	21	det	_	_
+20	téeméeri	_	NUM	_	_	19	mod	_	_
+21	dërëm	_	NOUN	_	_	18	comp:obj	_	NoSpaceAfter=Yes
+22	.	_	PUNCT	_	_	14	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_76_split2_split2
+# text = Bu dee géttu bëy la nag , ñaari junniy palaas lañu fay denc , di leen jaaye ñeenti-téeméer .
+1	Bu	_	SCONJ	_	_	11	mod	_	_
+2	dee	_	VERB	_	_	1	comp:obj	_	_
+3	géttu	_	NOUN	_	_	5	comp:cleft	_	_
+4	bëy	_	NOUN	_	_	3	mod	_	_
+5	la	_	AUX	_	_	2	comp:obj	_	_
+6	nag	_	ADP	_	_	2	mod	_	NoSpaceAfter=Yes
+7	,	_	PUNCT	_	_	11	punct	_	_
+8	ñaari	_	NUM	_	_	10	det	_	_
+9	junniy	_	NUM	_	_	8	mod	_	_
+10	palaas	_	NOUN	_	_	11	comp:obj	_	_
+11	lañu	_	AUX	_	_	0	root	_	_
+12	fay	_	ADV	_	_	11	mod	_	_
+13	denc	_	VERB	_	_	11	comp:aux	_	NoSpaceAfter=Yes
+14	,	_	PUNCT	_	_	15	punct	_	_
+15	di	_	AUX	_	_	11	parataxis	_	_
+16	leen	_	PRON	_	_	15	comp:obj	_	_
+17	jaaye	_	VERB	_	_	15	comp:aux	_	_
+18	ñeenti-téeméer	_	NUM	_	_	15	comp:obl	_	NoSpaceAfter=Yes
+19	.	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_77
+# text = Ay bérébu déncukaayu xaalis a ngi ubbeeku ci lu tegewul ci yoon.
+# text_en = Banks are being opened under illegal conditions.
+1	Ay	ab	DET	_	_	2	det	_	Gloss=some
+2	bérébu	béréb	NOUN	_	_	5	subj	_	Gloss=places
+3	déncukaayu	déncukaay	NOUN	_	_	2	mod	_	Gloss=storage
+4	xaalis	xaalis	NOUN	_	_	3	mod	_	Gloss=money
+5	a	a	AUX	_	_	0	root	_	Gloss=is
+6	ngi	la	AUX	_	_	5	comp:aux	_	Gloss=being
+7	ubbeeku	ubbeeku	VERB	_	_	5	comp:aux	_	Gloss=open
+8	ci	ci	ADP	_	_	7	udep	_	Gloss=in
+9	lu	bu	PRON	_	_	8	comp:obj	_	Gloss=what
+10	tegewul	tege	VERB	_	_	9	mod	_	Gloss=not based
+11	ci	ci	ADP	_	_	10	udep	_	Gloss=on
+12	yoon	yoon	NOUN	_	_	11	comp:obj	_	NoSpaceAfter=Yes
+13	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_78
+# text = Soo taseek Booy Jinne du la mës a xool ci bët.
+# text_en = When you meet Boy Jinne, he'll never look you in the eye.
+1	Soo	boo	PRON	_	_	5	mod	_	Gloss=If you
+2	taseek	tase	VERB	_	_	1	comp:obj	_	Gloss=meet with
+3	Booy	Booy	PROPN	_	_	2	comp:obl	_	Gloss=Boy
+4	Jinne	Jinne	PROPN	_	_	3	flat	_	Gloss=Jinne
+5	du	di	AUX	_	_	0	root	_	Gloss=is
+6	la	la	PRON	_	_	5	comp:obj	_	Gloss=you
+7	mës	mës	VERB	_	_	5	comp:aux	_	Gloss=once
+8	a	a	PART	_	_	9	udep	_	Gloss=to
+9	xool	xool	VERB	_	_	7	comp:obj	_	Gloss=look
+10	ci	ci	ADP	_	_	9	udep	_	Gloss=in
+11	bët	bët	NOUN	_	_	10	comp:obj	_	Gloss=eye|NoSpaceAfter=Yes
+12	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_79
+# text = Dara wuutalewul Aysata ak Raasin Si.
+# text_en = Nothing differs Aissatou from Racine Sy.
+1	Dara	Dara	NOUN	_	_	2	subj	_	Gloss=Nothing
+2	wuutalewul	wuutale	VERB	_	_	0	root	_	Gloss=not differ
+3	Aysata	Aysata	PROPN	_	_	2	comp:obj	_	Gloss=Aissata
+4	ak	ak	ADP	_	_	2	udep	_	Gloss=and
+5	Raasin	Raasin	PROPN	_	_	4	comp:obj	_	Gloss=Racine
+6	Si	Si	PROPN	_	_	5	flat	_	Gloss=Sy|NoSpaceAfter=Yes
+7	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_80
+# text = Dafa yomb ba nga xam ne dañu naan naka lañuy liggéeyalee ab dag?
+# text_en = It is so easy until they say how can one work for a subordinate.
+1	Dafa	da	AUX	_	_	0	root	_	Gloss=It is
+2	yomb	yomb	VERB	_	_	1	comp:aux	_	Gloss=be easy
+3	ba	bi	SCONJ	_	_	2	mod	_	Gloss=until
+4	nga	mu	PRON	_	_	5	subj	_	Gloss=you
+5	xam	xam	VERB	_	_	3	comp:obj	_	Gloss=know
+6	ne	ni	SCONJ	_	_	5	comp:obj	_	Gloss=that
+7	dañu	da	AUX	_	_	6	comp:obj	_	Gloss=they have
+8	naan	naan	VERB	_	_	7	comp:aux	_	Gloss=say
+9	naka	naka	ADV	_	_	10	mod	_	Gloss=how
+10	lañuy	la	AUX	_	_	8	comp:obj	_	Gloss=are
+11	liggéeyalee	liggéeyal	VERB	_	_	10	comp:aux	_	Gloss=work
+12	ab	ab	DET	_	_	13	det	_	Gloss=a
+13	dag	dag	NOUN	_	_	11	comp:obj	_	Gloss=subordinate|NoSpaceAfter=Yes
+14	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = Masakhane-Wolof_dev_81
+# text = Su ñu tënkoo ciy kàddoom, moom rekk moo yoroon caabi koppar-foor bi.
+1	Su	_	SCONJ	_	_	9	mod	_	_
+2	ñu	_	PRON	_	_	3	subj	_	_
+3	tënkoo	_	VERB	_	_	1	comp:obj	_	_
+4	ciy	_	ADP	_	_	3	udep	_	_
+5	kàddoom	_	NOUN	_	_	4	comp:obj	_	NoSpaceAfter=Yes
+6	,	_	PUNCT	_	_	9	punct	_	_
+7	moom	_	PRON	_	_	9	dislocated	_	_
+8	rekk	_	ADV	_	_	9	mod	_	_
+9	moo	_	PRON	_	_	0	root	_	_
+10	yoroon	_	VERB	_	_	9	comp:aux	_	_
+11	caabi	_	NOUN	_	_	9	comp:obj	_	_
+12	koppar-foor	_	NOUN	_	_	11	mod	_	_
+13	bi	_	DET	_	_	12	det	_	NoSpaceAfter=Yes
+14	.	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_82
+# text = Ñoom dañuy xalaat seen aafiya ji, anam yi ñuy nekk bu ñuy tukki.
+1	Ñoom	_	PRON	_	_	2	subj	_	_
+2	dañuy	_	AUX	_	_	0	root	_	_
+3	xalaat	_	VERB	_	_	2	comp:aux	_	_
+4	seen	_	DET	_	_	5	det	_	_
+5	aafiya	_	NOUN	_	_	2	comp:obj	_	_
+6	ji	_	DET	_	_	5	det	_	NoSpaceAfter=Yes
+7	,	_	PUNCT	_	_	8	punct	_	_
+8	anam	_	VERB	_	_	5	conj:appos	_	_
+9	yi	_	PRON	_	_	11	comp:obj	_	_
+10	ñuy	_	PRON	_	_	11	subj	_	_
+11	nekk	_	VERB	_	_	8	mod	_	_
+12	bu	_	PRON	_	_	11	mod	_	_
+13	ñuy	_	PRON	_	_	14	subj	_	_
+14	tukki	_	VERB	_	_	12	comp:obj	_	NoSpaceAfter=Yes
+15	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_83
+# text = Nekkoo dàllinkooru ekib yiy futbal ca Angalteer, waaye yaa jël raw-gàddu gi ci Ërob ak joŋante yu bare yoo xam ne kenn dugalu la ab bal.
+1	Nekkoo	_	VERB	_	_	0	root	_	_
+2	dàllinkooru	_	NOUN	_	_	1	comp:obj	_	_
+3	ekib	_	NOUN	_	_	2	mod	_	_
+4	yiy	_	PRON	_	_	5	subj	_	_
+5	futbal	_	NOUN	_	_	3	mod	_	_
+6	ca	_	ADP	_	_	5	udep	_	_
+7	Angalteer	_	PROPN	_	_	6	comp:obj	_	NoSpaceAfter=Yes
+8	,	_	PUNCT	_	_	10	punct	_	_
+9	waaye	_	CCONJ	_	_	10	cc	_	_
+10	yaa	_	AUX	_	_	1	conj	_	_
+11	jël	_	VERB	_	_	10	comp:aux	_	_
+12	raw-gàddu	_	NOUN	_	_	10	comp:obj	_	_
+13	gi	_	DET	_	_	12	det	_	_
+14	ci	_	ADP	_	_	12	udep	_	_
+15	Ërob	_	PROPN	_	_	14	comp:obj	_	_
+16	ak	_	CCONJ	_	_	17	cc	_	_
+17	joŋante	_	NOUN	_	_	12	conj	_	_
+18	yu	_	PRON	_	_	19	subj	_	_
+19	bare	_	VERB	_	_	17	mod	_	_
+20	yoo	_	PRON	_	_	21	subj	_	_
+21	xam	_	VERB	_	_	17	mod	_	_
+22	ne	_	SCONJ	_	_	21	comp:obj	_	_
+23	kenn	_	PRON	_	_	24	det	_	_
+24	dugalu	_	VERB	_	_	22	comp:obj	_	_
+25	la	_	PRON	_	_	24	comp:obj	_	_
+26	ab	_	DET	_	_	27	det	_	_
+27	bal	_	NOUN	_	_	24	comp:obl	_	NoSpaceAfter=Yes
+28	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_84_split1
+# text = Sëñ Saar mi nga xam ne dawal mooy méccéem , ab saytukatu kaaraange moo ko jàpp ci guddi gi muy sàcc ab gaas ca Grand-Yoff ci wetu Zone de captage .
+1	Sëñ	_	PROPN	_	_	14	dislocated	_	_
+2	Saar	_	PROPN	_	_	1	flat	_	_
+3	mi	_	PRON	_	_	5	comp:obj	_	_
+4	nga	_	PRON	_	_	5	subj	_	_
+5	xam	_	VERB	_	_	1	mod	_	_
+6	ne	_	SCONJ	_	_	5	mod	_	_
+7	dawal	_	VERB	_	_	8	subj	_	_
+8	mooy	_	AUX	_	_	6	comp:obj	_	_
+9	méccéem	_	NOUN	_	_	8	comp:cleft	_	NoSpaceAfter=Yes
+10	,	_	PUNCT	_	_	14	punct	_	_
+11	ab	_	DET	_	_	12	det	_	_
+12	saytukatu	_	NOUN	_	_	14	subj	_	_
+13	kaaraange	_	NOUN	_	_	12	mod	_	_
+14	moo	_	AUX	_	_	0	root	_	_
+15	ko	_	PRON	_	_	14	comp:obj	_	_
+16	jàpp	_	VERB	_	_	14	comp:aux	_	_
+17	ci	_	ADP	_	_	16	udep	_	_
+18	guddi	_	NOUN	_	_	17	comp:obj	_	_
+19	gi	_	DET	_	_	18	det	_	_
+20	muy	_	PRON	_	_	21	subj	_	_
+21	sàcc	_	VERB	_	_	16	comp:obj	_	_
+22	ab	_	DET	_	_	23	det	_	_
+23	gaas	_	NOUN	_	_	21	comp:obj	_	_
+24	ca	_	ADP	_	_	23	udep	_	_
+25	Grand-Yoff	_	PROPN	_	_	24	comp:obj	_	_
+26	ci	_	ADP	_	_	21	udep	_	_
+27	wetu	_	NOUN	_	_	26	comp:obj	_	_
+28	Zone	_	PROPN	_	_	27	mod	_	_
+29	de	_	PROPN	_	_	28	udep	_	_
+30	captage	captage	PROPN	_	_	29	comp:obj	_	NoSpaceAfter=Yes
+31	.	.	PROPN	_	_	14	punct	_	NoSpaceAfter=Yes
+
+# sent_id = Masakhane-Wolof_dev_84_split2
+# text = Mu ngi yoroon ab woto boo xam ne kenn kuy yëngatu ci wàllu dem ak dikk moo ko moom .
+1	Mu	_	PRON	_	_	2	subj	_	_
+2	ngi	_	AUX	_	_	0	root	_	_
+3	yoroon	_	VERB	_	_	2	comp:aux	_	_
+4	ab	_	DET	_	_	5	det	_	_
+5	woto	_	NOUN	_	_	2	comp:obj	_	_
+6	boo	_	PRON	_	_	7	subj	_	_
+7	xam	_	VERB	_	_	5	mod	_	_
+8	ne	_	SCONJ	_	_	7	comp:obj	_	_
+9	kenn	_	PRON	_	_	17	subj	_	_
+10	kuy	_	PRON	_	_	11	subj	_	_
+11	yëngatu	_	VERB	_	_	9	mod	_	_
+12	ci	_	ADP	_	_	11	udep	_	_
+13	wàllu	_	NOUN	_	_	12	comp:obj	_	_
+14	dem	_	VERB	_	_	13	mod	_	_
+15	ak	_	CCONJ	_	_	16	cc	_	_
+16	dikk	_	VERB	_	_	14	conj	_	_
+17	moo	_	AUX	_	_	8	comp:obj	_	_
+18	ko	_	PRON	_	_	17	comp:obj	_	_
+19	moom	_	VERB	_	_	17	comp:aux	_	NoSpaceAfter=Yes
+20	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_85
+# text = Ginnaaw bi mu tëjee ay wujjam, salfaañe càmpeefi réew mi, njiitu réew mi xaarul woon yënguteg ñoñi Usmaan Sónko yi.
+1	Ginnaaw	_	ADP	_	_	17	udep	_	_
+2	bi	_	SCONJ	_	_	1	comp:obj	_	_
+3	mu	_	PRON	_	_	4	subj	_	_
+4	tëjee	_	VERB	_	_	2	comp:obj	_	_
+5	ay	_	DET	_	_	6	det	_	_
+6	wujjam	_	NOUN	_	_	4	comp:obj	_	NoSpaceAfter=Yes
+7	,	_	PUNCT	_	_	8	punct	_	_
+8	salfaañe	_	VERB	_	_	4	conj	_	_
+9	càmpeefi	_	NOUN	_	_	8	comp:obj	_	_
+10	réew	_	NOUN	_	_	9	mod	_	_
+11	mi	_	DET	_	_	10	det	_	NoSpaceAfter=Yes
+12	,	_	PUNCT	_	_	17	punct	_	_
+13	njiitu	_	NOUN	_	_	17	subj	_	_
+14	réew	_	NOUN	_	_	13	mod	_	_
+15	mi	_	DET	_	_	14	det	_	_
+16	xaarul	_	VERB	_	_	17	comp:aux	_	_
+17	woon	_	AUX	_	_	0	root	_	_
+18	yënguteg	_	NOUN	_	_	17	comp:obj	_	_
+19	ñoñi	_	NOUN	_	_	18	mod	_	_
+20	Usmaan	_	PROPN	_	_	19	mod	_	_
+21	Sónko	_	PROPN	_	_	20	flat	_	_
+22	yi	_	DET	_	_	19	det	_	NoSpaceAfter=Yes
+23	.	_	PUNCT	_	_	17	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_86
+# text = Réewi CEMAC yi dañu lànk a yeesalaat jokkalante gi dox seen diggante ak Farãas te mu def lu tolloo ak juróom-ñaar-fukki at ak juróom . Moo tax xaalisu ëro bi bareetul ci seen ja yi .
+1	Réewi	_	NOUN	_	_	4	subj	_	_
+2	CEMAC	_	PROPN	_	_	1	mod	_	_
+3	yi	_	DET	_	_	1	det	_	_
+4	dañu	_	AUX	_	_	0	root	_	_
+5	lànk	_	VERB	_	_	4	comp:aux	_	_
+6	a	_	PART	_	_	5	udep	_	_
+7	yeesalaat	_	VERB	_	_	6	comp:obj	_	_
+8	jokkalante	_	NOUN	_	_	7	comp:obj	_	_
+9	gi	_	PRON	_	_	10	subj	_	_
+10	dox	_	VERB	_	_	8	mod	_	_
+11	seen	_	DET	_	_	12	det	_	_
+12	diggante	diggante	NOUN	_	_	10	comp:obj	_	_
+13	ak	ak	ADP	_	_	12	udep	_	_
+14	Farãas	_	PROPN	_	_	13	comp:obj	_	_
+15	te	_	CCONJ	_	_	17	cc	_	_
+16	mu	_	PRON	_	_	17	subj	_	_
+17	def	_	VERB	_	_	4	conj	_	_
+18	lu	_	PRON	_	_	17	comp:obj	_	_
+19	tolloo	tolloo	VERB	_	_	18	mod	_	_
+20	ak	ak	ADP	_	_	19	udep	_	_
+21	juróom-ñaar-fukki	_	NUM	_	_	22	det	_	_
+22	at	_	NOUN	_	_	20	comp:obj	_	_
+23	ak	_	CCONJ	_	_	24	cc	_	_
+24	juróom	_	NUM	_	_	21	conj	_	NoSpaceAfter=Yes
+25	.	_	PUNCT	_	_	26	punct	_	_
+26	Moo	_	AUX	_	_	4	conj:appos	_	_
+27	tax	_	VERB	_	_	26	comp:aux	_	_
+28	xaalisu	_	NOUN	_	_	31	subj	_	_
+29	ëro	_	NOUN	_	_	28	mod	_	_
+30	bi	_	PRON	_	_	28	det	_	_
+31	bareetul	_	VERB	_	_	26	comp:obj	_	_
+32	ci	_	ADP	_	_	31	udep	_	_
+33	seen	_	DET	_	_	34	det	_	_
+34	ja	_	NOUN	_	_	32	comp:obj	_	_
+35	yi	_	DET	_	_	34	det	_	NoSpaceAfter=Yes
+36	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_87
+# text = Ci tënk, mën nañu wax ne li njëwriñ ju nekk war a jëfandikoo ci koppar dafa koy fësal ci ay yëngu-yëngu yoo xam ne lim bi ci diggante ñaar ak juróom-ñeent lay nekk.
+1	Ci	_	ADP	_	_	5	udep	_	_
+2	tënk	_	VERB	_	_	1	comp:obj	_	NoSpaceAfter=Yes
+3	,	_	PUNCT	_	_	5	punct	_	_
+4	mën	_	VERB	_	_	5	comp:aux	_	_
+5	nañu	_	AUX	_	_	0	root	_	_
+6	wax	_	VERB	_	_	5	comp:obj	_	_
+7	ne	_	SCONJ	_	_	6	comp:obj	_	_
+8	li	_	PRON	_	_	17	dislocated	_	_
+9	njëwriñ	_	NOUN	_	_	12	comp:obj	_	_
+10	ju	_	PRON	_	_	11	subj	_	_
+11	nekk	_	VERB	_	_	9	mod	_	_
+12	war	_	VERB	_	_	8	mod	_	_
+13	a	_	PART	_	_	12	udep	_	_
+14	jëfandikoo	_	VERB	_	_	13	comp:obj	_	_
+15	ci	_	ADP	_	_	14	udep	_	_
+16	koppar	_	NOUN	_	_	15	comp:obj	_	_
+17	dafa	_	AUX	_	_	7	comp:obj	_	_
+18	koy	_	PRON	_	_	17	comp:obj	_	_
+19	fësal	_	VERB	_	_	17	comp:aux	_	_
+20	ci	_	ADP	_	_	19	udep	_	_
+21	ay	_	DET	_	_	22	det	_	_
+22	yëngu-yëngu	_	NOUN	_	_	20	comp:obj	_	_
+23	yoo	_	PRON	_	_	24	subj	_	_
+24	xam	_	VERB	_	_	22	mod	_	_
+25	ne	_	SCONJ	_	_	24	comp:obj	_	_
+26	lim	_	NOUN	_	_	33	dislocated	_	_
+27	bi	_	DET	_	_	26	det	_	_
+28	ci	_	ADP	_	_	33	udep	_	_
+29	diggante	_	ADP	_	_	28	comp:obj	_	_
+30	ñaar	_	NUM	_	_	29	comp:obj	_	_
+31	ak	_	CCONJ	_	_	32	cc	_	_
+32	juróom-ñeent	_	NUM	_	_	30	conj	_	_
+33	lay	_	AUX	_	_	25	comp:obj	_	_
+34	nekk	_	VERB	_	_	33	comp:aux	_	NoSpaceAfter=Yes
+35	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_88
+# text = Fajkat bii di Róos WARDINI , nekk njiital ONG Médicol International nee na bokk na ci fajkat yi fiy ñëw te jóge Corée , ñoo xam ne seen xam-xam ci wàllu bëñ la màcc , ñii ci wàllu xol , ñi ci mbiri jigéen ak yeneen ak yeneen .
+1	Fajkat	_	NOUN	_	_	13	subj	_	_
+2	bii	_	DET	_	_	3	subj	_	_
+3	di	_	AUX	_	_	1	mod	_	_
+4	Róos	_	PROPN	_	_	3	comp:cleft	_	_
+5	WARDINI	_	PROPN	_	_	4	flat	_	NoSpaceAfter=Yes
+6	,	_	PUNCT	_	_	7	punct	_	_
+7	nekk	_	VERB	_	_	1	mod	_	_
+8	njiital	_	NOUN	_	_	7	comp:cleft	_	_
+9	ONG	_	PROPN	_	_	8	mod	_	_
+10	Médicol	_	PROPN	_	_	9	mod	_	_
+11	International	_	PROPN	_	_	10	mod	_	_
+12	nee	_	VERB	_	_	13	comp:aux	_	_
+13	na	_	AUX	_	_	0	root	_	_
+14	bokk	_	VERB	_	_	15	comp:aux	_	_
+15	na	_	AUX	_	_	13	comp:obj	_	_
+16	ci	_	ADP	_	_	15	udep	_	_
+17	fajkat	_	NOUN	_	_	16	comp:obj	_	_
+18	yi	_	PRON	_	_	20	subj	_	_
+19	fiy	_	ADV	_	_	20	mod	_	_
+20	ñëw	_	VERB	_	_	17	mod	_	_
+21	te	_	CCONJ	_	_	22	cc	_	_
+22	jóge	_	VERB	_	_	20	conj	_	_
+23	Corée	_	PROPN	_	_	22	comp:obj	_	NoSpaceAfter=Yes
+24	,	_	PUNCT	_	_	26	punct	_	_
+25	ñoo	_	PRON	_	_	26	subj	_	_
+26	xam	_	VERB	_	_	17	comp:obj	_	_
+27	ne	_	SCONJ	_	_	26	comp:obj	_	_
+28	seen	_	DET	_	_	29	det	_	_
+29	xam-xam	_	NOUN	_	_	33	subj	_	_
+30	ci	_	ADP	_	_	33	udep	_	_
+31	wàllu	_	NOUN	_	_	30	comp:obj	_	_
+32	bëñ	_	NOUN	_	_	31	mod	_	_
+33	la	_	AUX	_	_	27	comp:obj	_	_
+34	màcc	_	VERB	_	_	33	comp:aux	_	NoSpaceAfter=Yes
+35	,	_	PUNCT	_	_	36	punct	_	_
+36	ñii	_	PRON	_	_	33	dislocated	_	_
+37	ci	_	ADP	_	_	33	udep	_	_
+38	wàllu	_	NOUN	_	_	37	mod	_	_
+39	xol	_	NOUN	_	_	38	mod	_	NoSpaceAfter=Yes
+40	,	_	PUNCT	_	_	41	punct	_	_
+41	ñi	_	PRON	_	_	33	dislocated	_	_
+42	ci	_	ADP	_	_	33	udep	_	_
+43	mbiri	_	NOUN	_	_	42	comp:obj	_	_
+44	jigéen	_	NOUN	_	_	43	mod	_	_
+45	ak	_	CCONJ	_	_	46	cc	_	_
+46	yeneen	_	PRON	_	_	43	conj	_	_
+47	ak	_	CCONJ	_	_	48	cc	_	_
+48	yeneen	_	PRON	_	_	43	conj	_	NoSpaceAfter=Yes
+49	.	_	PUNCT	_	_	13	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_89
+# text = Wote , ngir wane benn niral rek , yelleef la ci gisin bi ma am ci demokaraasi , maanaam réew mu nga xam ne askan wi ñooy fal ak a folli .
+1	Wote	_	VERB	_	_	10	subj	_	NoSpaceAfter=Yes
+2	,	_	PUNCT	_	_	3	punct	_	_
+3	ngir	_	ADP	_	_	1	mod	_	_
+4	wane	_	VERB	_	_	3	comp:obj	_	_
+5	benn	_	NUM	_	_	6	det	_	_
+6	niral	_	NOUN	_	_	4	comp:obj	_	_
+7	rek	_	ADV	_	_	6	mod	_	NoSpaceAfter=Yes
+8	,	_	PUNCT	_	_	10	punct	_	_
+9	yelleef	_	NOUN	_	_	10	comp:cleft	_	_
+10	la	_	AUX	_	_	0	root	_	_
+11	ci	_	ADP	_	_	10	udep	_	_
+12	gisin	_	NOUN	_	_	11	comp:obj	_	_
+13	bi	_	PRON	_	_	15	comp:obj	_	_
+14	ma	_	PRON	_	_	15	subj	_	_
+15	am	_	VERB	_	_	12	mod	_	_
+16	ci	_	ADP	_	_	15	udep	_	_
+17	demokaraasi	_	NOUN	_	_	16	comp:obj	_	NoSpaceAfter=Yes
+18	,	_	PUNCT	_	_	20	punct	_	_
+19	maanaam	_	ADV	_	_	20	discourse	_	_
+20	réew	_	NOUN	_	_	17	conj:appos	_	_
+21	mu	mu	AUX	_	_	23	comp:obj	_	_
+22	nga	nga	AUX	_	_	23	subj	_	_
+23	xam	_	VERB	_	_	20	mod	_	_
+24	ne	_	SCONJ	_	_	23	comp:obj	_	_
+25	askan	_	NOUN	_	_	27	subj	_	_
+26	wi	_	DET	_	_	25	det	_	_
+27	ñooy	_	AUX	_	_	24	comp:obj	_	_
+28	fal	_	VERB	_	_	27	comp:aux	_	_
+29	ak	_	CCONJ	_	_	30	cc	_	_
+30	a	_	PART	_	_	28	conj	_	_
+31	folli	_	VERB	_	_	30	comp:obj	_	NoSpaceAfter=Yes
+32	.	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_90
+# text = Gisin boobu sax gën naa xóot loolu ndax wote moo raw sax yelleef ba ci tëgginu campeefi réew mi , foog naa ni amul kenn ku mën a génne boppam , ci tayeef liy doxal réew mi ...
+1	Gisin	_	NOUN	_	_	5	subj	_	_
+2	boobu	_	DET	_	_	1	det	_	_
+3	sax	_	ADV	_	_	1	mod	_	_
+4	gën	_	VERB	_	_	5	comp:aux	_	_
+5	naa	_	AUX	_	_	0	root	_	_
+6	xóot	_	VERB	_	_	5	comp:obj	_	_
+7	loolu	_	PRON	_	_	6	comp:obj	_	_
+8	ndax	_	SCONJ	_	_	5	mod	_	_
+9	wote	_	VERB	_	_	10	subj	_	_
+10	moo	_	AUX	_	_	8	comp:obj	_	_
+11	raw	_	VERB	_	_	10	comp:aux	_	_
+12	sax	_	ADV	_	_	11	mod	_	_
+13	yelleef	_	NOUN	_	_	10	comp:obj	_	_
+14	ba	_	ADP	_	_	13	udep	_	_
+15	ci	_	ADP	_	_	14	udep	_	_
+16	tëgginu	_	NOUN	_	_	15	comp:obj	_	_
+17	campeefi	_	NOUN	_	_	16	mod	_	_
+18	réew	_	NOUN	_	_	17	mod	_	_
+19	mi	_	DET	_	_	18	det	_	NoSpaceAfter=Yes
+20	,	_	PUNCT	_	_	22	punct	_	_
+21	foog	_	VERB	_	_	22	comp:obj	_	_
+22	naa	_	AUX	_	_	5	parataxis	_	_
+23	ni	_	SCONJ	_	_	22	comp:obj	_	_
+24	amul	_	VERB	_	_	23	comp:obj	_	_
+25	kenn	_	PRON	_	_	24	comp:obj	_	_
+26	ku	_	PRON	_	_	27	subj	_	_
+27	mën	_	VERB	_	_	25	mod	_	_
+28	a	_	PART	_	_	27	udep	_	_
+29	génne	_	VERB	_	_	28	comp:obj	_	_
+30	boppam	_	NOUN	_	_	29	comp:obj	_	NoSpaceAfter=Yes
+31	,	_	PUNCT	_	_	32	punct	_	_
+32	ci	_	ADP	_	_	29	udep	_	_
+33	tayeef	_	NOUN	_	_	32	comp:obj	_	_
+34	liy	_	PRON	_	_	35	subj	_	_
+35	doxal	_	VERB	_	_	33	mod	_	_
+36	réew	_	NOUN	_	_	35	comp:obj	_	_
+37	mi	_	DET	_	_	36	det	_	_
+38	...	_	PUNCT	_	_	5	_	_	_
+
+# sent_id = Masakhane-Wolof_dev_91
+# text = Usmaan Sónko, mi nga xam ne Mamadu Ja mooy royukaayam ci pólótig ba mu tudde ko sax béréb bi pàrteem bi nekk, ci baat yii la ko tënk:
+1	Usmaan	_	PROPN	_	_	28	dislocated	_	_
+2	Sónko	_	PROPN	_	_	1	flat	_	NoSpaceAfter=Yes
+3	,	_	PUNCT	_	_	6	punct	_	_
+4	mi	_	PRON	_	_	6	comp:obj	_	_
+5	nga	_	PRON	_	_	6	subj	_	_
+6	xam	_	VERB	_	_	1	mod	_	_
+7	ne	_	SCONJ	_	_	6	comp:obj	_	_
+8	Mamadu	_	PROPN	_	_	10	subj	_	_
+9	Ja	_	PROPN	_	_	8	flat	_	_
+10	mooy	_	AUX	_	_	7	comp:obj	_	_
+11	royukaayam	_	NOUN	_	_	10	comp:cleft	_	_
+12	ci	_	ADP	_	_	11	udep	_	_
+13	pólótig	_	NOUN	_	_	12	comp:obj	_	_
+14	ba	_	SCONJ	_	_	10	mod	_	_
+15	mu	_	PRON	_	_	16	subj	_	_
+16	tudde	_	VERB	_	_	14	comp:obj	_	_
+17	ko	_	PRON	_	_	16	comp:obj	_	_
+18	sax	_	ADV	_	_	16	mod	_	_
+19	béréb	_	NOUN	_	_	16	comp:obl	_	_
+20	bi	_	DET	_	_	23	comp:obj	_	_
+21	pàrteem	_	NOUN	_	_	23	subj	_	_
+22	bi	_	DET	_	_	21	det	_	_
+23	nekk	_	VERB	_	_	19	mod	_	NoSpaceAfter=Yes
+24	,	_	PUNCT	_	_	28	punct	_	_
+25	ci	_	ADP	_	_	28	udep	_	_
+26	baat	_	NOUN	_	_	25	comp:obj	_	_
+27	yii	_	DET	_	_	26	det	_	_
+28	la	_	AUX	_	_	0	root	_	_
+29	ko	_	PRON	_	_	28	comp:obj	_	_
+30	tënk	_	VERB	_	_	28	comp:aux	_	NoSpaceAfter=Yes
+31	:	_	PUNCT	_	_	28	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_92
+# text = lan mooy nguur? nekkul lu dul aw sas woo xam ne dafa lay tax a fàtte sa bopp ngir saw askan...
+1	lan	_	PRON	_	_	2	subj	_	_
+2	mooy	_	AUX	_	_	0	root	_	_
+3	nguur	_	NOUN	_	_	2	comp:cleft	_	NoSpaceAfter=Yes
+4	?	_	PUNCT	_	_	2	punct	_	_
+5	nekkul	_	VERB	_	_	2	mod	_	_
+6	lu	_	PRON	_	_	5	comp:obj	_	_
+7	dul	_	AUX	_	_	6	mod	_	_
+8	aw	_	DET	_	_	9	det	_	_
+9	sas	_	NOUN	_	_	7	comp:cleft	_	_
+10	woo	_	PRON	_	_	11	subj	_	_
+11	xam	_	VERB	_	_	9	mod	_	_
+12	ne	_	SCONJ	_	_	11	comp:obj	_	_
+13	dafa	_	AUX	_	_	12	comp:obj	_	_
+14	lay	_	PRON	_	_	13	comp:obj	_	_
+15	tax	_	VERB	_	_	13	comp:aux	_	_
+16	a	_	PART	_	_	15	udep	_	_
+17	fàtte	_	VERB	_	_	16	comp:obj	_	_
+18	sa	_	DET	_	_	19	det	_	_
+19	bopp	_	NOUN	_	_	17	comp:obj	_	_
+20	ngir	_	ADP	_	_	17	udep	_	_
+21	saw	_	DET	_	_	22	det	_	_
+22	askan	_	NOUN	_	_	20	comp:obj	_	_
+23	...	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_93
+# text = Li mënul a ñàkk ci njiitu réew lu baax mooy mu am xam-xam ak jaar-jaar bu baax , am gis-gis bu leer , am yéeney jariñ réewam , bëgg réewam , doylu ba noppi nag ànd ak ñu mën ...
+1	Li	_	PRON	_	_	10	subj	_	_
+2	mënul	_	VERB	_	_	1	mod	_	_
+3	a	_	PART	_	_	2	udep	_	_
+4	ñàkk	_	VERB	_	_	3	comp:obj	_	_
+5	ci	_	ADP	_	_	4	udep	_	_
+6	njiitu	_	NOUN	_	_	5	comp:obj	_	_
+7	réew	_	NOUN	_	_	6	mod	_	_
+8	lu	_	PRON	_	_	9	subj	_	_
+9	baax	_	VERB	_	_	6	mod	_	_
+10	mooy	_	AUX	_	_	0	root	_	_
+11	mu	_	PRON	_	_	12	subj	_	_
+12	am	_	VERB	_	_	10	comp:obj	_	_
+13	xam-xam	_	NOUN	_	_	12	comp:obj	_	_
+14	ak	_	CCONJ	_	_	15	cc	_	_
+15	jaar-jaar	_	NOUN	_	_	13	comp:obj	_	_
+16	bu	_	PRON	_	_	17	subj	_	_
+17	baax	_	VERB	_	_	15	mod	_	NoSpaceAfter=Yes
+18	,	_	PUNCT	_	_	19	punct	_	_
+19	am	_	VERB	_	_	12	parataxis	_	_
+20	gis-gis	_	NOUN	_	_	19	comp:obj	_	_
+21	bu	_	PRON	_	_	22	subj	_	_
+22	leer	_	VERB	_	_	20	mod	_	NoSpaceAfter=Yes
+23	,	_	PUNCT	_	_	24	punct	_	_
+24	am	_	VERB	_	_	12	parataxis	_	_
+25	yéeney	_	NOUN	_	_	24	comp:obj	_	_
+26	jariñ	_	VERB	_	_	25	comp:obj	_	_
+27	réewam	_	NOUN	_	_	26	comp:obj	_	NoSpaceAfter=Yes
+28	,	_	PUNCT	_	_	29	punct	_	_
+29	bëgg	_	VERB	_	_	12	parataxis	_	_
+30	réewam	_	NOUN	_	_	29	comp:obj	_	NoSpaceAfter=Yes
+31	,	_	PUNCT	_	_	29	punct	_	_
+32	doylu	_	VERB	_	_	12	parataxis	_	_
+33	ba	_	ADP	_	_	36	udep	_	_
+34	noppi	_	VERB	_	_	33	comp:obj	_	_
+35	nag	_	VERB	_	_	33	mod	_	_
+36	ànd	_	VERB	_	_	12	parataxis	_	_
+37	ak	_	ADP	_	_	36	udep	_	_
+38	ñu	_	PRON	_	_	37	comp:obj	_	_
+39	mën	_	VERB	_	_	38	mod	_	_
+40	...	_	PUNCT	_	_	10	_	_	_
+
+# sent_id = Masakhane-Wolof_dev_94
+# text = Lii nekkul rekk ay gént waaye dafay fës saa su ne ci kàddu ak yëngu-yënguy pólótigu ñaari njiit yii.
+1	Lii	_	PRON	_	_	2	subj	_	_
+2	nekkul	_	VERB	_	_	0	mod	_	_
+3	rekk	_	ADV	_	_	2	mod	_	_
+4	ay	_	DET	_	_	5	det	_	_
+5	gént	_	NOUN	_	_	2	comp:obj	_	_
+6	waaye	_	CCONJ	_	_	7	cc	_	_
+7	dafay	_	AUX	_	_	2	conj	_	_
+8	fës	_	VERB	_	_	7	comp:aux	_	_
+9	saa	_	NOUN	_	_	7	mod	_	_
+10	su	_	PRON	_	_	11	subj	_	_
+11	ne	_	VERB	_	_	9	mod	_	_
+12	ci	_	ADP	_	_	7	udep	_	_
+13	kàddu	_	NOUN	_	_	12	comp:obj	_	_
+14	ak	_	CCONJ	_	_	15	cc	_	_
+15	yëngu-yënguy	_	NOUN	_	_	13	conj	_	_
+16	pólótigu	_	NOUN	_	_	15	mod	_	_
+17	ñaari	_	NUM	_	_	18	det	_	_
+18	njiit	_	NOUN	_	_	16	mod	_	_
+19	yii	_	DET	_	_	18	det	_	NoSpaceAfter=Yes
+20	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_95
+# text = Ci nii, kom li xewoon lu yàggul dara ci mbir yoo xam ne dafa laal ay njiiti pólótig, fexe ba askan wi ànd ak yaw dafay nekk lu mënul a ñàkk
+1	Ci	_	ADP	_	_	28	udep	_	_
+2	nii	_	ADV	_	_	1	comp:obj	_	NoSpaceAfter=Yes
+3	,	_	PUNCT	_	_	4	_	_	_
+4	kom	_	ADP	_	_	28	mod	_	_
+5	li	_	PRON	_	_	4	comp:obj	_	_
+6	xewoon	_	VERB	_	_	5	mod	_	_
+7	lu	_	PRON	_	_	6	comp:obj	_	_
+8	yàggul	_	VERB	_	_	7	mod	_	_
+9	dara	_	ADV	_	_	8	comp:obj	_	_
+10	ci	_	ADP	_	_	6	udep	_	_
+11	mbir	_	NOUN	_	_	10	comp:obj	_	_
+12	yoo	_	PRON	_	_	13	comp:obj	_	_
+13	xam	_	VERB	_	_	11	mod	_	_
+14	ne	_	SCONJ	_	_	13	comp:obj	_	_
+15	dafa	_	AUX	_	_	14	comp:obj	_	_
+16	laal	_	VERB	_	_	15	comp:aux	_	_
+17	ay	_	DET	_	_	18	det	_	_
+18	njiiti	_	NOUN	_	_	15	comp:obj	_	_
+19	pólótig	_	NOUN	_	_	18	mod	_	NoSpaceAfter=Yes
+20	,	_	PUNCT	_	_	4	punct	_	_
+21	fexe	_	VERB	_	_	28	subj	_	_
+22	ba	_	SCONJ	_	_	21	mod	_	_
+23	askan	_	NOUN	_	_	25	subj	_	_
+24	wi	_	DET	_	_	23	det	_	_
+25	ànd	_	VERB	_	_	_	_	_	_
+26	ak	_	ADP	_	_	25	udep	_	_
+27	yaw	_	PRON	_	_	26	comp:obj	_	_
+28	dafay	_	AUX	_	_	0	root	_	_
+29	nekk	_	VERB	_	_	28	comp:obj	_	_
+30	lu	_	PRON	_	_	29	comp:obj	_	_
+31	mënul	_	VERB	_	_	30	mod	_	_
+32	a	_	PART	_	_	31	udep	_	_
+33	ñàkk	_	VERB	_	_	32	comp:obj	_	_
+
+# sent_id = Masakhane-Wolof_dev_96
+# text = Jumtuwaay yépp lañu sànni ci biti.
+# text_en = All the tools have been thrown away.
+1	Jumtuwaay	Jumtukaay	NOUN	_	_	3	comp:obj	_	Gloss=tools
+2	yépp	bépp	DET	_	_	1	det	_	Gloss=all
+3	lañu	la	AUX	_	_	0	root	_	Gloss=are
+4	sànni	sànni	VERB	_	_	3	comp:aux	_	Gloss=throw
+5	ci	ci	ADP	_	_	4	udep	_	Gloss=out
+6	biti	biti	VERB	_	_	5	comp:obj	_	Gloss=outside|NoSpaceAfter=Yes
+7	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_97
+# text = Kujje gi?
+1	Kujje	Kujje	NOUN	_	_	0	root	_	_
+2	gi	bi	DET	_	_	1	det	_	NoSpaceAfter=Yes
+3	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_98
+# text = Ay nit ñoo xam ne xamuñu wala ñuy tay-taylu ne njëndum ropplaan dees koy amal ci biir waxtaan woo xam ne dafa bari lu ca warul a senn.
+1	Ay	_	DET	_	_	2	det	_	_
+2	nit	_	NOUN	_	_	0	root	_	_
+3	ñoo	_	PRON	_	_	4	subj	_	_
+4	xam	_	VERB	_	_	2	mod	_	_
+5	ne	_	SCONJ	_	_	4	comp:obj	_	_
+6	xamuñu	_	VERB	_	_	5	comp:obj	_	_
+7	wala	_	CCONJ	_	_	9	cc	_	_
+8	ñuy	_	PRON	_	_	9	subj	_	_
+9	tay-taylu	_	VERB	_	_	6	comp:obj	_	_
+10	ne	_	SCONJ	_	_	9	comp:obj	_	_
+11	njëndum	_	NOUN	_	_	13	dislocated	_	_
+12	ropplaan	_	NOUN	_	_	11	mod	_	_
+13	dees	_	VERB	_	_	10	comp:obj	_	_
+14	koy	_	PRON	_	_	13	comp:obj	_	_
+15	amal	_	VERB	_	_	13	comp:aux	_	_
+16	ci	_	ADP	_	_	15	udep	_	_
+17	biir	_	NOUN	_	_	16	compound	_	_
+18	waxtaan	_	NOUN	_	_	16	comp:obj	_	_
+19	woo	_	PRON	_	_	20	subj	_	_
+20	xam	_	VERB	_	_	18	mod	_	_
+21	ne	_	SCONJ	_	_	20	comp:obj	_	_
+22	dafa	_	AUX	_	_	21	comp:obj	_	_
+23	bari	_	VERB	_	_	22	comp:aux	_	_
+24	lu	_	PRON	_	_	23	comp:obj	_	_
+25	ca	_	ADP	_	_	26	comp:obl	_	_
+26	warul	_	VERB	_	_	24	mod	_	_
+27	a	_	PART	_	_	26	udep	_	_
+28	senn	_	VERB	_	_	27	comp:obj	_	NoSpaceAfter=Yes
+29	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_99
+# text = Madagaskaar ak Móoritani ñoo jël ndam li.
+# text_en = Magascar and Mauritania are the winners.
+1	Madagaskaar	Madagascar	PROPN	_	_	4	subj	_	Gloss=Magascar
+2	ak	ak	CCONJ	_	_	3	cc	_	Gloss=and
+3	Móoritani	Móoritani	PROPN	_	_	1	conj	_	Gloss=Mauritania
+4	ñoo	moo	AUX	_	_	0	root	_	Gloss=are
+5	jël	jël	VERB	_	_	4	comp:aux	_	Gloss=take
+6	ndam	ndam	NOUN	_	_	5	comp:obj	_	Gloss=victory
+7	li	bi	DET	_	_	6	det	_	Gloss=the|NoSpaceAfter=Yes
+8	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_100
+# text = Ñiy yëngu ci caada dañoo mës a bëgg xeltu, kon warul jaaxal kenn li ñu bëgg a niroole li ñuy def ak dëgg gi.
+1	Ñiy	_	PRON	_	_	5	subj	_	_
+2	yëngu	_	VERB	_	_	1	mod	_	_
+3	ci	_	ADP	_	_	2	udep	_	_
+4	caada	_	NOUN	_	_	3	comp:obj	_	_
+5	dañoo	_	AUX	_	_	0	root	_	_
+6	mës	_	VERB	_	_	5	comp:aux	_	_
+7	a	_	PART	_	_	6	udep	_	_
+8	bëgg	_	VERB	_	_	7	comp:obj	_	_
+9	xeltu	_	NOUN	_	_	8	comp:obj	_	NoSpaceAfter=Yes
+10	,	_	PUNCT	_	_	12	punct	_	_
+11	kon	_	CCONJ	_	_	12	discourse	_	_
+12	warul	_	VERB	_	_	5	conj	_	_
+13	jaaxal	_	VERB	_	_	12	comp:aux	_	_
+14	kenn	_	PRON	_	_	13	comp:obj	_	_
+15	li	_	PRON	_	_	13	comp:obl	_	_
+16	ñu	_	PRON	_	_	17	subj	_	_
+17	bëgg	_	VERB	_	_	15	mod	_	_
+18	a	_	PART	_	_	17	udep	_	_
+19	niroole	_	VERB	_	_	18	comp:obj	_	_
+20	li	_	PRON	_	_	19	comp:obj	_	_
+21	ñuy	_	PRON	_	_	22	subj	_	_
+22	def	_	VERB	_	_	20	mod	_	_
+23	ak	_	ADP	_	_	19	udep	_	_
+24	dëgg	_	NOUN	_	_	23	comp:obj	_	_
+25	gi	_	DET	_	_	24	det	_	NoSpaceAfter=Yes
+26	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_102
+# text = Dunu yëkëti ay àrtu, waaye dinañu taxaw ci def ab yéglu bu jaar yoon.
+# text_en = They will not make warnings, but they will stand firm to do a proper communication
+1	Dunu	di	AUX	_	_	0	root	_	Gloss=they do not
+2	yëkëti	yëkkëti	VERB	_	_	1	comp:aux	_	Gloss=lift
+3	ay	ab	DET	_	_	4	det	_	Gloss=some
+4	àrtu	àrtu	NOUN	_	_	1	comp:obj	_	Gloss=warning|NoSpaceAfter=Yes
+5	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+6	waaye	waaye	CCONJ	_	_	7	cc	_	Gloss=but
+7	dinañu	di	AUX	_	_	1	conj	_	Gloss=they will
+8	taxaw	taxaw	VERB	_	_	7	comp:aux	_	Gloss=stand
+9	ci	ci	ADP	_	_	8	udep	_	Gloss=up
+10	def	def	VERB	_	_	9	comp:obj	_	Gloss=do
+11	ab	ab	DET	_	_	12	det	_	Gloss=a
+12	yéglu	yéglu	NOUN	_	_	10	comp:obj	_	Gloss=communication
+13	bu	bu	PRON	_	_	14	subj	_	Gloss=which
+14	jaar	jaar	VERB	_	_	12	mod	_	Gloss=go through
+15	yoon	yoon	NOUN	_	_	14	comp:obj	_	Gloss=right|NoSpaceAfter=Yes
+16	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_103
+# text = Ci boobu, la soppeey Liverpool yu am gannaaw yi ñaax leen, te gannaaw seen yeewute, waa Barcelone mujjee nañoo bàyyiku ni ay cuuj.
+1	Ci	_	ADP	_	_	4	udep	_	_
+2	boobu	_	PRON	_	_	1	comp:obj	_	NoSpaceAfter=Yes
+3	,	_	PUNCT	_	_	4	punct	_	_
+4	la	_	AUX	_	_	0	root	_	_
+5	soppeey	_	NOUN	_	_	11	subj	_	_
+6	Liverpool	_	PROPN	_	_	5	mod	_	_
+7	yu	_	PRON	_	_	8	subj	_	_
+8	am	_	VERB	_	_	6	mod	_	_
+9	gannaaw	_	NOUN	_	_	8	comp:obj	_	_
+10	yi	_	DET	_	_	5	det	_	_
+11	ñaax	_	VERB	_	_	4	comp:obj	_	_
+12	leen	_	PRON	_	_	11	comp:obj	_	NoSpaceAfter=Yes
+13	,	_	PUNCT	_	_	22	punct	_	_
+14	te	_	CCONJ	_	_	22	cc	_	_
+15	gannaaw	_	ADP	_	_	22	udep	_	_
+16	seen	_	DET	_	_	17	det	_	_
+17	yeewute	_	NOUN	_	_	15	comp:obj	_	NoSpaceAfter=Yes
+18	,	_	PUNCT	_	_	22	punct	_	_
+19	waa	_	NOUN	_	_	22	subj	_	_
+20	Barcelone	_	PROPN	_	_	19	compound	_	_
+21	mujjee	_	VERB	_	_	22	comp:aux	_	_
+22	nañoo	_	AUX	_	_	4	conj	_	_
+23	bàyyiku	_	VERB	_	_	22	comp:obj	_	_
+24	ni	_	ADP	_	_	23	udep	_	_
+25	ay	_	DET	_	_	26	det	_	_
+26	cuuj	_	NOUN	_	_	24	comp:obj	_	NoSpaceAfter=Yes
+27	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_104
+# text = Ay daan, su fekkee ne way-tàggatu yi bañ nañoo séq waxtaan ak ñoom.
+1	Ay	_	DET	_	_	2	det	_	_
+2	daan	_	NOUN	_	_	0	root	_	NoSpaceAfter=Yes
+3	,	_	PUNCT	_	_	4	punct	_	_
+4	su	_	SCONJ	_	_	2	mod	_	_
+5	fekkee	_	VERB	_	_	4	comp:obj	_	_
+6	ne	_	SCONJ	_	_	5	comp:obj	_	_
+7	way-tàggatu	_	NOUN	_	_	10	subj	_	_
+8	yi	_	DET	_	_	7	det	_	_
+9	bañ	_	VERB	_	_	10	comp:aux	_	_
+10	nañoo	_	AUX	_	_	6	comp:obj	_	_
+11	séq	_	VERB	_	_	10	comp:aux	_	_
+12	waxtaan	_	NOUN	_	_	11	comp:obj	_	_
+13	ak	_	ADP	_	_	11	udep	_	_
+14	ñoom	_	PRON	_	_	13	comp:obj	_	NoSpaceAfter=Yes
+15	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_105
+# text = Waaye nag, leer na ne tekkib yile limu màggaay, ci ay góor-góorlu yu leer te yàgg jëm ci yokk nekkinu askan wi ci déndu Afirig, doyul dara, daanaka sax amul fenn.
+1	Waaye	_	CCONJ	_	_	5	mod	_	_
+2	nag	_	ADV	_	_	1	mod	_	NoSpaceAfter=Yes
+3	,	_	PUNCT	_	_	5	punct	_	_
+4	leer	_	VERB	_	_	5	comp:aux	_	_
+5	na	_	AUX	_	_	0	root	_	_
+6	ne	_	SCONJ	_	_	5	comp:obj	_	_
+7	tekkib	_	NOUN	_	_	29	subj	_	_
+8	yile	_	DET	_	_	9	det	_	_
+9	limu	_	NOUN	_	_	7	mod	_	_
+10	màggaay	_	NOUN	_	_	9	mod	_	NoSpaceAfter=Yes
+11	,	_	PUNCT	_	_	12	punct	_	_
+12	ci	_	ADP	_	_	10	udep	_	_
+13	ay	_	DET	_	_	14	det	_	_
+14	góor-góorlu	_	NOUN	_	_	12	comp:obj	_	_
+15	yu	_	PRON	_	_	16	subj	_	_
+16	leer	_	VERB	_	_	14	mod	_	_
+17	te	_	CCONJ	_	_	18	cc	_	_
+18	yàgg	_	VERB	_	_	16	conj	_	_
+19	jëm	_	VERB	_	_	18	comp:obj	_	_
+20	ci	_	ADP	_	_	19	udep	_	_
+21	yokk	_	NOUN	_	_	20	comp:obj	_	_
+22	nekkinu	_	NOUN	_	_	21	mod	_	_
+23	askan	_	NOUN	_	_	22	mod	_	_
+24	wi	_	DET	_	_	23	det	_	_
+25	ci	_	ADP	_	_	22	udep	_	_
+26	déndu	_	NOUN	_	_	25	comp:obj	_	_
+27	Afirig	_	PROPN	_	_	26	mod	_	NoSpaceAfter=Yes
+28	,	_	PUNCT	_	_	29	punct	_	_
+29	doyul	_	AUX	_	_	6	comp:obj	_	_
+30	dara	_	ADV	_	_	29	comp:obj	_	NoSpaceAfter=Yes
+31	,	_	PUNCT	_	_	34	punct	_	_
+32	daanaka	_	ADV	_	_	34	mod	_	_
+33	sax	_	ADV	_	_	32	mod	_	_
+34	amul	_	VERB	_	_	29	conj:appos	_	_
+35	fenn	_	ADV	_	_	34	mod	_	NoSpaceAfter=Yes
+36	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_106
+# text = Sumbkatu làmb bi, Paab Caalis Fay taxawal na làmbi Tafaa Tin ak Booy Ñaŋ 2, jàpp nanu ko ci juróom-ñetti fan ca aareen nasiyonaal ba.
+1	Sumbkatu	_	NOUN	_	_	9	subj	_	_
+2	làmb	_	NOUN	_	_	1	mod	_	_
+3	bi	_	DET	_	_	1	det	_	NoSpaceAfter=Yes
+4	,	_	PUNCT	_	_	5	punct	_	_
+5	Paab	_	PROPN	_	_	1	conj:appos	_	_
+6	Caalis	_	PROPN	_	_	5	flat	_	_
+7	Fay	_	PRON	_	_	5	flat	_	_
+8	taxawal	_	VERB	_	_	9	comp:aux	_	_
+9	na	_	AUX	_	_	0	root	_	_
+10	làmbi	_	NOUN	_	_	9	comp:obj	_	_
+11	Tafaa	_	PROPN	_	_	10	mod	_	_
+12	Tin	_	PROPN	_	_	11	flat	_	_
+13	ak	_	ADP	_	_	10	udep	_	_
+14	Booy	_	PROPN	_	_	13	comp:obj	_	_
+15	Ñaŋ	_	PROPN	_	_	14	flat	_	_
+16	2	_	NUM	_	_	15	flat	_	NoSpaceAfter=Yes
+17	,	_	PUNCT	_	_	19	punct	_	_
+18	jàpp	_	VERB	_	_	19	comp:aux	_	_
+19	nanu	_	AUX	_	_	9	conj	_	_
+20	ko	_	PRON	_	_	19	comp:obj	_	_
+21	ci	_	ADP	_	_	19	udep	_	_
+22	juróom-ñetti	_	NUM	_	_	23	det	_	_
+23	fan	_	NOUN	_	_	21	comp:obj	_	_
+24	ca	_	ADP	_	_	19	udep	_	_
+25	aareen	_	NOUN	_	_	24	comp:obj	_	_
+26	nasiyonaal	_	NOUN	_	_	25	mod	_	_
+27	ba	_	DET	_	_	25	det	_	NoSpaceAfter=Yes
+28	.	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_107
+# text = Kañ la waa Senegaal di yeewu?
+# text_en = when will Senegalese people wake up?
+1	Kañ	kañ	ADV	_	_	2	mod	_	Gloss=when
+2	la	la	AUX	_	_	0	root	_	Gloss=are
+3	waa	waa	NOUN	_	_	5	subj	_	Gloss=people of
+4	Senegaal	Senegaal	PROPN	_	_	3	compound	_	Gloss=Senegal
+5	di	di	AUX	_	_	2	comp:aux	_	Gloss=will
+6	yeewu	yeewu	VERB	_	_	5	comp:aux	_	Gloss=wake up|NoSpaceAfter=Yes
+7	?	?	PUNCT	_	_	2	punct	_	Gloss=?
+
+# sent_id = Masakhane-Wolof_dev_108
+# text = Pep dellusi na ci yoon, gànnaaw ba ñu ko dugalee ab bit, mu teg ñaari juróom-ñeent (9) ak benn juróom-benn (6).
+1	Pep	_	PRON	_	_	3	subj	_	_
+2	dellusi	_	VERB	_	_	3	comp:aux	_	_
+3	na	_	AUX	_	_	0	root	_	_
+4	ci	_	ADP	_	_	3	udep	_	_
+5	yoon	_	NOUN	_	_	4	comp:obj	_	NoSpaceAfter=Yes
+6	,	_	PUNCT	_	_	7	punct	_	_
+7	gànnaaw	_	ADV	_	_	3	mod	_	_
+8	ba	_	SCONJ	_	_	7	comp:obj	_	_
+9	ñu	_	PRON	_	_	11	subj	_	_
+10	ko	_	PRON	_	_	11	comp:obj	_	_
+11	dugalee	_	VERB	_	_	8	comp:obj	_	_
+12	ab	_	DET	_	_	13	det	_	_
+13	bit	_	NOUN	_	_	11	comp:obj	_	NoSpaceAfter=Yes
+14	,	_	PUNCT	_	_	16	punct	_	_
+15	mu	_	PRON	_	_	16	subj	_	_
+16	teg	_	VERB	_	_	11	conj:appos	_	_
+17	ñaari	_	NUM	_	_	16	mod	_	_
+18	juróom-ñeent	_	NUM	_	_	17	compound	_	_
+19	(	_	PUNCT	_	_	20	punct	_	NoSpaceAfter=Yes
+20	9	_	NUM	_	_	18	conj:appos	_	_
+21	)	_	PUNCT	_	_	20	punct	_	_
+22	ak	_	CCONJ	_	_	23	cc	_	_
+23	benn	_	NUM	_	_	18	conj	_	_
+24	juróom-benn	_	NUM	_	_	23	compound	_	_
+25	(	_	PUNCT	_	_	26	punct	_	NoSpaceAfter=Yes
+26	6	_	NUM	_	_	24	conj:appos	_	_
+27	)	_	PUNCT	_	_	26	punct	_	NoSpaceAfter=Yes
+28	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_109
+# text = Pólisu Farãas taxaw na ci siifeb liggéey bu am xaalis ak bérébu liggéeyukaayu Farãas bi, Tactical Steel, bu sampu ci Var bi, jàpp Seyne-sur-Mer.
+1	Pólisu	_	NOUN	_	_	4	subj	_	_
+2	Farãas	_	PROPN	_	_	1	mod	_	_
+3	taxaw	_	VERB	_	_	4	comp:aux	_	_
+4	na	_	AUX	_	_	0	punct	_	_
+5	ci	_	ADP	_	_	4	udep	_	_
+6	siifeb	_	NOUN	_	_	5	comp:obj	_	_
+7	liggéey	_	NOUN	_	_	6	mod	_	_
+8	bu	_	PRON	_	_	9	subj	_	_
+9	am	_	VERB	_	_	7	mod	_	_
+10	xaalis	_	NOUN	_	_	9	comp:obj	_	_
+11	ak	_	ADP	_	_	7	udep	_	_
+12	bérébu	_	NOUN	_	_	11	comp:obj	_	_
+13	liggéeyukaayu	_	NOUN	_	_	12	mod	_	_
+14	Farãas	_	PROPN	_	_	13	mod	_	_
+15	bi	_	DET	_	_	12	det	_	NoSpaceAfter=Yes
+16	,	_	PUNCT	_	_	17	punct	_	_
+17	Tactical	_	PROPN	_	_	12	conj:appos	_	_
+18	Steel	_	PROPN	_	_	17	flat	_	NoSpaceAfter=Yes
+19	,	_	PUNCT	_	_	21	punct	_	_
+20	bu	_	PRON	_	_	21	subj	_	_
+21	sampu	_	VERB	_	_	12	mod	_	_
+22	ci	_	ADP	_	_	21	udep	_	_
+23	Var	_	PROPN	_	_	22	comp:obj	_	_
+24	bi	_	DET	_	_	23	det	_	NoSpaceAfter=Yes
+25	,	_	PUNCT	_	_	26	punct	_	_
+26	jàpp	_	VERB	_	_	21	conj	_	_
+27	Seyne-sur-Mer	_	PROPN	_	_	26	comp:obj	_	NoSpaceAfter=Yes
+28	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_110
+# text = Tënkub ay jukki yu Lazare Ki-Zerbo a door, CETIM, 2015.
+1	Tënkub	_	NOUN	_	_	0	root	_	_
+2	ay	_	DET	_	_	3	det	_	_
+3	jukki	_	NOUN	_	_	1	mod	_	_
+4	yu	_	PRON	_	_	7	comp:obj	_	_
+5	Lazare	_	PROPN	_	_	7	subj	_	_
+6	Ki-Zerbo	_	PROPN	_	_	5	flat	_	_
+7	a	_	PART	_	_	1	mod	_	_
+8	door	_	VERB	_	_	7	comp:aux	_	NoSpaceAfter=Yes
+9	,	_	PUNCT	_	_	10	punct	_	_
+10	CETIM	_	PROPN	_	_	7	conj:appos	_	NoSpaceAfter=Yes
+11	,	_	PUNCT	_	_	12	punct	_	_
+12	2015	_	NUM	_	_	10	mod	_	NoSpaceAfter=Yes
+13	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_111
+# text = Noppi na ci def goneg fukk ak ñetti at gi (13) ab fowukaay.
+1	Noppi	_	VERB	_	_	2	comp:aux	_	_
+2	na	_	AUX	_	_	0	root	_	_
+3	ci	_	ADP	_	_	2	udep	_	_
+4	def	_	VERB	_	_	3	comp:obj	_	_
+5	goneg	_	NOUN	_	_	4	comp:obj	_	_
+6	fukk	_	NUM	_	_	9	det	_	_
+7	ak	_	CCONJ	_	_	8	cc	_	_
+8	ñetti	_	NUM	_	_	6	conj	_	_
+9	at	_	NOUN	_	_	8	mod	_	_
+10	gi	_	DET	_	_	5	det	_	_
+11	(	_	PUNCT	_	_	12	punct	_	NoSpaceAfter=Yes
+12	13	_	NUM	_	_	9	det	_	_
+13	)	_	PUNCT	_	_	12	punct	_	_
+14	ab	_	DET	_	_	15	det	_	_
+15	fowukaay	_	NOUN	_	_	4	comp:obl	_	NoSpaceAfter=Yes
+16	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_112
+# text = Ku mujj ki, dañu koo jàpp, yóbbu ko ca kasog Mbàkke ga, ngir ay dóor ak gaañ yu mu tay def ko.
+1	Ku	_	PRON	_	_	5	dislocated	_	_
+2	mujj	_	VERB	_	_	1	mod	_	_
+3	ki	_	DET	_	_	1	det	_	NoSpaceAfter=Yes
+4	,	_	PUNCT	_	_	5	punct	_	_
+5	dañu	_	AUX	_	_	0	root	_	_
+6	koo	_	PRON	_	_	5	comp:obj	_	_
+7	jàpp	_	VERB	_	_	5	comp:aux	_	NoSpaceAfter=Yes
+8	,	_	PUNCT	_	_	9	punct	_	_
+9	yóbbu	_	VERB	_	_	7	conj	_	_
+10	ko	_	PRON	_	_	9	comp:obj	_	_
+11	ca	_	ADP	_	_	9	udep	_	_
+12	kasog	_	NOUN	_	_	11	comp:obj	_	_
+13	Mbàkke	_	PROPN	_	_	12	mod	_	_
+14	ga	_	DET	_	_	12	det	_	NoSpaceAfter=Yes
+15	,	_	PUNCT	_	_	16	punct	_	_
+16	ngir	_	ADP	_	_	5	udep	_	_
+17	ay	_	DET	_	_	18	det	_	_
+18	dóor	_	NOUN	_	_	16	comp:obj	_	_
+19	ak	_	CCONJ	_	_	20	cc	_	_
+20	gaañ	_	NOUN	_	_	18	conj	_	_
+21	yu	_	PRON	_	_	23	comp:obj	_	_
+22	mu	_	PRON	_	_	23	subj	_	_
+23	tay	_	VERB	_	_	20	mod	_	_
+24	def	_	VERB	_	_	23	comp:aux	_	_
+25	ko	_	PRON	_	_	24	comp:obj	_	NoSpaceAfter=Yes
+26	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_115
+# text = Wile nekkin, mujjee naa diis ci doomu Senegaal ji ma doon, moo mujjee doon aw sas ci man, ngir sama réew.
+1	Wile	_	DET	_	_	2	det	_	_
+2	nekkin	_	NOUN	_	_	5	dislocated	_	NoSpaceAfter=Yes
+3	,	_	PUNCT	_	_	5	punct	_	_
+4	mujjee	_	VERB	_	_	5	comp:aux	_	_
+5	naa	_	AUX	_	_	0	root	_	_
+6	diis	_	VERB	_	_	5	comp:obj	_	_
+7	ci	_	ADP	_	_	6	udep	_	_
+8	doomu	_	NOUN	_	_	7	comp:obj	_	_
+9	Senegaal	_	PROPN	_	_	8	mod	_	_
+10	ji	_	PRON	_	_	12	comp:cleft	_	_
+11	ma	_	PRON	_	_	12	subj	_	_
+12	doon	_	VERB	_	_	8	mod	_	NoSpaceAfter=Yes
+13	,	_	PUNCT	_	_	14	punct	_	_
+14	moo	_	AUX	_	_	5	conj:appos	_	_
+15	mujjee	_	VERB	_	_	14	comp:aux	_	_
+16	doon	_	AUX	_	_	14	comp:obj	_	_
+17	aw	_	DET	_	_	18	det	_	_
+18	sas	_	NOUN	_	_	16	comp:cleft	_	_
+19	ci	_	ADP	_	_	18	udep	_	_
+20	man	_	PRON	_	_	19	comp:obj	_	NoSpaceAfter=Yes
+21	,	_	PUNCT	_	_	22	punct	_	_
+22	ngir	_	ADP	_	_	20	mod	_	_
+23	sama	_	DET	_	_	24	det	_	_
+24	réew	_	NOUN	_	_	22	comp:obj	_	NoSpaceAfter=Yes
+25	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_116
+# text = Yàlla na Yàlla teeru leen ca aljana ya, te mu dimbali Sëriñ Saaliw Cuun ci yenam biy soog a door.
+1	Yàlla	_	PROPN	_	_	2	subj	_	_
+2	na	_	AUX	_	_	0	root	_	_
+3	Yàlla	_	PROPN	_	_	4	subj	_	_
+4	teeru	_	VERB	_	_	2	comp:obj	_	_
+5	leen	_	PRON	_	_	4	comp:obj	_	_
+6	ca	_	ADP	_	_	4	udep	_	_
+7	aljana	_	NOUN	_	_	6	comp:obj	_	_
+8	ya	_	DET	_	_	7	det	_	NoSpaceAfter=Yes
+9	,	_	PUNCT	_	_	12	punct	_	_
+10	te	_	CCONJ	_	_	12	cc	_	_
+11	mu	_	PRON	_	_	12	subj	_	_
+12	dimbali	_	VERB	_	_	2	conj	_	_
+13	Sëriñ	_	PROPN	_	_	12	comp:obj	_	_
+14	Saaliw	_	PROPN	_	_	13	flat	_	_
+15	Cuun	_	PROPN	_	_	13	flat	_	_
+16	ci	_	ADP	_	_	12	udep	_	_
+17	yenam	_	NOUN	_	_	16	comp:obj	_	_
+18	biy	_	PRON	_	_	19	subj	_	_
+19	soog	_	VERB	_	_	17	mod	_	_
+20	a	_	PART	_	_	19	udep	_	_
+21	door	_	VERB	_	_	20	comp:obj	_	NoSpaceAfter=Yes
+22	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_117
+# text = Ñun kurélu pólótig la, juddu ngir def pólótig, amul leneen lu dul pólótig, waaye neneen nu dul ni ñu mës a daan gise.
+1	Ñun	_	PRON	_	_	4	subj	_	_
+2	kurélu	_	NOUN	_	_	4	comp:cleft	_	_
+3	pólótig	_	NOUN	_	_	2	mod	_	_
+4	la	_	AUX	_	_	0	root	_	NoSpaceAfter=Yes
+5	,	_	PUNCT	_	_	6	punct	_	_
+6	juddu	_	VERB	_	_	4	conj:appos	_	_
+7	ngir	_	ADP	_	_	6	mod	_	_
+8	def	_	VERB	_	_	7	comp:obj	_	_
+9	pólótig	_	NOUN	_	_	8	comp:obj	_	NoSpaceAfter=Yes
+10	,	_	PUNCT	_	_	11	punct	_	_
+11	amul	_	VERB	_	_	4	conj:appos	_	_
+12	leneen	_	PRON	_	_	11	comp:obj	_	_
+13	lu	_	PRON	_	_	14	subj	_	_
+14	dul	_	AUX	_	_	12	mod	_	_
+15	pólótig	_	NOUN	_	_	14	comp:cleft	_	NoSpaceAfter=Yes
+16	,	_	PUNCT	_	_	18	punct	_	_
+17	waaye	_	CCONJ	_	_	18	cc	_	_
+18	neneen	_	ADV	_	_	15	conj	_	_
+19	nu	_	PRON	_	_	20	subj	_	_
+20	dul	_	AUX	_	_	18	mod	_	_
+21	ni	_	ADV	_	_	20	comp:cleft	_	_
+22	ñu	_	PRON	_	_	23	subj	_	_
+23	mës	_	VERB	_	_	21	mod	_	_
+24	a	_	PART	_	_	23	udep	_	_
+25	daan	_	AUX	_	_	24	comp:obj	_	_
+26	gise	_	VERB	_	_	25	comp:aux	_	NoSpaceAfter=Yes
+27	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_118
+# text = Soppu ak neex a jege, lu ndaw te reelu, mujjee naa taxawal ab poñ bu ñu xam ci géewu pólótig bi.
+1	Soppu	_	NOUN	_	_	13	dislocated	_	_
+2	ak	_	CCONJ	_	_	3	cc	_	_
+3	neex	_	VERB	_	_	1	conj	_	_
+4	a	_	PART	_	_	3	udep	_	_
+5	jege	_	VERB	_	_	4	comp:obj	_	NoSpaceAfter=Yes
+6	,	_	PUNCT	_	_	7	punct	_	_
+7	lu	_	PRON	_	_	1	conj:appos	_	_
+8	ndaw	_	VERB	_	_	7	mod	_	_
+9	te	_	CCONJ	_	_	10	cc	_	_
+10	reelu	_	VERB	_	_	8	conj	_	NoSpaceAfter=Yes
+11	,	_	PUNCT	_	_	13	punct	_	_
+12	mujjee	_	VERB	_	_	13	comp:aux	_	_
+13	naa	_	AUX	_	_	0	root	_	_
+14	taxawal	_	VERB	_	_	13	comp:aux	_	_
+15	ab	_	DET	_	_	16	det	_	_
+16	poñ	_	NOUN	_	_	14	comp:obj	_	_
+17	bu	_	PRON	_	_	19	comp:obj	_	_
+18	ñu	_	PRON	_	_	19	subj	_	_
+19	xam	_	VERB	_	_	16	mod	_	_
+20	ci	_	ADP	_	_	19	udep	_	_
+21	géewu	_	NOUN	_	_	20	comp:obj	_	_
+22	pólótig	_	NOUN	_	_	21	mod	_	_
+23	bi	_	DET	_	_	21	det	_	NoSpaceAfter=Yes
+24	.	_	PUNCT	_	_	13	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_120
+# text = Maki Sàll a ngi liggéey sunu réew mi , ci jamono ji doomu mbedd yi di nekk ci tele yi ak rajoy Ndakaaru yi di nu ray saa su nekk ak seen njàngat yu amul solo yi .
+1	Maki	_	PROPN	_	_	4	subj	_	_
+2	Sàll	_	PROPN	_	_	1	flat	_	_
+3	a	_	PART	_	_	4	comp:aux	_	_
+4	ngi	_	AUX	_	_	0	root	_	_
+5	liggéey	_	VERB	_	_	4	comp:aux	_	_
+6	sunu	_	DET	_	_	7	det	_	_
+7	réew	_	NOUN	_	_	4	comp:obj	_	_
+8	mi	_	DET	_	_	7	det	_	NoSpaceAfter=Yes
+9	,	_	PUNCT	_	_	4	punct	_	_
+10	ci	_	ADP	_	_	4	udep	_	_
+11	jamono	_	NOUN	_	_	10	comp:obj	_	_
+12	ji	_	PRON	_	_	16	comp:obj	_	_
+13	doomu	_	NOUN	_	_	16	subj	_	_
+14	mbedd	_	NOUN	_	_	13	mod	_	_
+15	yi	yi	DET	_	_	14	det	_	_
+16	di	di	PRON	_	_	11	mod	_	_
+17	nekk	_	VERB	_	_	16	comp:aux	_	_
+18	ci	_	ADP	_	_	16	udep	_	_
+19	tele	_	NOUN	_	_	18	comp:obj	_	_
+20	yi	yi	DET	_	_	19	det	_	_
+21	ak	ak	CCONJ	_	_	22	cc	_	_
+22	rajoy	_	NOUN	_	_	19	conj	_	_
+23	Ndakaaru	_	PROPN	_	_	22	mod	_	_
+24	yi	_	DET	_	_	22	det	_	_
+25	di	_	AUX	_	_	16	conj	_	_
+26	nu	_	PRON	_	_	27	comp:obj	_	_
+27	ray	_	VERB	_	_	25	comp:aux	_	_
+28	saa	_	NOUN	_	_	27	udep	_	_
+29	su	_	PRON	_	_	30	subj	_	_
+30	nekk	_	VERB	_	_	28	mod	_	_
+31	ak	_	ADP	_	_	27	udep	_	_
+32	seen	_	DET	_	_	33	det	_	_
+33	njàngat	_	NOUN	_	_	31	comp:obj	_	_
+34	yu	_	PRON	_	_	35	subj	_	_
+35	amul	_	VERB	_	_	33	mod	_	_
+36	solo	_	NOUN	_	_	35	comp:obj	_	_
+37	yi	_	DET	_	_	33	det	_	NoSpaceAfter=Yes
+38	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_121
+# text = Baax na ñuy jaaxlewu ngir teggin ak kersa, yi tax ba Usmaan Sónko bañ a jañ yombalug njabootu Njaga Ndóoy, fi ñeneen ñi meloon ni ñu ko xaarul woon benn yoon.
+1	Baax	_	VERB	_	_	2	comp:aux	_	_
+2	na	_	AUX	_	_	0	root	_	_
+3	ñuy	_	PRON	_	_	4	subj	_	_
+4	jaaxlewu	_	VERB	_	_	2	comp:obj	_	_
+5	ngir	_	ADP	_	_	4	udep	_	_
+6	teggin	_	NOUN	_	_	5	comp:obj	_	_
+7	ak	_	CCONJ	_	_	8	cc	_	_
+8	kersa	_	NOUN	_	_	6	conj	_	NoSpaceAfter=Yes
+9	,	_	PUNCT	_	_	11	subj	_	_
+10	yi	_	PRON	_	_	11	subj	_	_
+11	tax	_	VERB	_	_	6	mod	_	_
+12	ba	_	SCONJ	_	_	11	comp:obj	_	_
+13	Usmaan	_	PROPN	_	_	15	subj	_	_
+14	Sónko	_	PROPN	_	_	13	flat	_	_
+15	bañ	_	VERB	_	_	12	comp:obj	_	_
+16	a	_	PART	_	_	15	udep	_	_
+17	jañ	_	VERB	_	_	16	comp:obj	_	_
+18	yombalug	_	NOUN	_	_	17	comp:obj	_	_
+19	njabootu	_	NOUN	_	_	18	mod	_	_
+20	Njaga	_	PROPN	_	_	19	mod	_	_
+21	Ndóoy	_	PROPN	_	_	20	flat	_	NoSpaceAfter=Yes
+22	,	_	PUNCT	_	_	31	punct	_	_
+23	fi	_	ADV	_	_	31	mod	_	_
+24	ñeneen	_	NOUN	_	_	_	_	_	_
+25	ñi	_	PRON	_	_	26	subj	_	_
+26	meloon	_	VERB	_	_	24	mod	_	_
+27	ni	_	ADP	_	_	26	udep	_	_
+28	ñu	_	PRON	_	_	27	comp:obj	_	_
+29	ko	_	PRON	_	_	31	comp:obj	_	_
+30	xaarul	_	VERB	_	_	31	comp:aux	_	_
+31	woon	_	AUX	_	_	17	mod	_	_
+32	benn	_	DET	_	_	33	det	_	_
+33	yoon	_	NOUN	_	_	31	comp:obj	_	NoSpaceAfter=Yes
+34	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_122
+# text = Futbalkatu digg bu Bruges bi , Kerepee Jaata dugal na balu ñaareel bi ci ab àndandoo bu rafet , lu tolloo ak ñaar-fukki meetar ( 20 ) , ngir fayul benn bal bu waa Tanzanie mball .
+1	Futbalkatu	_	NOUN	_	_	10	subj	_	_
+2	digg	_	NOUN	_	_	1	mod	_	_
+3	bu	_	PRON	_	_	1	udep	_	_
+4	Bruges	_	PROPN	_	_	3	comp:obj	_	_
+5	bi	_	DET	_	_	1	det	_	NoSpaceAfter=Yes
+6	,	_	PUNCT	_	_	7	punct	_	_
+7	Kerepee	_	PROPN	_	_	1	conj:appos	_	_
+8	Jaata	_	PROPN	_	_	7	flat	_	_
+9	dugal	_	VERB	_	_	10	comp:aux	_	_
+10	na	_	AUX	_	_	0	root	_	_
+11	balu	_	NOUN	_	_	10	comp:obj	_	_
+12	ñaareel	_	NUM	_	_	11	mod	_	_
+13	bi	_	DET	_	_	12	det	_	_
+14	ci	ci	ADP	_	_	10	udep	_	_
+15	ab	ab	DET	_	_	16	det	_	_
+16	àndandoo	_	NOUN	_	_	14	comp:obj	_	_
+17	bu	_	PRON	_	_	18	subj	_	_
+18	rafet	_	VERB	_	_	16	mod	_	NoSpaceAfter=Yes
+19	,	_	PUNCT	_	_	20	punct	_	_
+20	lu	_	PRON	_	_	_	_	_	_
+21	tolloo	tolloo	VERB	_	_	20	mod	_	_
+22	ak	ak	ADP	_	_	21	udep	_	_
+23	ñaar-fukki	_	NUM	_	_	24	mod	_	_
+24	meetar	_	NOUN	_	_	22	comp:obj	_	_
+25	(	_	PUNCT	_	_	26	punct	_	NoSpaceAfter=Yes
+26	20	_	NUM	_	_	24	mod	_	_
+27	)	_	PUNCT	_	_	26	punct	_	NoSpaceAfter=Yes
+28	,	_	PUNCT	_	_	29	punct	_	_
+29	ngir	_	ADP	_	_	10	mod	_	_
+30	fayul	_	VERB	_	_	29	comp:obj	_	_
+31	benn	_	NUM	_	_	32	det	_	_
+32	bal	_	NOUN	_	_	30	comp:obj	_	_
+33	bu	_	PRON	_	_	36	comp:obj	_	_
+34	waa	_	NOUN	_	_	36	subj	_	_
+35	Tanzanie	_	PROPN	_	_	34	compound	_	_
+36	mball	_	VERB	_	_	32	mod	_	NoSpaceAfter=Yes
+37	.	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_123
+# text = Alxuraan ji nekkul almet bu ñuy jëfandikoo saa bu nga amee ay jëflante yu nga bëgg a faj .
+1	Alxuraan	_	NOUN	_	_	3	subj	_	_
+2	ji	_	PRON	_	_	1	det	_	_
+3	nekkul	_	VERB	_	_	0	root	_	_
+4	almet	_	NOUN	_	_	3	comp:obj	_	_
+5	bu	_	PRON	_	_	7	comp:obj	_	_
+6	ñuy	_	PRON	_	_	7	subj	_	_
+7	jëfandikoo	_	VERB	_	_	4	mod	_	_
+8	saa	_	NOUN	_	_	7	mod	_	_
+9	bu	bu	PRON	_	_	11	comp:obj	_	_
+10	nga	nga	PRON	_	_	11	subj	_	_
+11	amee	_	VERB	_	_	8	mod	_	_
+12	ay	_	DET	_	_	13	det	_	_
+13	jëflante	_	NOUN	_	_	11	comp:obj	_	_
+14	yu	yu	PRON	_	_	16	comp:obj	_	_
+15	nga	nga	PRON	_	_	16	subj	_	_
+16	bëgg	_	VERB	_	_	13	mod	_	_
+17	a	_	PART	_	_	16	udep	_	_
+18	faj	_	VERB	_	_	17	comp:obj	_	NoSpaceAfter=Yes
+19	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_124
+# text = ADD: ca MOJIP FARÃAS, am nanu ay naal yu bare yu jëm ci jigéeni waa Senegaal.
+1	ADD	_	PROPN	_	_	8	subj	_	NoSpaceAfter=Yes
+2	:	_	PUNCT	_	_	3	punct	_	_
+3	ca	_	ADP	_	_	1	udep	_	_
+4	MOJIP	_	PROPN	_	_	3	comp:obj	_	_
+5	FARÃAS	_	PROPN	_	_	4	flat	_	NoSpaceAfter=Yes
+6	,	_	PUNCT	_	_	8	punct	_	_
+7	am	_	VERB	_	_	8	comp:aux	_	_
+8	nanu	_	AUX	_	_	0	root	_	_
+9	ay	_	DET	_	_	10	det	_	_
+10	naal	_	NOUN	_	_	8	comp:obj	_	_
+11	yu	_	PRON	_	_	12	subj	_	_
+12	bare	_	VERB	_	_	10	mod	_	_
+13	yu	_	PRON	_	_	14	subj	_	_
+14	jëm	_	VERB	_	_	10	mod	_	_
+15	ci	_	ADP	_	_	14	udep	_	_
+16	jigéeni	_	NOUN	_	_	15	comp:obj	_	_
+17	waa	_	NOUN	_	_	16	mod	_	_
+18	Senegaal	_	PROPN	_	_	17	compound	_	NoSpaceAfter=Yes
+19	.	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_126
+# text = Kon , fàww nga nekk ku xamul tus ngir mën a taxawal yoon wuy xeex jublu ci sàmm kumpa , ndax xabaabal ci njëg li nu fésal ci awiyoŋu Airbus A320 , mën na yombal , luy tolloo ak ay téeméeri milyoŋ , ngir xam njëgu awiyoŋ bi nu digee jënd .
+1	Kon	_	CCONJ	_	_	5	cc	_	NoSpaceAfter=Yes
+2	,	_	PUNCT	_	_	5	punct	_	_
+3	fàww	_	ADV	_	_	5	mod	_	_
+4	nga	_	PRON	_	_	5	subj	_	_
+5	nekk	_	VERB	_	_	0	root	_	_
+6	ku	_	PRON	_	_	5	comp:obj	_	_
+7	xamul	_	VERB	_	_	6	mod	_	_
+8	tus	_	ADV	_	_	7	comp:obj	_	_
+9	ngir	_	ADP	_	_	5	udep	_	_
+10	mën	_	VERB	_	_	9	comp:obj	_	_
+11	a	_	PART	_	_	10	udep	_	_
+12	taxawal	_	VERB	_	_	11	comp:obj	_	_
+13	yoon	_	NOUN	_	_	12	comp:obj	_	_
+14	wuy	_	PRON	_	_	15	subj	_	_
+15	xeex	_	VERB	_	_	13	mod	_	_
+16	jublu	_	VERB	_	_	15	comp:obj	_	_
+17	ci	_	ADP	_	_	16	udep	_	_
+18	sàmm	_	VERB	_	_	17	comp:obj	_	_
+19	kumpa	_	NOUN	_	_	18	comp:obj	_	NoSpaceAfter=Yes
+20	,	_	PUNCT	_	_	5	punct	_	_
+21	ndax	_	SCONJ	_	_	5	comp:obj	_	_
+22	xabaabal	_	VERB	_	_	34	subj	_	_
+23	ci	_	ADP	_	_	22	udep	_	_
+24	njëg	_	NOUN	_	_	23	comp:obj	_	_
+25	li	_	PRON	_	_	24	comp:obj	_	_
+26	nu	_	PRON	_	_	27	subj	_	_
+27	fésal	_	VERB	_	_	25	mod	_	_
+28	ci	_	ADP	_	_	27	udep	_	_
+29	awiyoŋu	_	NOUN	_	_	28	comp:obj	_	_
+30	Airbus	_	PROPN	_	_	29	mod	_	_
+31	A320	_	PROPN	_	_	30	flat	_	NoSpaceAfter=Yes
+32	,	_	PUNCT	_	_	34	punct	_	_
+33	mën	_	VERB	_	_	34	comp:aux	_	_
+34	na	_	AUX	_	_	21	comp:obj	_	_
+35	yombal	_	VERB	_	_	34	comp:obj	_	NoSpaceAfter=Yes
+36	,	_	PUNCT	_	_	37	punct	_	_
+37	luy	_	PRON	_	_	35	comp:obj	_	_
+38	tolloo	tolloo	VERB	_	_	37	mod	_	_
+39	ak	ak	ADP	_	_	38	udep	_	_
+40	ay	_	DET	_	_	41	det	_	_
+41	téeméeri	_	NUM	_	_	39	comp:obj	_	_
+42	milyoŋ	_	NOUN	_	_	41	mod	_	NoSpaceAfter=Yes
+43	,	_	PUNCT	_	_	44	punct	_	_
+44	ngir	_	ADP	_	_	34	udep	_	_
+45	xam	_	VERB	_	_	44	comp:obj	_	_
+46	njëgu	_	NOUN	_	_	45	comp:obj	_	_
+47	awiyoŋ	_	NOUN	_	_	46	mod	_	_
+48	bi	_	PRON	_	_	50	comp:obj	_	_
+49	nu	_	PRON	_	_	50	subj	_	_
+50	digee	_	VERB	_	_	47	mod	_	_
+51	jënd	_	VERB	_	_	50	comp:obj	_	NoSpaceAfter=Yes
+52	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_127
+# text = Feeñal ne dina ormaal li mu nar, këlëb bu merengue bi fésal na ne Zidane mooy kéemtaan lu mag li nekk Real Madrid, te jaar-jaaram romb na li mu mës a nekk tàggatkat ak way-tàggatu ci sunu këlëb bi.
+1	Feeñal	_	VERB	_	_	0	root	_	_
+2	ne	_	SCONJ	_	_	1	comp:obj	_	_
+3	dina	_	AUX	_	_	2	comp:obj	_	_
+4	ormaal	_	VERB	_	_	3	comp:aux	_	_
+5	li	_	PRON	_	_	4	comp:obj	_	_
+6	mu	_	PRON	_	_	7	subj	_	_
+7	nar	_	VERB	_	_	5	mod	_	NoSpaceAfter=Yes
+8	,	_	PUNCT	_	_	14	punct	_	_
+9	këlëb	_	NOUN	_	_	14	subj	_	_
+10	bu	_	PRON	_	_	9	udep	_	_
+11	merengue	_	NOUN	_	_	10	comp:obj	_	_
+12	bi	_	DET	_	_	_	_	_	_
+13	fésal	_	VERB	_	_	14	comp:aux	_	_
+14	na	_	AUX	_	_	1	conj:appos	_	_
+15	ne	_	SCONJ	_	_	14	comp:obj	_	_
+16	Zidane	_	PROPN	_	_	17	subj	_	_
+17	mooy	_	AUX	_	_	15	comp:obj	_	_
+18	kéemtaan	_	NOUN	_	_	17	comp:cleft	_	_
+19	lu	_	PRON	_	_	20	subj	_	_
+20	mag	_	VERB	_	_	18	mod	_	_
+21	li	_	DET	_	_	22	subj	_	_
+22	nekk	_	VERB	_	_	18	mod	_	_
+23	Real	_	PROPN	_	_	22	comp:obj	_	_
+24	Madrid	_	PROPN	_	_	23	flat	_	NoSpaceAfter=Yes
+25	,	_	PUNCT	_	_	29	punct	_	_
+26	te	_	CCONJ	_	_	29	cc	_	_
+27	jaar-jaaram	_	NOUN	_	_	29	subj	_	_
+28	romb	_	VERB	_	_	29	comp:aux	_	_
+29	na	_	AUX	_	_	17	conj	_	_
+30	li	_	PRON	_	_	29	comp:obj	_	_
+31	mu	_	PRON	_	_	32	subj	_	_
+32	mës	_	VERB	_	_	30	mod	_	_
+33	a	_	PART	_	_	32	udep	_	_
+34	nekk	_	VERB	_	_	33	comp:aux	_	_
+35	tàggatkat	_	NOUN	_	_	34	comp:obj	_	_
+36	ak	_	CCONJ	_	_	37	cc	_	_
+37	way-tàggatu	_	NOUN	_	_	35	conj	_	_
+38	ci	_	ADP	_	_	34	udep	_	_
+39	sunu	_	DET	_	_	40	det	_	_
+40	këlëb	_	NOUN	_	_	38	comp:obj	_	_
+41	bi	_	DET	_	_	40	det	_	NoSpaceAfter=Yes
+42	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_128
+# text = Li am solo, loolu la wax, """" mooy mën-mënu nguur gi ci fay, waaye nekkul ci yemukaayu bor bi nga xam ne, moo ngi ci doxinu nguur gu nekk, gu bëgg a jëm kanam. """"
+1	Li	_	PRON	_	_	6	dislocated	_	_
+2	am	_	VERB	_	_	1	mod	_	_
+3	solo	_	NOUN	_	_	2	comp:obj	_	NoSpaceAfter=Yes
+4	,	_	PUNCT	_	_	6	punct	_	_
+5	loolu	_	PRON	_	_	6	comp:obj	_	_
+6	la	_	AUX	_	_	0	root	_	_
+7	wax	_	VERB	_	_	6	comp:aux	_	NoSpaceAfter=Yes
+8	,	_	PUNCT	_	_	10	punct	_	_
+9	""""	_	PUNCT	_	_	10	punct	_	_
+10	mooy	_	AUX	_	_	6	conj:appos	_	_
+11	mën-mënu	_	NOUN	_	_	10	comp:cleft	_	_
+12	nguur	_	NOUN	_	_	11	mod	_	_
+13	gi	_	DET	_	_	12	det	_	_
+14	ci	_	ADP	_	_	11	udep	_	_
+15	fay	_	VERB	_	_	14	comp:obj	_	NoSpaceAfter=Yes
+16	,	_	PUNCT	_	_	18	punct	_	_
+17	waaye	_	CCONJ	_	_	18	cc	_	_
+18	nekkul	_	VERB	_	_	6	conj	_	_
+19	ci	_	ADP	_	_	18	udep	_	_
+20	yemukaayu	_	NOUN	_	_	19	comp:obj	_	_
+21	bor	_	NOUN	_	_	20	mod	_	_
+22	bi	_	PRON	_	_	24	comp:obj	_	_
+23	nga	_	PRON	_	_	24	subj	_	_
+24	xam	_	VERB	_	_	21	mod	_	_
+25	ne	_	SCONJ	_	_	24	comp:obj	_	NoSpaceAfter=Yes
+26	,	_	PUNCT	_	_	27	punct	_	_
+27	moo	_	AUX	_	_	25	comp:obl	_	_
+28	ngi	_	AUX	_	_	27	comp:aux	_	_
+29	ci	_	ADP	_	_	28	udep	_	_
+30	doxinu	_	NOUN	_	_	29	comp:obj	_	_
+31	nguur	_	NOUN	_	_	30	mod	_	_
+32	gu	_	PRON	_	_	33	subj	_	_
+33	nekk	_	VERB	_	_	31	mod	_	NoSpaceAfter=Yes
+34	,	_	PUNCT	_	_	36	punct	_	_
+35	gu	_	PRON	_	_	36	subj	_	_
+36	bëgg	_	VERB	_	_	33	mod	_	_
+37	a	_	PART	_	_	36	udep	_	_
+38	jëm	_	VERB	_	_	37	comp:obj	_	_
+39	kanam	_	NOUN	_	_	38	compound	_	NoSpaceAfter=Yes
+40	.	_	PUNCT	_	_	_	_	_	_
+41	""""	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_129
+# text = Paab Maalig Si, jàpp na ne Aali Nguy Njaay a waroon a waxtaane Gàmmu gi, ndax waxam ju matale te leer, loolu la ci teg ak melo wu xoromu, ba tax mbooloo mi daanu ci suuf ak i reetaan....
+1	Paab	_	PROPN	_	_	6	subj	_	_
+2	Maalig	_	PROPN	_	_	1	flat	_	_
+3	Si	_	PROPN	_	_	1	flat	_	NoSpaceAfter=Yes
+4	,	_	PUNCT	_	_	6	punct	_	_
+5	jàpp	_	VERB	_	_	6	comp:aux	_	_
+6	na	_	AUX	_	_	0	root	_	_
+7	ne	_	SCONJ	_	_	6	comp:obj	_	_
+8	Aali	_	PROPN	_	_	11	subj	_	_
+9	Nguy	_	PROPN	_	_	8	flat	_	_
+10	Njaay	_	PROPN	_	_	8	flat	_	_
+11	a	_	PART	_	_	7	comp:obj	_	_
+12	waroon	_	VERB	_	_	11	comp:aux	_	_
+13	a	_	PART	_	_	12	udep	_	_
+14	waxtaane	_	VERB	_	_	13	comp:aux	_	_
+15	Gàmmu	_	NOUN	_	_	14	comp:obj	_	_
+16	gi	_	DET	_	_	15	det	_	NoSpaceAfter=Yes
+17	,	_	PUNCT	_	_	18	punct	_	_
+18	ndax	_	ADP	_	_	11	udep	_	_
+19	waxam	_	NOUN	_	_	18	comp:obj	_	_
+20	ju	_	PRON	_	_	21	subj	_	_
+21	matale	_	VERB	_	_	19	mod	_	_
+22	te	_	CCONJ	_	_	23	cc	_	_
+23	leer	_	VERB	_	_	21	conj	_	NoSpaceAfter=Yes
+24	,	_	PUNCT	_	_	26	punct	_	_
+25	loolu	_	PRON	_	_	26	comp:obj	_	_
+26	la	_	AUX	_	_	6	conj:appos	_	_
+27	ci	_	ADP	_	_	26	udep	_	_
+28	teg	_	VERB	_	_	26	comp:aux	_	_
+29	ak	_	CCONJ	_	_	26	udep	_	_
+30	melo	_	NOUN	_	_	29	comp:obj	_	_
+31	wu	_	PRON	_	_	32	subj	_	_
+32	xoromu	_	VERB	_	_	30	mod	_	NoSpaceAfter=Yes
+33	,	_	PUNCT	_	_	34	punct	_	_
+34	ba	_	ADP	_	_	26	udep	_	_
+35	tax	_	VERB	_	_	34	mod	_	_
+36	mbooloo	_	NOUN	_	_	38	subj	_	_
+37	mi	_	PRON	_	_	36	det	_	_
+38	daanu	_	VERB	_	_	35	comp:obj	_	_
+39	ci	_	ADP	_	_	38	udep	_	_
+40	suuf	_	NOUN	_	_	39	comp:obj	_	_
+41	ak	_	ADP	_	_	38	udep	_	_
+42	i	_	PART	_	_	43	det	_	_
+43	reetaan	_	NOUN	_	_	41	comp:obj	_	_
+44	....	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_130
+# text = Wàcce wala batale toftalante gi, ak leeral tolluwaay deppãasu askan wi, moo nekk, kon li waral ñu xaajale koom-koom gi ci ay tëralin.
+1	Wàcce	_	VERB	_	_	14	subj	_	_
+2	wala	_	PRON	_	_	3	cc	_	_
+3	batale	_	VERB	_	_	1	conj	_	_
+4	toftalante	_	NOUN	_	_	3	comp:obj	_	_
+5	gi	_	DET	_	_	4	det	_	NoSpaceAfter=Yes
+6	,	_	PUNCT	_	_	8	punct	_	_
+7	ak	_	CCONJ	_	_	8	cc	_	_
+8	leeral	_	VERB	_	_	1	conj	_	_
+9	tolluwaay	_	NOUN	_	_	8	comp:obj	_	_
+10	deppãasu	_	NOUN	_	_	9	mod	_	_
+11	askan	_	NOUN	_	_	10	mod	_	_
+12	wi	_	DET	_	_	11	det	_	NoSpaceAfter=Yes
+13	,	_	PUNCT	_	_	14	punct	_	_
+14	moo	_	AUX	_	_	0	root	_	_
+15	nekk	_	VERB	_	_	14	comp:aux	_	NoSpaceAfter=Yes
+16	,	_	PUNCT	_	_	15	punct	_	_
+17	kon	_	CCONJ	_	_	15	mod	_	_
+18	li	_	PRON	_	_	15	comp:obj	_	_
+19	waral	_	VERB	_	_	18	mod	_	_
+20	ñu	_	PRON	_	_	21	subj	_	_
+21	xaajale	_	VERB	_	_	19	comp:obj	_	_
+22	koom-koom	_	NOUN	_	_	21	comp:obj	_	_
+23	gi	_	DET	_	_	22	det	_	_
+24	ci	_	ADP	_	_	21	udep	_	_
+25	ay	_	DET	_	_	26	det	_	_
+26	tëralin	_	NOUN	_	_	24	comp:obj	_	NoSpaceAfter=Yes
+27	.	_	PUNCT	_	_	14	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_131
+# text = Xar sunu tànku tubay ngir am nattukaayu yaram ci bérébu jàngukaay yi ak bérébi tàggatu yi :
+1	Xar	_	VERB	_	_	0	root	_	_
+2	sunu	_	DET	_	_	3	det	_	_
+3	tànku	_	NOUN	_	_	1	comp:obj	_	_
+4	tubay	_	NOUN	_	_	3	mod	_	_
+5	ngir	_	ADP	_	_	1	mod	_	_
+6	am	_	VERB	_	_	5	comp:obj	_	_
+7	nattukaayu	_	NOUN	_	_	6	comp:obj	_	_
+8	yaram	_	NOUN	_	_	7	mod	_	_
+9	ci	_	ADP	_	_	6	udep	_	_
+10	bérébu	_	NOUN	_	_	9	comp:obj	_	_
+11	jàngukaay	_	NOUN	_	_	10	mod	_	_
+12	yi	yi	DET	_	_	11	det	_	_
+13	ak	ak	CCONJ	_	_	14	cc	_	_
+14	bérébi	_	NOUN	_	_	10	conj	_	_
+15	tàggatu	_	NOUN	_	_	14	mod	_	_
+16	yi	_	DET	_	_	14	det	_	NoSpaceAfter=Yes
+17	:	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_133
+# text = taxaw ci yégle yi ak yee askan wi jaare leen ciy nataal yu mag ak yu ndaw yuy wane matukaay yi jëm ci nekkinu gaar mbas mi :
+1	taxaw	_	VERB	_	_	0	root	_	_
+2	ci	_	ADP	_	_	1	udep	_	_
+3	yégle	_	NOUN	_	_	2	comp:obj	_	_
+4	yi	yi	DET	_	_	3	det	_	_
+5	ak	ak	DET	_	_	6	cc	_	_
+6	yee	_	VERB	_	_	3	conj	_	_
+7	askan	_	NOUN	_	_	6	comp:obj	_	_
+8	wi	_	DET	_	_	7	det	_	_
+9	jaare	_	VERB	_	_	1	mod	_	_
+10	leen	_	PRON	_	_	9	comp:obj	_	_
+11	ciy	_	ADP	_	_	10	udep	_	_
+12	nataal	_	NOUN	_	_	11	comp:obj	_	_
+13	yu	_	PRON	_	_	14	subj	_	_
+14	mag	_	VERB	_	_	12	mod	_	_
+15	ak	_	CCONJ	_	_	14	cc	_	_
+16	yu	_	PRON	_	_	14	conj	_	_
+17	ndaw	_	VERB	_	_	16	mod	_	_
+18	yuy	_	PRON	_	_	19	subj	_	_
+19	wane	_	VERB	_	_	12	mod	_	_
+20	matukaay	_	NOUN	_	_	19	comp:obj	_	_
+21	yi	_	PRON	_	_	22	subj	_	_
+22	jëm	_	VERB	_	_	20	mod	_	_
+23	ci	_	ADP	_	_	22	udep	_	_
+24	nekkinu	_	NOUN	_	_	23	comp:obj	_	_
+25	gaar	_	VERB	_	_	24	mod	_	_
+26	mbas	_	NOUN	_	_	25	mod	_	_
+27	mi	_	DET	_	_	26	det	_	NoSpaceAfter=Yes
+28	:	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_135
+# text = boole njàngum teewaay meek njàngum soree mi:
+1	boole	boole	VERB	_	_	0	root	_	Gloss=combine
+2	njàngum	njàng	NOUN	_	_	1	comp:obj	_	Gloss=teaching
+3	teewaay	teewaay	NOUN	_	_	2	mod	_	Gloss=face-to-face
+4	meek	beek	DET	_	_	3	det	_	Gloss=and the
+5	njàngum	njàng	NOUN	_	_	2	conj	_	Gloss=teaching
+6	soree	sore	NOUN	_	_	5	mod	_	Gloss=online
+7	mi	bi	DET	_	_	6	det	_	Gloss=the|NoSpaceAfter=Yes
+8	:	:	PUNCT	_	_	1	punct	_	Gloss=:
+
+# sent_id = Masakhane-Wolof_dev_136
+# text = gënal njàngale mu soree mi, ngir dàrsu yi ëmb lépp, te bàyyi njàngum jiite (TD) meek jëfe (TP) ciy teewaay:
+1	gënal	_	NOUN	_	_	0	root	_	_
+2	njàngale	_	NOUN	_	_	1	comp:obj	_	_
+3	mu	_	PRON	_	_	4	subj	_	_
+4	soree	_	VERB	_	_	2	mod	_	_
+5	mi	_	DET	_	_	4	det	_	NoSpaceAfter=Yes
+6	,	_	PUNCT	_	_	7	punct	_	_
+7	ngir	_	ADP	_	_	1	udep	_	_
+8	dàrsu	_	NOUN	_	_	7	comp:obj	_	_
+9	yi	_	PRON	_	_	10	subj	_	_
+10	ëmb	_	VERB	_	_	8	mod	_	_
+11	lépp	_	PRON	_	_	10	comp:obj	_	NoSpaceAfter=Yes
+12	,	_	PUNCT	_	_	14	punct	_	_
+13	te	_	CCONJ	_	_	14	cc	_	_
+14	bàyyi	_	VERB	_	_	1	conj	_	_
+15	njàngum	_	NOUN	_	_	14	comp:obj	_	_
+16	jiite	_	VERB	_	_	15	mod	_	_
+17	(	_	PUNCT	_	_	18	punct	_	NoSpaceAfter=Yes
+18	TD	_	PROPN	_	_	15	conj:appos	_	_
+19	)	_	PUNCT	_	_	18	punct	_	_
+20	meek	_	CCONJ	_	_	21	cc	_	_
+21	jëfe	_	NOUN	_	_	16	conj	_	_
+22	(	_	PUNCT	_	_	23	punct	_	NoSpaceAfter=Yes
+23	TP	_	NUM	_	_	21	conj:appos	_	_
+24	)	_	PUNCT	_	_	23	punct	_	_
+25	ciy	_	ADP	_	_	21	udep	_	_
+26	teewaay	_	NOUN	_	_	25	comp:obj	_	NoSpaceAfter=Yes
+27	:	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_139
+# text = Waxul sax ci mbënd mi nekk ci yeneen dëkk yi bokkul ak Ndakaaru.
+1	Waxul	wax	VERB	_	_	0	root	_	Gloss=not speak
+2	sax	sax	ADV	_	_	1	mod	_	Gloss=even
+3	ci	ci	ADP	_	_	2	udep	_	Gloss=on
+4	mbënd	mbënd	NOUN	_	_	3	comp:obj	_	Gloss=flooding
+5	mi	bi	PRON	_	_	6	subj	_	Gloss=which
+6	nekk	nekk	VERB	_	_	4	mod	_	Gloss=be
+7	ci	ci	ADP	_	_	6	udep	_	Gloss=in
+8	yeneen	beneen	DET	_	_	9	det	_	Gloss=other
+9	dëkk	dëkk	NOUN	_	_	7	comp:obj	_	Gloss=cities
+10	yi	bi	PRON	_	_	11	subj	_	Gloss=which
+11	bokkul	bokk	VERB	_	_	9	mod	_	Gloss=be different
+12	ak	ak	ADP	_	_	11	udep	_	Gloss=from
+13	Ndakaaru	Ndakaaru	PROPN	_	_	12	comp:obj	_	Gloss=Dakar|NoSpaceAfter=Yes
+14	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = Masakhane-Wolof_dev_140
+# text = Nekkul ne dara taxul ba PASTEF mi doon génn ci kuréli pólótig yu néew yiy faral di bàyyi ay kopparu denc ca këru jëwriñ ji ñu dénk biir réew mi.
+1	Nekkul	_	VERB	_	_	0	root	_	_
+2	ne	_	SCONJ	_	_	1	comp:obj	_	_
+3	dara	_	ADV	_	_	4	subj	_	_
+4	taxul	_	VERB	_	_	2	comp:obj	_	_
+5	ba	_	ADP	_	_	4	udep	_	_
+6	PASTEF	_	PROPN	_	_	8	subj	_	_
+7	mi	_	PRON	_	_	8	subj	_	_
+8	doon	_	AUX	_	_	5	comp:obj	_	_
+9	génn	_	VERB	_	_	8	comp:aux	_	_
+10	ci	_	ADP	_	_	8	udep	_	_
+11	kuréli	_	NOUN	_	_	10	comp:obj	_	_
+12	pólótig	_	NOUN	_	_	11	mod	_	_
+13	yu	_	PRON	_	_	14	subj	_	_
+14	néew	_	VERB	_	_	12	comp:obj	_	_
+15	yiy	_	PRON	_	_	16	subj	_	_
+16	faral	_	VERB	_	_	11	mod	_	_
+17	di	_	AUX	_	_	16	comp:obj	_	_
+18	bàyyi	_	VERB	_	_	17	comp:aux	_	_
+19	ay	_	DET	_	_	20	det	_	_
+20	kopparu	_	NOUN	_	_	18	comp:obj	_	_
+21	denc	_	NOUN	_	_	20	mod	_	_
+22	ca	_	ADP	_	_	18	udep	_	_
+23	këru	_	NOUN	_	_	22	comp:obj	_	_
+24	jëwriñ	_	NOUN	_	_	23	mod	_	_
+25	ji	_	PRON	_	_	27	comp:obj	_	_
+26	ñu	_	PRON	_	_	27	subj	_	_
+27	dénk	_	VERB	_	_	24	mod	_	_
+28	biir	_	NOUN	_	_	27	comp:obl	_	_
+29	réew	_	NOUN	_	_	28	mod	_	_
+30	mi	_	DET	_	_	29	det	_	NoSpaceAfter=Yes
+31	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_141
+# text = Musibaa ngi ame ci goxu Jaalo, ci lu gën a leer, ci yoon wi jëm ca estaatu dëkk ba.
+1	Musibaa	_	NOUN	_	_	2	subj	_	_
+2	ngi	_	AUX	_	_	0	root	_	_
+3	ame	_	VERB	_	_	2	comp:aux	_	_
+4	ci	_	ADP	_	_	3	udep	_	_
+5	goxu	_	NOUN	_	_	4	comp:obj	_	_
+6	Jaalo	_	PROPN	_	_	5	mod	_	NoSpaceAfter=Yes
+7	,	_	PUNCT	_	_	8	punct	_	_
+8	ci	_	ADP	_	_	2	udep	_	_
+9	lu	_	PRON	_	_	8	comp:obj	_	_
+10	gën	_	VERB	_	_	9	mod	_	_
+11	a	_	PART	_	_	10	udep	_	_
+12	leer	_	VERB	_	_	11	comp:obj	_	NoSpaceAfter=Yes
+13	,	_	PUNCT	_	_	14	punct	_	_
+14	ci	_	ADP	_	_	2	udep	_	_
+15	yoon	_	NOUN	_	_	14	comp:obj	_	_
+16	wi	_	PRON	_	_	17	subj	_	_
+17	jëm	_	VERB	_	_	15	mod	_	_
+18	ca	_	ADP	_	_	17	udep	_	_
+19	estaatu	_	NOUN	_	_	18	comp:obj	_	_
+20	dëkk	_	NOUN	_	_	19	mod	_	_
+21	ba	_	DET	_	_	20	det	_	NoSpaceAfter=Yes
+22	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_142
+# text = Soo yóbboo say aji-feebar ci dëkkandoob Almaañ bi, ba noppi jële fa jumtukaay yu ñu jagleel menn ci réewi way-bokk yi ci booloog réewi Europe yi, loolu mooy tekki ne, ci biir, amuñu lu matale ngir xeex ak tawat ji ca na mu ware.
+1	Soo	_	SCONJ	_	_	30	mod	_	_
+2	yóbboo	_	VERB	_	_	1	comp:num	_	_
+3	say	_	DET	_	_	4	det	_	_
+4	aji-feebar	_	NOUN	_	_	2	comp:obj	_	_
+5	ci	_	ADP	_	_	2	_	_	_
+6	dëkkandoob	_	NOUN	_	_	5	comp:obj	_	_
+7	Almaañ	_	PROPN	_	_	6	mod	_	_
+8	bi	_	DET	_	_	6	det	_	NoSpaceAfter=Yes
+9	,	_	PUNCT	_	_	10	punct	_	_
+10	ba	_	SCONJ	_	_	2	mod	_	_
+11	noppi	_	VERB	_	_	10	comp:obj	_	_
+12	jële	_	VERB	_	_	2	conj	_	_
+13	fa	_	ADV	_	_	12	mod	_	_
+14	jumtukaay	_	NOUN	_	_	12	comp:obj	_	_
+15	yu	_	PRON	_	_	17	comp:obj	_	_
+16	ñu	_	PRON	_	_	17	subj	_	_
+17	jagleel	_	VERB	_	_	14	mod	_	_
+18	menn	_	PRON	_	_	17	comp:obl	_	_
+19	ci	_	ADP	_	_	18	udep	_	_
+20	réewi	_	NOUN	_	_	19	comp:obj	_	_
+21	way-bokk	_	NOUN	_	_	20	mod	_	_
+22	yi	_	DET	_	_	20	det	_	_
+23	ci	_	ADP	_	_	20	udep	_	_
+24	booloog	_	NOUN	_	_	23	comp:obj	_	_
+25	réewi	_	NOUN	_	_	24	mod	_	_
+26	Europe	_	PROPN	_	_	25	mod	_	_
+27	yi	_	DET	_	_	25	det	_	NoSpaceAfter=Yes
+28	,	_	PUNCT	_	_	30	punct	_	_
+29	loolu	_	PRON	_	_	30	subj	_	_
+30	mooy	_	AUX	_	_	0	root	_	_
+31	tekki	_	VERB	_	_	30	comp:aux	_	_
+32	ne	_	SCONJ	_	_	30	comp:obj	_	NoSpaceAfter=Yes
+33	,	_	PUNCT	_	_	37	punct	_	_
+34	ci	_	ADP	_	_	_	_	_	_
+35	biir	_	NOUN	_	_	34	comp:obj	_	NoSpaceAfter=Yes
+36	,	_	PUNCT	_	_	37	punct	_	_
+37	amuñu	_	VERB	_	_	32	comp:obj	_	_
+38	lu	_	PRON	_	_	37	comp:obj	_	_
+39	matale	_	VERB	_	_	38	mod	_	_
+40	ngir	_	ADP	_	_	39	udep	_	_
+41	xeex	_	VERB	_	_	40	comp:obj	_	_
+42	ak	_	ADP	_	_	41	udep	_	_
+43	tawat	_	NOUN	_	_	42	comp:obj	_	_
+44	ji	_	DET	_	_	43	det	_	_
+45	ca	_	ADP	_	_	41	udep	_	_
+46	na	_	ADV	_	_	45	comp:obj	_	_
+47	mu	_	PRON	_	_	48	subj	_	_
+48	ware	_	VERB	_	_	46	mod	_	NoSpaceAfter=Yes
+49	.	_	PUNCT	_	_	30	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_143
+# text = Ci leeraayu mbind mii, dina jafee gëm wóoraayu nguur gu nekk ci tànki jëmmal yoon ci koppar yi muy jubbanti, gannaaw ba mu ko amalee njëkk ñetti weer (3).
+1	Ci	_	ADP	_	_	6	udep	_	_
+2	leeraayu	_	NOUN	_	_	1	comp:obj	_	_
+3	mbind	_	NOUN	_	_	2	mod	_	_
+4	mii	_	DET	_	_	3	det	_	NoSpaceAfter=Yes
+5	,	_	PUNCT	_	_	6	punct	_	_
+6	dina	_	AUX	_	_	0	root	_	_
+7	jafee	_	VERB	_	_	6	comp:aux	_	_
+8	gëm	_	VERB	_	_	7	comp:obj	_	_
+9	wóoraayu	_	NOUN	_	_	8	comp:obj	_	_
+10	nguur	_	NOUN	_	_	9	mod	_	_
+11	gu	_	PRON	_	_	12	subj	_	_
+12	nekk	_	VERB	_	_	10	mod	_	_
+13	ci	_	ADP	_	_	12	udep	_	_
+14	tànki	_	NOUN	_	_	13	comp:obj	_	_
+15	jëmmal	_	VERB	_	_	14	mod	_	_
+16	yoon	_	NOUN	_	_	15	comp:obj	_	_
+17	ci	_	ADP	_	_	15	udep	_	_
+18	koppar	_	NOUN	_	_	17	comp:obj	_	_
+19	yi	_	PRON	_	_	21	comp:obj	_	_
+20	muy	_	PRON	_	_	21	subj	_	_
+21	jubbanti	_	VERB	_	_	18	mod	_	NoSpaceAfter=Yes
+22	,	_	PUNCT	_	_	23	punct	_	_
+23	gannaaw	_	ADP	_	_	21	mod	_	_
+24	ba	_	SCONJ	_	_	23	comp:obj	_	_
+25	mu	_	PRON	_	_	27	subj	_	_
+26	ko	_	PRON	_	_	27	comp:obj	_	_
+27	amalee	_	VERB	_	_	24	comp:obj	_	_
+28	njëkk	_	ADP	_	_	27	udep	_	_
+29	ñetti	_	NUM	_	_	30	det	_	_
+30	weer	_	NOUN	_	_	28	comp:obj	_	_
+31	(	_	PUNCT	_	_	32	punct	_	NoSpaceAfter=Yes
+32	3	_	NUM	_	_	30	det	_	_
+33	)	_	PUNCT	_	_	32	punct	_	NoSpaceAfter=Yes
+34	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_144
+# text = Te noppi nanu ngir bokk ak yéen sunu xam-xam, la Ibraayima Ñaan dëggal, kenn la ci ñi ŋànk këlëb bi.
+1	Te	_	CCONJ	_	_	3	cc	_	_
+2	noppi	_	VERB	_	_	3	comp:aux	_	_
+3	nanu	_	AUX	_	_	11	comp:obj	_	_
+4	ngir	_	ADP	_	_	3	mod	_	_
+5	bokk	_	VERB	_	_	4	comp:obj	_	_
+6	ak	_	CCONJ	_	_	5	udep	_	_
+7	yéen	_	PRON	_	_	6	comp:obj	_	_
+8	sunu	_	DET	_	_	9	det	_	_
+9	xam-xam	_	NOUN	_	_	5	comp:obj	_	NoSpaceAfter=Yes
+10	,	_	PUNCT	_	_	11	punct	_	_
+11	la	_	AUX	_	_	0	root	_	_
+12	Ibraayima	_	PROPN	_	_	14	subj	_	_
+13	Ñaan	_	PROPN	_	_	12	flat	_	_
+14	dëggal	_	VERB	_	_	11	comp:aux	_	NoSpaceAfter=Yes
+15	,	_	PUNCT	_	_	17	punct	_	_
+16	kenn	_	DET	_	_	17	comp:cleft	_	_
+17	la	_	AUX	_	_	12	conj:appos	_	_
+18	ci	_	ADP	_	_	17	udep	_	_
+19	ñi	_	PRON	_	_	18	comp:obj	_	_
+20	ŋànk	_	VERB	_	_	19	mod	_	_
+21	këlëb	_	NOUN	_	_	20	comp:obj	_	_
+22	bi	_	DET	_	_	21	det	_	NoSpaceAfter=Yes
+23	.	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_145
+# text = Jéem leen a def ay kondaane ci seen i mébéti gént, wala ci takkug naxasaale, yeewu gi dina jamp.
+1	Jéem	_	VERB	_	_	0	root	_	_
+2	leen	_	PRON	_	_	1	comp:obj	_	_
+3	a	_	PART	_	_	1	udep	_	_
+4	def	_	VERB	_	_	3	comp:aux	_	_
+5	ay	_	DET	_	_	6	det	_	_
+6	kondaane	_	NOUN	_	_	4	comp:obj	_	_
+7	ci	_	ADP	_	_	6	udep	_	_
+8	seen	_	DET	_	_	10	det	_	_
+9	i	_	PART	_	_	10	det	_	_
+10	mébéti	_	NOUN	_	_	7	comp:obj	_	_
+11	gént	_	NOUN	_	_	10	mod	_	NoSpaceAfter=Yes
+12	,	_	PUNCT	_	_	14	punct	_	_
+13	wala	_	CCONJ	_	_	14	cc	_	_
+14	ci	_	ADP	_	_	7	conj	_	_
+15	takkug	_	NOUN	_	_	14	mod	_	_
+16	naxasaale	_	VERB	_	_	15	mod	_	NoSpaceAfter=Yes
+17	,	_	PUNCT	_	_	20	punct	_	_
+18	yeewu	_	NOUN	_	_	20	subj	_	_
+19	gi	_	DET	_	_	18	det	_	_
+20	dina	_	AUX	_	_	1	conj:appos	_	_
+21	jamp	_	VERB	_	_	20	comp:aux	_	NoSpaceAfter=Yes
+22	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_146
+# text = Mujjantal gi ñu ñàkk, dafa ñuy fàttali bépp dayo.
+1	Mujjantal	_	NOUN	_	_	6	subj	_	_
+2	gi	_	PRON	_	_	4	comp:obj	_	_
+3	ñu	_	PRON	_	_	4	subj	_	_
+4	ñàkk	_	VERB	_	_	1	mod	_	NoSpaceAfter=Yes
+5	,	_	PUNCT	_	_	6	punct	_	_
+6	dafa	_	AUX	_	_	0	root	_	_
+7	ñuy	_	PRON	_	_	6	comp:obj	_	_
+8	fàttali	_	VERB	_	_	6	comp:aux	_	_
+9	bépp	_	DET	_	_	10	det	_	_
+10	dayo	_	NOUN	_	_	8	comp:obj	_	NoSpaceAfter=Yes
+11	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_147
+# text = Ca Farãas , aw yoon ci jubbanti koppar yi ak wenn yoon wu mënul a xaar ngir jàkkaarlook mbasum Koronaa mi , wote nañu ko , gannaaw ñaari fani waxtaan ca Senat ba .
+1	Ca	_	ADP	_	_	24	udep	_	_
+2	Farãas	_	PROPN	_	_	1	comp:obj	_	NoSpaceAfter=Yes
+3	,	_	PUNCT	_	_	24	punct	_	_
+4	aw	_	DET	_	_	5	det	_	_
+5	yoon	_	NOUN	_	_	24	dislocated	_	_
+6	ci	_	ADP	_	_	5	udep	_	_
+7	jubbanti	_	VERB	_	_	6	comp:obj	_	_
+8	koppar	_	NOUN	_	_	7	comp:obj	_	_
+9	yi	yi	DET	_	_	8	det	_	_
+10	ak	ak	ADP	_	_	7	udep	_	_
+11	wenn	_	DET	_	_	12	det	_	_
+12	yoon	_	NOUN	_	_	10	comp:obj	_	_
+13	wu	_	PRON	_	_	14	subj	_	_
+14	mënul	_	VERB	_	_	12	mod	_	_
+15	a	_	PART	_	_	14	udep	_	_
+16	xaar	_	VERB	_	_	15	comp:obj	_	_
+17	ngir	_	ADP	_	_	16	mod	_	_
+18	jàkkaarlook	_	VERB	_	_	17	comp:obj	_	_
+19	mbasum	_	NOUN	_	_	18	comp:obj	_	_
+20	Koronaa	_	PROPN	_	_	19	mod	_	_
+21	mi	_	DET	_	_	19	det	_	NoSpaceAfter=Yes
+22	,	_	PUNCT	_	_	24	punct	_	_
+23	wote	_	VERB	_	_	24	comp:aux	_	_
+24	nañu	_	AUX	_	_	0	root	_	_
+25	ko	_	PRON	_	_	24	comp:obj	_	NoSpaceAfter=Yes
+26	,	_	PUNCT	_	_	24	punct	_	_
+27	gannaaw	_	ADP	_	_	24	udep	_	_
+28	ñaari	_	NUM	_	_	29	det	_	_
+29	fani	_	NOUN	_	_	27	comp:obj	_	_
+30	waxtaan	_	NOUN	_	_	29	mod	_	_
+31	ca	_	ADP	_	_	30	udep	_	_
+32	Senat	_	PROPN	_	_	31	comp:obj	_	_
+33	ba	_	DET	_	_	32	det	_	NoSpaceAfter=Yes
+34	.	_	PUNCT	_	_	24	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_148
+# text = Su fekkee ne am gi, mu ngi ci diggante tus ba téeméer ak fukk ak juróom-ñeenti junni ak juróom-ñetti téeméer (0 et 599.000) ci Seefaa, juuti bi mooy téeméer ak juróom-ñett-fukk (900 F) ci Seefaa,
+1	Su	su	PRON	_	_	32	mod	_	_
+2	fekkee	fekkee	VERB	_	_	1	comp:obj	_	_
+3	ne	ni	SCONJ	_	_	2	comp:obj	_	_
+4	am	am	NOUN	_	_	8	dislocated	_	_
+5	gi	bi	DET	_	_	4	det	_	NoSpaceAfter=Yes
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	mu	mu	PRON	_	_	8	subj	_	_
+8	ngi	ngi	AUX	_	_	3	comp:obj	_	_
+9	ci	ci	ADP	_	_	8	udep	_	_
+10	diggante	diggante	ADP	_	_	9	compound	_	_
+11	tus	tus	NOUN	_	_	10	comp:obj	_	_
+12	ba	ba	ADP	_	_	11	udep	_	_
+13	téeméer	téeméer	NOUN	_	_	12	comp	_	_
+14	ak	ak	CCONJ	_	_	15	cc	_	_
+15	fukk	fukk	NOUN	_	_	13	conj	_	_
+16	ak	ak	CCONJ	_	_	18	cc	_	_
+17	juróom-ñeenti	juróom-ñeent	NOUN	_	_	18	det	_	_
+18	junni	junn	NOUN	_	_	15	conj	_	_
+19	ak	ak	CCONJ	_	_	21	cc	_	_
+20	juróom-ñetti	juróom-ñett	NOUN	_	_	21	det	_	_
+21	téeméer	téeméer	NOUN	_	_	18	conj	_	_
+22	(	(	PUNCT	_	_	23	punct	_	NoSpaceAfter=Yes
+23	0	0	NOUN	_	_	11	conj:appos	_	_
+24	et	et	NOUN	_	_	25	cc	_	_
+25	599.000	599.000	NOUN	_	_	23	conj	_	_
+26	)	)	PUNCT	_	_	23	punct	_	_
+27	ci	ci	ADP	_	_	8	udep	_	_
+28	Seefaa	Seefaa	PROPN	_	_	27	comp:obj	_	NoSpaceAfter=Yes
+29	,	,	PUNCT	_	_	32	punct	_	_
+30	juuti	juuti	NOUN	_	_	32	subj	_	_
+31	bi	bi	DET	_	_	30	det	_	_
+32	mooy	a	AUX	_	_	0	root	_	_
+33	téeméer	téeméer	NOUN	_	_	32	comp:cleft	_	_
+34	ak	ak	CCONJ	_	_	35	cc	_	_
+35	juróom-ñett-fukk	juróom-ñett-fuk	NOUN	_	_	33	conj	_	_
+36	(	(	PUNCT	_	_	37	punct	_	NoSpaceAfter=Yes
+37	900	900	PROPN	_	_	33	comp:appos	_	_
+38	F	F	PUNCT	_	_	37	punct	_	_
+39	)	)	PUNCT	_	_	37	punct	_	_
+40	ci	ci	ADP	_	_	33	udep	_	_
+41	Seefaa	Seefaa	PROPN	_	_	40	comp:obj	_	NoSpaceAfter=Yes
+42	,	,	PUNCT	_	_	32	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_149
+# text = te su fekkee ne dafa nekk ci diggante téeméer ak ñaar-fukki junni ak téeméer ak juróom-ñeen-fukki junni ak juróom-ñeent ak juróom-ñetti téeméer ( 600.000 F et 999.000 F ) , moo ngi doon juróom-ñaar téeméer ak ñaar-fukk ( 3600 F ) ci Seefaa .
+1	te	_	CCONJ	_	_	32	cc	_	_
+2	su	_	SCONJ	_	_	32	mod	_	_
+3	fekkee	_	VERB	_	_	2	comp:obj	_	_
+4	ne	_	SCONJ	_	_	3	comp:obj	_	_
+5	dafa	_	AUX	_	_	4	comp:obj	_	_
+6	nekk	_	VERB	_	_	5	comp:aux	_	_
+7	ci	_	ADP	_	_	5	udep	_	_
+8	diggante	_	NOUN	_	_	7	compound	_	_
+9	téeméer	_	NUM	_	_	8	comp:obj	_	_
+10	ak	_	CCONJ	_	_	12	cc	_	_
+11	ñaar-fukki	_	NUM	_	_	12	det	_	_
+12	junni	_	NUM	_	_	9	conj	_	_
+13	ak	_	CCONJ	_	_	14	cc	_	_
+14	téeméer	_	NUM	_	_	9	conj	_	_
+15	ak	_	CCONJ	_	_	17	cc	_	_
+16	juróom-ñeen-fukki	_	NUM	_	_	17	det	_	_
+17	junni	junni	NUM	_	_	14	conj	_	_
+18	ak	ak	NUM	_	_	19	cc	_	_
+19	juróom-ñeent	_	NUM	_	_	17	conj	_	_
+20	ak	_	CCONJ	_	_	22	cc	_	_
+21	juróom-ñetti	_	NUM	_	_	22	det	_	_
+22	téeméer	_	NUM	_	_	17	conj	_	_
+23	(	_	PUNCT	_	_	25	punct	_	NoSpaceAfter=Yes
+24	600.000	_	NUM	_	_	25	det	_	_
+25	F	_	PROPN	_	_	9	conj:appos	_	_
+26	et	_	CCONJ	_	_	28	cc	_	_
+27	999.000	_	NUM	_	_	28	det	_	_
+28	F	_	PROPN	_	_	25	conj	_	_
+29	)	_	PUNCT	_	_	25	punct	_	NoSpaceAfter=Yes
+30	,	_	PUNCT	_	_	_	_	_	_
+31	moo	_	PRON	_	_	32	subj	_	_
+32	ngi	_	AUX	_	_	0	root	_	_
+33	doon	_	AUX	_	_	32	comp:aux	_	_
+34	juróom-ñaar	_	NUM	_	_	32	comp:cleft	_	_
+35	téeméer	_	NUM	_	_	34	compound	_	_
+36	ak	_	CCONJ	_	_	37	cc	_	_
+37	ñaar-fukk	_	NUM	_	_	34	conj	_	_
+38	(	_	PUNCT	_	_	39	punct	_	NoSpaceAfter=Yes
+39	3600	_	NUM	_	_	34	conj:appos	_	_
+40	F	_	PROPN	_	_	_	_	_	_
+41	)	_	PUNCT	_	_	39	punct	_	_
+42	ci	_	ADP	_	_	32	udep	_	_
+43	Seefaa	_	PROPN	_	_	42	comp:obj	_	NoSpaceAfter=Yes
+44	.	_	PUNCT	_	_	32	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_150
+# text = Daf maa niru ne Sónko xamatul fi muy teg tànkam.
+1	Daf	_	AUX	_	_	0	root	_	_
+2	maa	_	PRON	_	_	1	comp:obj	_	_
+3	niru	_	VERB	_	_	1	comp:aux	_	_
+4	ne	_	SCONJ	_	_	3	comp:obj	_	_
+5	Sónko	_	PROPN	_	_	6	subj	_	_
+6	xamatul	_	VERB	_	_	4	comp:obj	_	_
+7	fi	_	ADV	_	_	6	mod	_	_
+8	muy	_	PRON	_	_	9	subj	_	_
+9	teg	_	VERB	_	_	7	mod	_	_
+10	tànkam	_	NOUN	_	_	9	comp:obj	_	NoSpaceAfter=Yes
+11	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_151
+# text = ASCM, moomeelu kenn ci Silmani ak Fabregas, mujjeewul a def lu rëy ci kanamu wirgo nawet bi.
+1	ASCM	_	PROPN	_	_	10	subj	_	NoSpaceAfter=Yes
+2	,	_	PUNCT	_	_	3	punct	_	_
+3	moomeelu	_	NOUN	_	_	1	conj:appos	_	_
+4	kenn	_	PRON	_	_	3	mod	_	_
+5	ci	_	ADP	_	_	4	udep	_	_
+6	Silmani	_	PROPN	_	_	5	comp:obj	_	_
+7	ak	_	CCONJ	_	_	8	cc	_	_
+8	Fabregas	_	PROPN	_	_	6	conj	_	NoSpaceAfter=Yes
+9	,	_	PUNCT	_	_	10	punct	_	_
+10	mujjeewul	_	VERB	_	_	0	root	_	_
+11	a	_	PART	_	_	10	udep	_	_
+12	def	_	VERB	_	_	11	comp:obj	_	_
+13	lu	_	PRON	_	_	12	comp:obj	_	_
+14	rëy	_	VERB	_	_	13	mod	_	_
+15	ci	_	ADP	_	_	12	udep	_	_
+16	kanamu	_	NOUN	_	_	15	comp:obj	_	_
+17	wirgo	_	NOUN	_	_	16	mod	_	_
+18	nawet	_	NOUN	_	_	17	comp:obj	_	_
+19	bi	_	DET	_	_	18	det	_	NoSpaceAfter=Yes
+20	.	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_152
+# text = Li ci topp, Comte jàpp na ne xelu nit, naka-jekk, dafay jëfandikoo, ci toftalante ñenn ñi, gannaaw ñeneen ñi, ñetti dayo yi ngir mën a xalaat: borom xam-xamu diine cig ngoneem, xam-xamu fàddu cig ndawam, ak xam-xamu amal cig màggataayam.
+1	Li	_	PRON	_	_	7	mod	_	_
+2	ci	_	ADP	_	_	3	udep	_	_
+3	topp	_	VERB	_	_	1	mod	_	NoSpaceAfter=Yes
+4	,	_	PUNCT	_	_	7	punct	_	_
+5	Comte	_	PROPN	_	_	7	subj	_	_
+6	jàpp	_	VERB	_	_	7	comp:aux	_	_
+7	na	_	AUX	_	_	0	root	_	_
+8	ne	_	SCONJ	_	_	7	comp:obj	_	_
+9	xelu	_	NOUN	_	_	14	subj	_	_
+10	nit	_	NOUN	_	_	9	mod	_	NoSpaceAfter=Yes
+11	,	_	PUNCT	_	_	12	punct	_	_
+12	naka-jekk	_	ADV	_	_	14	mod	_	NoSpaceAfter=Yes
+13	,	_	PUNCT	_	_	12	punct	_	_
+14	dafay	_	AUX	_	_	8	comp:obj	_	_
+15	jëfandikoo	_	VERB	_	_	14	comp:aux	_	NoSpaceAfter=Yes
+16	,	_	PUNCT	_	_	17	punct	_	_
+17	ci	_	ADP	_	_	14	udep	_	_
+18	toftalante	_	NOUN	_	_	17	comp:obj	_	_
+19	ñenn	_	PRON	_	_	18	mod	_	_
+20	ñi	_	DET	_	_	19	det	_	NoSpaceAfter=Yes
+21	,	_	PUNCT	_	_	22	punct	_	_
+22	gannaaw	_	ADP	_	_	18	udep	_	_
+23	ñeneen	_	NOUN	_	_	22	comp:obj	_	_
+24	ñi	_	DET	_	_	23	det	_	NoSpaceAfter=Yes
+25	,	_	PUNCT	_	_	27	_	_	_
+26	ñetti	_	NUM	_	_	27	det	_	_
+27	dayo	_	NOUN	_	_	14	comp:obj	_	_
+28	yi	_	DET	_	_	27	det	_	_
+29	ngir	_	ADP	_	_	14	mod	_	_
+30	mën	_	VERB	_	_	29	comp:obj	_	_
+31	a	_	PART	_	_	30	udep	_	_
+32	xalaat	_	VERB	_	_	31	comp:obj	_	NoSpaceAfter=Yes
+33	:	_	PUNCT	_	_	34	punct	_	_
+34	borom	_	NOUN	_	_	27	conj:appos	_	_
+35	xam-xamu	_	NOUN	_	_	34	mod	_	_
+36	diine	_	NOUN	_	_	35	mod	_	_
+37	cig	_	ADP	_	_	34	udep	_	_
+38	ngoneem	_	NOUN	_	_	37	comp:obj	_	NoSpaceAfter=Yes
+39	,	_	PUNCT	_	_	40	punct	_	_
+40	xam-xamu	_	NOUN	_	_	34	conj	_	_
+41	fàddu	_	VERB	_	_	40	mod	_	_
+42	cig	_	ADP	_	_	34	udep	_	_
+43	ndawam	_	NOUN	_	_	42	comp:obj	_	NoSpaceAfter=Yes
+44	,	_	PUNCT	_	_	46	punct	_	_
+45	ak	_	CCONJ	_	_	46	cc	_	_
+46	xam-xamu	_	NOUN	_	_	34	conj	_	_
+47	amal	_	VERB	_	_	46	mod	_	_
+48	cig	_	ADP	_	_	34	udep	_	_
+49	màggataayam	_	NOUN	_	_	48	comp:obj	_	NoSpaceAfter=Yes
+50	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_153
+# text = Mawdo, ni ko baayam daan woowe, gaawtu na ci mile at mos njàngum koom-koom.
+1	Mawdo	_	PROPN	_	_	10	subj	_	NoSpaceAfter=Yes
+2	,	_	PUNCT	_	_	10	punct	_	_
+3	ni	_	SCONJ	_	_	10	mod	_	_
+4	ko	_	PRON	_	_	6	comp:obj	_	_
+5	baayam	_	NOUN	_	_	6	subj	_	_
+6	daan	_	AUX	_	_	3	comp:obj	_	_
+7	woowe	_	VERB	_	_	6	comp:aux	_	NoSpaceAfter=Yes
+8	,	_	PUNCT	_	_	10	punct	_	_
+9	gaawtu	_	VERB	_	_	10	comp:aux	_	_
+10	na	_	AUX	_	_	0	root	_	_
+11	ci	_	ADP	_	_	10	udep	_	_
+12	mile	_	DET	_	_	13	det	_	_
+13	at	_	NOUN	_	_	11	comp:obj	_	_
+14	mos	_	VERB	_	_	10	comp:obj	_	_
+15	njàngum	_	NOUN	_	_	14	comp:obj	_	_
+16	koom-koom	_	NOUN	_	_	15	mod	_	NoSpaceAfter=Yes
+17	.	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_154
+# text = Duñu nekk di dund beddi, foñloo ak moytuloo ci njaboot yi leen di dalal.
+1	Duñu	_	AUX	_	_	0	root	_	_
+2	nekk	_	VERB	_	_	1	comp:aux	_	_
+3	di	_	AUX	_	_	1	comp	_	_
+4	dund	_	VERB	_	_	3	comp:aux	_	_
+5	beddi	_	NOUN	_	_	4	comp:obj	_	NoSpaceAfter=Yes
+6	,	_	PUNCT	_	_	7	punct	_	_
+7	foñloo	_	VERB	_	_	3	conj	_	_
+8	ak	_	CCONJ	_	_	9	cc	_	_
+9	moytuloo	_	VERB	_	_	7	conj	_	_
+10	ci	_	ADP	_	_	9	udep	_	_
+11	njaboot	_	NOUN	_	_	10	comp:obj	_	_
+12	yi	_	PRON	_	_	14	subj	_	_
+13	leen	_	PRON	_	_	14	comp:obj	_	_
+14	di	_	AUX	_	_	11	mod	_	_
+15	dalal	_	VERB	_	_	14	comp:aux	_	NoSpaceAfter=Yes
+16	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_155
+# text = Du def lu dul xool yaatuwaayu bérébu dalukaayi daamaari nguur gi, ndax mu xam, ñenn ci kilifaay réew mi jox nañu leen ñaar, ñett ba sax lu ëpp yooyu ciy daamar yu bakkane ci tolluwaay, niki 4X4.
+1	Du	_	AUX	_	_	0	root	_	_
+2	def	_	VERB	_	_	1	comp:aux	_	_
+3	lu	_	PRON	_	_	5	mod	_	_
+4	dul	_	AUX	_	_	3	compound	_	_
+5	xool	_	VERB	_	_	1	comp:obj	_	_
+6	yaatuwaayu	_	NOUN	_	_	5	comp:obj	_	_
+7	bérébu	_	NOUN	_	_	6	mod	_	_
+8	dalukaayi	_	NOUN	_	_	7	mod	_	_
+9	daamaari	_	NOUN	_	_	8	mod	_	_
+10	nguur	_	NOUN	_	_	9	mod	_	_
+11	gi	_	DET	_	_	10	det	_	NoSpaceAfter=Yes
+12	,	_	PUNCT	_	_	13	punct	_	_
+13	ndax	_	SCONJ	_	_	5	mod	_	_
+14	mu	_	PRON	_	_	15	subj	_	_
+15	xam	_	VERB	_	_	13	comp:obj	_	NoSpaceAfter=Yes
+16	,	_	PUNCT	_	_	23	punct	_	_
+17	ñenn	_	PRON	_	_	23	dislocated	_	_
+18	ci	_	ADP	_	_	17	udep	_	_
+19	kilifaay	_	NOUN	_	_	18	comp:obj	_	_
+20	réew	_	NOUN	_	_	19	mod	_	_
+21	mi	_	DET	_	_	20	det	_	_
+22	jox	_	VERB	_	_	23	comp:aux	_	_
+23	nañu	_	AUX	_	_	15	comp:obj	_	_
+24	leen	_	PRON	_	_	23	comp:obj	_	_
+25	ñaar	_	NUM	_	_	23	comp:obl	_	NoSpaceAfter=Yes
+26	,	_	PUNCT	_	_	27	punct	_	_
+27	ñett	_	NUM	_	_	25	conj	_	_
+28	ba	_	ADP	_	_	23	udep	_	_
+29	sax	_	ADV	_	_	28	mod	_	_
+30	lu	_	PRON	_	_	28	comp:obj	_	_
+31	ëpp	_	VERB	_	_	30	mod	_	_
+32	yooyu	_	PRON	_	_	31	comp:obj	_	_
+33	ciy	_	ADP	_	_	23	udep	_	_
+34	daamar	_	NOUN	_	_	33	comp:obj	_	_
+35	yu	_	PRON	_	_	36	subj	_	_
+36	bakkane	_	VERB	_	_	34	mod	_	_
+37	ci	_	ADP	_	_	36	udep	_	_
+38	tolluwaay	_	NOUN	_	_	37	comp:obj	_	NoSpaceAfter=Yes
+39	,	_	PUNCT	_	_	40	punct	_	_
+40	niki	_	ADP	_	_	34	udep	_	_
+41	4X4	_	NOUN	_	_	40	comp:obj	_	NoSpaceAfter=Yes
+42	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Masakhane-Wolof_dev_156
+# text = Ahã kay, kenn ku nekk ak bayaalu suufam, di def li mu mën.
+1	Ahã	_	INTJ	_	_	11	mod	_	_
+2	kay	_	INTJ	_	_	1	mod	_	NoSpaceAfter=Yes
+3	,	_	PUNCT	_	_	_	_	_	_
+4	kenn	_	PRON	_	_	11	subj	_	_
+5	ku	_	PRON	_	_	6	subj	_	_
+6	nekk	_	VERB	_	_	4	mod	_	_
+7	ak	_	ADP	_	_	6	udep	_	_
+8	bayaalu	_	NOUN	_	_	7	comp:obj	_	_
+9	suufam	_	NOUN	_	_	8	mod	_	NoSpaceAfter=Yes
+10	,	_	PUNCT	_	_	11	punct	_	_
+11	di	_	AUX	_	_	0	root	_	_
+12	def	_	VERB	_	_	11	comp:aux	_	_
+13	li	_	PRON	_	_	12	comp:obj	_	_
+14	mu	_	PRON	_	_	15	subj	_	_
+15	mën	_	VERB	_	_	13	comp:obj	_	NoSpaceAfter=Yes
+16	.	_	PUNCT	_	_	11	punct	_	_
+
